@@ -85,16 +85,16 @@ for l in range(0, len(armor_lists)):
 
 print "Num armor pieces after removing \"strictly-betters\": " + "/".join([str(len(x)) for x in armor_lists])
 
-#limit pieces for debugging purposes (so it doesn't take forever)
-armor_lists = [x[:20] for x in armor_lists]
-
 #generate list of all possible armor sets
 num_possible_armor_sets = product([len(x) for x in armor_lists])
 print "Generating a list of all %g possible armor sets..." % (num_possible_armor_sets)
 start_time = time.time()
 armor_sets = []
 max_weight = 0
+milestones = [int(float(x) / 50 * num_possible_armor_sets) for x in range(1, 50)]
 for i in range(0, num_possible_armor_sets):
+	if i in milestones:
+		print str(100 * (i + 1) / num_possible_armor_sets) + " percent done"
 	j = 1
 	armor_pieces = []
 	for armor_piece_list in armor_lists:
