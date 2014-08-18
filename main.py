@@ -47,14 +47,6 @@ def is_strictly_better(armor_piece_1, armor_piece_2):
 
 #create scoring rubrics
 scoring = [
-	# {
-	# 	'name': 'highest-poise',
-	# 	'weights': { 'poise': 1 }
-	# },
-	# {
-	# 	'name': 'highest-defense',
-	# 	'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1 }
-	# },
 	{
 		'name': 'best-overall',
 		'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1, 'poise': 35 }
