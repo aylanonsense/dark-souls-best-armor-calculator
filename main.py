@@ -1,7 +1,7 @@
 import csv
 import time
 
-def parse_armor(filepath):
+def parse_armor_list(filepath):
 	records = csv_to_dict(filepath)
 	for record in records:
 		for int_attr in [ 'curse', 'phys', 'fire', 'light', 'thr', 'poison', 'sls', 'dark', 'str', 'mag', 'dur', 'petrify', 'bleed' ]:
@@ -47,27 +47,27 @@ def is_strictly_better(armor_piece_1, armor_piece_2):
 
 #create scoring rubrics
 scoring = [
-	{
-		'name': 'highest-poise',
-		'weights': { 'poise': 1 }
-	},
-	{
-		'name': 'highest-defense',
-		'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1 }
-	},
+	# {
+	# 	'name': 'highest-poise',
+	# 	'weights': { 'poise': 1 }
+	# },
+	# {
+	# 	'name': 'highest-defense',
+	# 	'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1 }
+	# },
 	{
 		'name': 'best-overall',
-		'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1, 'poise': 15 }
+		'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1, 'poise': 35 }
 	}
 ]
 
 #load armor data
 #scaling, poise, curse, phys, name, weight, fire, light, thr, poison, sls, dark, effect, str, mag, reinforcement, dur, petrify, bleed, prerequisite
 armor_lists = [
-	parse_armor('head-armor.csv'),
-	parse_armor('chest-armor.csv'),
-	parse_armor('arm-armor.csv'),
-	parse_armor('leg-armor.csv')
+	parse_armor_list('head-armor.csv'),
+	parse_armor_list('chest-armor.csv'),
+	parse_armor_list('arm-armor.csv'),
+	parse_armor_list('leg-armor.csv')
 ]
 
 print "Num armor pieces: " + "/".join([str(len(x)) for x in armor_lists])
@@ -85,32 +85,21 @@ for l in range(0, len(armor_lists)):
 
 print "Num armor pieces after removing \"strictly-betters\": " + "/".join([str(len(x)) for x in armor_lists])
 
+for l in range(0, len(armor_lists)):
+	armor_piece_list = armor_lists[l]
+	for i in range(0, len(armor_piece_list)):
+		if 'FTH' in armor_piece_list[i]['prerequisite'] or 'INT' in armor_piece_list[i]['prerequisite'] or 'Black Witch' in armor_piece_list[i]['name']:
+			armor_piece_list[i] = None
+	armor_lists[l] = [x for x in armor_piece_list if x is not None]
+
+print "Num armor pieces after removing INT/FTH gear: " + "/".join([str(len(x)) for x in armor_lists])
+
 #generate list of all possible armor sets
 num_possible_armor_sets = product([len(x) for x in armor_lists])
-print "Generating a list of all %g possible armor sets..." % (num_possible_armor_sets)
-start_time = time.time()
-armor_sets = []
-max_weight = 0
 milestones = [int(float(x) / 50 * num_possible_armor_sets) for x in range(1, 50)]
-for i in range(0, num_possible_armor_sets):
-	if i in milestones:
-		print str(100 * (i + 1) / num_possible_armor_sets) + " percent done"
-	j = 1
-	armor_pieces = []
-	for armor_piece_list in armor_lists:
-		if len(armor_piece_list) > 0:
-			armor_pieces.append(armor_piece_list[(i / j) % len(armor_piece_list)])
-			j *= len(armor_piece_list)
-	armor_set = {
-		'pieces': armor_pieces,
-		'weight': sum([x['weight'] for x in armor_pieces])
-	}
-	max_weight = max(max_weight, armor_set['weight'])
-	armor_sets.append(armor_set)
-end_time = time.time()
-print "... done generating list! (took %g seconds)" % (end_time - start_time)
 
 for rubric in scoring:
+	max_weight = 0
 	print "Grading based on " + rubric['name']
 
 	print "  Scoring each individual piece of armor..."
@@ -126,7 +115,22 @@ for rubric in scoring:
 	print "  Picking top armor sets for each weight range..."
 	start_time = time.time()
 	top_armor_sets_by_weight = {}
-	for armor_set in armor_sets:
+	for i in range(0, num_possible_armor_sets):
+		if i in milestones:
+			print str(100 * (i + 1) / num_possible_armor_sets) + " percent done"
+		#generate a hypothetical armor set
+		j = 1
+		armor_pieces = []
+		for armor_piece_list in armor_lists:
+			if len(armor_piece_list) > 0:
+				armor_pieces.append(armor_piece_list[(i / j) % len(armor_piece_list)])
+				j *= len(armor_piece_list)
+		armor_set = {
+			'pieces': armor_pieces,
+			'weight': sum([x['weight'] for x in armor_pieces])
+		}
+		#now do stuff with each armor set
+		max_weight = max(max_weight, armor_set['weight'])
 		armor_set['score'] = sum([x['score'] for x in armor_set['pieces']])
 		armor_set_key = str(armor_set['weight'])
 		if armor_set_key in top_armor_sets_by_weight:
