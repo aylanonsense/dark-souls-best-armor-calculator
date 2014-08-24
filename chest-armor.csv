@@ -1,200 +1,198 @@
-Name,Phys,Str,Sls,Thr,Mag,Fire,Light,Dark,Poise,Poison,Bleed,Petrify,Curse,Dur,Weight,Scaling,Prerequisite,Reinforcement,Effect
-Agdayne's Black Robe,93,98,90,90,54,52,48,72,0,55,38,48,65,65,5.8,B,,Twinkling Titanite,
-Agdayne's Black Robe+5,139,147,135,135,81,79,72,108,0,83,57,72,98,65,5.8,B,,Twinkling Titanite,
-Alonne Captain Armor,162,153,171,162,34,53,23,34,38,17,38,0,0,90,15.6,A,,Titanite,Fire Defense +
-Alonne Captain Armor+10,324,305,343,324,68,106,45,68,38,34,75,0,0,90,15.6,A,,Titanite,Fire Defense +
-Alonne Knight Armor,152,146,161,152,27,45,22,27,34,14,32,0,0,80,14.2,A,,Titanite,
-Alonne Knight Armor+10,305,291,321,305,55,91,44,55,34,28,64,0,0,80,14.2,A,,Titanite,
-Alva Armor,89,85,92,86,25,27,19,26,15,26,35,0,0,80,8.8,A,,Titanite,
-Alva Armor+10,179,170,185,176,49,54,37,53,15,53,69,0,0,80,8.8,A,,Titanite,
-Archdrake Robes,89,89,89,89,28,27,47,27,13.5,24,20,0,0,80,9.8,A,,Titanite,
-Archdrake Robes+10,178,178,178,178,57,54,93,53,13.5,48,40,0,0,80,9.8,A,,Titanite,
-Armor of Aurous,122,118,128,123,43,42,30,46,18,34,44,0,0,80,10.1,A,,Twinkling Titanite,
-Armor of Aurous (Transparent),76,82,72,74,30,25,32,28,0,20,24,0,0,40,3.2,B,,Twinkling Titanite,Raises Equipment Load
-Armor of Aurous (Transparent)+5,115,123,109,111,45,37,48,41,0,31,36,0,0,40,3.2,B,,Twinkling Titanite,Raises Equipment Load
-Armor of Aurous+5,183,177,192,184,65,63,45,69,18,51,65,0,0,80,10.1,A,,Twinkling Titanite,
-Astrologist's Robes,60,63,58,58,44,30,30,37,0,19,19,0,0,50,5.1,B,,Titanite,
-Astrologist's Robes+10,121,126,117,117,87,60,60,74,0,38,37,0,0,50,5.1,B,,Titanite,
-Bandit Armor,67,66,69,64,20,21,17,20,5,14,21,0,0,60,6.2,B,,Titanite,
-Bandit Armor+10,133,133,137,128,40,41,33,40,5,29,42,0,0,60,6.2,B,,Titanite,
-Bell Keeper Bellyband,66,69,64,64,14,13,19,25,0,16,13,0,0,60,6,B,,Titanite,
-Bell Keeper Bellyband+10,131,138,128,128,28,26,37,50,0,32,26,0,0,60,6,B,,Titanite,
-Benhart's Armor,104,100,108,104,24,23,21,24,18,27,21,0,0,72,10.5,A,,Titanite,
-Benhart's Armor+10,208,200,216,208,48,46,41,48,18,54,42,0,0,72,10.5,A,,Titanite,
-Black Dragon Armor,125,121,127,125,18,39,19,18,12,23,32,26,26,225,14.5,A,"14 STR, 14 DEX",Petrified Dragon,
-Black Hollow Mage Robe,55,58,54,54,47,33,36,39,0,23,21,22,22,50,3.3,B,,Titanite,INT +1
-Black Hollow Mage Robe+10,110,117,109,109,94,67,72,79,0,46,42,43,43,50,3.3,B,,Titanite,INT +1
-Black Leather Armor,65,68,64,64,31,24,23,26,0,38,26,0,0,55,3.9,B,,Titanite,
-Black Leather Armor+10,131,135,128,128,62,47,45,51,0,75,51,0,0,55,3.9,B,,Titanite,
-Black Robes,67,72,64,64,73,49,49,49,0,30,26,39,35,55,2.6,B,16 INT,Twinkling Titanite,
-Black Robes+5,101,108,96,96,110,74,74,74,0,45,39,58,53,55,2.6,B,16 INT,Twinkling Titanite,
-Black Witch Robe,97,105,94,94,90,72,84,87,0,32,39,43,43,55,4.8,B,,Twinkling Titanite,
-Black Witch Robe+5,146,157,141,141,135,108,126,131,0,49,58,65,66,55,4.8,B,,Twinkling Titanite,
-Bone King Armor,71,77,68,68,45,50,41,63,0,36,23,28,45,65,3.5,B,,Twinkling Titanite,
-Bone King Armor+5,106,116,102,102,68,75,61,94,0,55,35,42,67,65,3.8,B,,Twinkling Titanite,
-Bringand Armor,57,62,56,53,28,22,21,24,0,23,23,0,0,60,3.1,B,,Titanite,
-Bringand Armor+10,113,124,111,105,56,45,42,48,0,46,46,0,0,60,3.1,B,,Titanite,
-Cale's Leather Armor,39,38,38,40,11,12,9,11,0,17,11,0,0,60,3,B,,Titanite,
-Cale's Leather Armor+10,78,77,77,80,22,23,19,22,0,34,21,0,0,60,3,B,,Titanite,
-Catarina Armor,149,149,173,149,32,35,21,32,25,25,41,0,0,95,11.7,A,,Twinkling Titanite,
-Catarina Armor+5,224,224,260,224,48,53,32,48,25,38,62,0,0,95,11.7,A,,Twinkling Titanite,
-Chaos Robe,67,72,64,64,49,73,49,49,0,30,26,39,35,55,2.6,B,"16 INT, 16 FTH",Twinkling Titanite,
-Chaos Robe+5,101,108,96,96,74,110,74,74,0,45,39,58,53,55,2.6,B,"16 INT, 16 FTH",Twinkling Titanite,
-Creighton's Chainmail,90,88,93,90,27,30,16,27,14.5,21,34,0,0,70,9.7,A,,Titanite,
-Creighton's Chainmail+10,180,176,187,180,54,60,31,54,14.5,42,67,0,0,70,9.7,A,,Titanite,
-Dark Armor,114,114,120,109,30,30,20,64,16,31,35,0,0,90,9.8,A,,Twinkling Titanite,
-Dark Armor+5,171,171,180,164,45,45,30,95,16,46,53,0,0,90,9.8,A,,Twinkling Titanite,
-Desert Sorceress Top,45,47,43,43,42,29,35,38,0,16,11,29,14,50,2.7,B,,Titanite,
-Desert Sorceress Top+10,89,93,87,87,83,57,69,75,0,32,21,58,27,50,2.7,B,,Titanite,
-Dingy Robe,54,61,51,51,33,27,31,31,0,20,23,46,46,40,3,B,,Titanite,
-Dingy Robe+10,108,122,101,101,65,55,62,62,0,41,46,92,92,40,3,B,,Titanite,
-Dragon Acolyte Robe,59,62,57,57,24,24,28,30,0,27,23,0,27,55,3.9,B,,Titanite,
-Dragon Acolyte Robe+10,118,124,115,115,48,48,56,60,0,55,45,0,54,55,3.9,B,,Titanite,
-Dragonrider Armor,242,226,252,242,27,25,28,27,40,26,33,0,0,95,16,A,,Twinkling Titanite,
-Dragonrider Armor+5,362,339,377,362,40,38,41,40,40,39,50,0,0,95,16,A,,Twinkling Titanite,
-Drakeblood Armor,200,190,214,204,34,42,22,37,22,34,44,0,0,85,12.5,A,,Titanite,
-Drakeblood Armor+10,249,237,267,255,50,62,33,55,22,50,66,0,0,85,12.5,A,,Titanite,
-Drakekeeper Armor,177,170,186,177,24,30,24,27,36,27,38,0,36,90,15.7,A,,Titanite,
-Drakekeeper Armor+10,353,340,371,353,54,59,49,54,36,54,75,0,72,90,15.7,A,,Titanite,
-Drangleic Mail,195,184,211,199,32,32,28,32,28,33,42,0,0,90,14.5,A,,Twinkling Titanite,
-Drangleic Mail+5,293,276,316,298,47,47,42,47,28,49,64,0,0,90,14.5,A,,Twinkling Titanite,
-Elite Knight Armor,104,101,114,104,29,32,21,29,15,24,34,0,0,85,11.7,A,,Titanite,
-Elite Knight Armor+10,202,202,229,207,59,36,43,58,15,49,69,0,0,85,11.7,A,,Titanite,
-Executioner Armor,93,85,99,96,21,23,15,50,7.5,17,64,0,45,65,6.7,B,,Twinkling Titanite,
-Executioner Armor+5,140,128,148,144,32,34,22,75,7.5,25,95,0,67,65,6.7,B,,Twinkling Titanite,
-Falconer Armor,77,78,71,71,22,19,25,22,12,24,19,0,0,75,7.7,B,,Titanite,
-Falconer Armor+10,147,156,142,142,44,37,50,44,12,48,39,0,0,75,7.7,B,,Titanite,
-Faraam Armor,124,118,133,126,28,30,18,28,24,24,33,0,0,85,12.6,A,,Titanite,
-Faraam Armor+10,249,235,265,253,56,61,37,56,24,48,65,0,0,85,12.6,A,,Titanite,
-Grave Warden Top,79,86,76,76,35,33,42,45,0,42,34,0,0,60,6,B,,Titanite,
-Grave Warden Top+10,158,172,152,152,69,66,84,89,0,85,69,0,0,60,6,B,,Titanite,
-Gyrm Armor,129,129,135,123,19,17,15,19,26,36,28,19,19,70,12.3,A,,Titanite,
-Gyrm Armor+10,258,258,269,246,37,34,30,37,26,73,56,39,39,70,12,A,,Titanite,
-Gyrm Warrior Armor,129,129,135,123,19,17,15,19,26,36,28,19,19,70,12.3,A,,Titanite,
-Gyrm Warrior Armor+10,258,258,269,246,37,34,30,37,26,73,56,39,36,70,12.3,A,,Titanite,
-Hard Leather Armor,68,71,66,67,21,14,26,22,0,26,24,0,0,65,7.2,B,,Titanite,
-Hard Leather Armor+10,135,141,132,133,42,28,53,44,0,52,47,0,0,65,7.2,B,,Titanite,
-Havel's Armor,291,255,328,291,42,45,38,42,47,17,69,33,33,255,19.5,A,20 STR,Twinkling Titanite,
-Havel's Armor+5,437,382,491,437,62,67,58,62,47,25,103,49,49,255,19.5,A,20 STR,Twinkling Titanite,
-Heide Knight Chainmail,108,101,115,108,18,24,16,33,20,36,27,0,28,90,10.9,A,,Titanite,
-Heide Knight Chainmail+10,215,202,230,215,37,47,32,65,20,70,53,0,57,90,10.9,A,,Titanite,
-Hexer's Robes,67,72,64,64,49,73,49,71,0,30,26,39,35,55,2.6,B,,Twinkling Titanite,
-Hexer's Robes+5,101,108,96,96,74,110,74,106,0,45,39,58,53,22,2.6,B,,Twinkling Titanite,
-Hollow Infantry Armor,46,47,45,45,10,8,12,10,0,10,10,0,0,40,5.9,B,,Titanite,
-Hollow Infantry Armor+10,91,94,90,90,20,10,24,20,0,20,20,0,0,40,5.9,B,,Titanite,
-Hollow Soldier Armor,69,66,73,70,22,23,15,22,7,18,21,0,0,35,8.6,A,,Titanite,
-Hollow Soldier Armor+10,138,132,146,139,44,46,31,44,7,37,42,0,0,35,8.6,A,,Titanite,
-Imperious Armor,160,154,169,160,33,28,23,30,30,27,34,26,26,85,14.7,A,,Titanite,
-Imperious Armor+10,321,308,338,321,66,55,46,66,30,54,68,53,53,85,14.7,A,,Titanite,
-Imported Tunic,47,53,45,45,14,12,17,14,0,17,19,0,0,35,6.5,B,,Titanite,
-Imported Tunic+10,95,105,90,90,28,24,33,28,0,34,38,0,0,35,6.5,B,,Titanite,
-Infantry Armor,57,59,55,55,14,13,18,14,0,15,15,0,0,55,5.9,B,,Titanite,
-Infantry Armor+10,113,118,111,111,28,26,36,28,0,29,29,0,0,55,5.9,B,,Titanite,
-Insolent Armor,85,81,91,85,22,22,27,20,16,19,26,21,21,75,9.8,A,,Titanite,
-Insolent Armor+10,171,162,183,171,44,44,54,40,16,39,51,42,42,75,9.8,A,,Titanite,
-Ironclad Armor,171,15,182,171,27,29,19,27,32,15,47,0,0,90,29.8,A,STR 14,Titanite,Nulfies Critical Hits
-Ironclad Armor+10,343,317,365,343,54,59,38,54,32,30,93,0,0,90,29.8,A,STR 14,Titanite,Nulfies Critical Hits
-Jester's Robes,66,70,63,63,37,37,37,37,0,40,30,39,26,45,5.7,B,14 DEX,Titanite,Nulify Critical Hits
-Jester's Robes+10,131,139,127,127,74,74,74,74,0,80,60,77,52,45,5.7,B,14 DEX,Titanite,Nulify Critical Hits
-King's Armor,143,136,151,143,48,48,38,34,16.5,54,49,53,0,120,12,A,"14 STR, 12 DEX",Twinkling Titanite,
-King's Armor+5,215,204,227,215,72,72,57,51,16.5,81,74,80,0,120,12,A,"14 STR, 12 DEX",Twinkling Titanite,
-Knight Armor,92,89,104,92,27,29,20,27,20,24,34,0,0,80,10.9,A,,Titanite,
-Knight Armor+10,184,178,209,184,55,59,39,55,20,49,69,0,0,80,10.9,A,,Titanite,
-Leather Armor,65,69,63,63,24,15,31,26,0,26,22,0,0,60,4.7,B,,Titanite,
-Leather Armor+10,130,138,126,126,47,30,62,51,0,53,44,0,0,60,4.7,B,,Titanite,
-Leydia Black Robe,70,77,66,66,48,33,29,63,0,35,33,27,43,50,3.5,B,,Twinkling Titanite,
-Leydia Black Robe+5,105,116,100,100,72,50,43,95,0,53,50,40,64,50,3.5,B,,Twinkling Titanite,
-Leydia White Robe,48,53,46,46,32,32,27,41,0,23,21,18,28,50,3.5,B,,Titanite,
-Leydia White Robe+10,96,106,92,92,64,64,54,82,0,46,43,35,55,50,3.5,B,,Titanite,
-Lion Mage Robe,39,41,36,36,37,30,31,32,0,17,17,20,45,40,2.2,B,,Titanite,Casting Speed +
-Lion Mage Robe+10,79,83,72,72,74,60,62,74,0,34,34,40,90,40,2.2,B,,Titanite,Casting Speed +
-Lion Warrior Cape,28,29,28,28,12,11,11,22,0,8,8,21,40,55,1.5,B,,Titanite,Reduces Falling Damage
-Lion Warrior Cape+10,56,58,55,55,24,23,23,43,0,16,15,43,81,55,1.5,B,,Titanite,Reduces Falling Damage
-Llewellyn Armor,120,112,124,121,38,46,29,38,0,39,55,22,22,85,6.8,B,,Twinkling Titanite,
-Llewellyn Armor+5,180,167,186,182,58,69,44,58,0,59,82,33,33,85,6.8,B,,Twinkling Titanite,
-Looking Glass Armor,262,232,295,262,36,40,60,36,40,34,64,0,0,150,18.3,A,16 STR,Twinkling Titanite,
-Looking Glass Armor+5,393,347,443,393,54,60,89,54,40,51,96,0,0,150,18.3,A,16 STR,Twinkling Titanite,
-Lucatiel's Vest,76,82,74,74,42,37,46,42,0,33,26,14,27,65,6,B,,Titanite,
-Lucatiel's Vest+10,153,164,147,147,84,75,91,84,0,65,51,27,54,65,6,B,,Titanite,
-Mad Warrior Armor,171,171,180,163,28,27,21,28,25,36,36,33,33,75,12.5,A,,Twinkling Titanite,
-Mad Warrior Armor+5,257,257,270,245,42,40,31,42,25,53,53,49,49,75,12.5,A,,Twinkling Titanite,
-Manikin Top,46,49,44,44,23,22,28,29,0,27,36,12,0,65,2.3,B,,Titanite,
-Manikin Top+10,92,97,88,88,47,44,55,57,0,54,75,24,0,65,2.3,B,,Titanite,
-Mastodon Armor,198,184,211,198,26,28,17,26,35,33,37,0,0,90,17.7,A,16 STR,Titanite,
-Mastodon Armor+10,395,369,421,395,51,56,34,51,35,65,74,0,0,90,17.7,A, 16 STR,Titanite,
-Monastery Longshirt,40,42,37,37,35,26,23,26,0,44,28,25,30,55,1.6,B,,Twinkling Titanite,
-Monastery Longshirt+5,60,63,55,55,53,39,34,38,0,66,42,37,44,55,1.6,B,,Twinkling Titanite,
-Moon Butterfly Wings,48,52,45,45,25,16,25,21,0,46,20,26,28,35,1.4,B,,Twinkling Titanite,"Jump +, Fall Damage - "
-Moon Butterfly Wings+5,72,79,68,68,37,25,38,32,0,68,29,39,42,35,1.4,B,,Twinkling Titanite,"Jump +, Fall Damage - "
-Nahr Alma Robes,44,47,43,43,25,21,23,44,0,22,22,29,29,50,3.5,B,,Titanite,Aquired Souls +
-Nahr Alma Robes+10,89,95,87,87,49,42,46,88,0,44,44,57,57,50,3.5,B,,Titanite,Aquired Souls +
-Old Ironclad Armor,150,139,161,150,22,24,17,22,28,12,38,0,0,45,29.8,A,STR 14,Titanite,
-Old Ironclad Armor+10,301,279,323,301,43,47,34,43,28,25,75,0,0,45,29.8,A,STR 14,Titanite,
-Old Knight Armor,181,170,189,181,20,20,15,20,40,16,34,0,0,20,16.4,A,,Titanite,
-Old Knight Armor+10,363,340,377,363,40,40,30,40,40,32,68,0,0,20,16.4,A,,Titanite,
-Pate's Armor,65,67,63,63,21,14,26,22,0,23,21,0,0,70,5.9,B,,Titanite,
-Pate's Armor+10,130,135,127,127,42,28,53,44,0,46,41,0,0,70,5.9,B,,Titanite,
-Peasant Attire,25,28,24,24,12,13,16,11,0,18,15,0,0,45,3.8,B,,Titanite,
-Peasant Attire+10,50,55,48,48,23,25,31,23,0,36,29,0,0,45,3.8,B,,Titanite,
-Penal Straighjacket,75,77,77,70,31,39,28,35,0,12,9,25,32,55,6.2,B,,Twinkling Titanite,
-Penal Straighjacket+5,113,116,116,105,47,58,42,52,0,18,14,37,48,55,6.2,B,,Twinkling Titanite,
-Priestess Robe,53,55,52,52,33,33,46,37,0,22,21,26,26,50,2.8,B,,Titanite,
-Priestess Robe+10,106,110,104,104,66,65,91,73,0,44,42,52,52,50,2.8,B,,Titanite,
-Prisoner's Tatters,11,12,10,10,11,12,16,13,0,13,10,0,0,25,2.2,B,,Titanite,Item Discovery +
-Prisoner's Tatters (2),11,12,11,11,11,11,17,13,0,13,10,0,0,25,2.2,B,,Titanite,Item Discovery +
-Prisoner's Tatters (2)+10,22,25,21,21,23,23,33,26,0,26,19,0,0,25,2.2,B,,Titanite,Item Discovery +
-Prisoner's Tatters+10,22,25,21,21,23,23,33,26,0,26,19,0,0,25,2.2,B,,Titanite,Item Discovery +
-Red Lion Warrior Cape,34,35,33,33,16,15,15,29,0,12,11,24,47,55,1.5,B,,Titanite,Reduces Falling Damage
-Red Lion Warrior Cape+10,68,71,66,66,32,30,30,53,0,24,23,47,95,55,1.5,B,,Titanite,Reduces Falling Damage
-Robe of Judgment,77,82,74,74,39,32,27,35,0,21,22,0,43,50,3.9,B,,Twinkling Titanite,
-Robe of Judgment+5,115,123,111,111,59,48,41,52,0,31,33,0,64,50,3.9,B,,Twinkling Titanite,
-Rogue Armor,56,54,56,56,18,21,20,24,0,21,20,0,0,55,3.5,B,,Titanite,
-Rogue Armor+10,111,108,113,113,35,42,40,47,0,42,40,0,0,55,3.5,B,,Titanite,
-Royal Soldier Armor,79,74,82,80,24,25,17,24,16,21,23,0,0,70,9.2,A,,Titanite,
-Royal Soldier Armor+10,157,149,164,160,49,50,33,49,16,42,47,0,0,70,9.2,A,,Titanite,
-Royal Swordsman Armor,101,88,112,105,23,29,16,23,18,13,29,0,0,75,11.2,A,,Titanite,
-Royal Swordsman Armor+10,201,176,223,210,46,59,31,46,18,27,59,0,0,75,11.2,A,,Titanite,
-Ruin Armor,139,126,150,142,33,37,22,33,18,20,44,57,0,105,10.5,A,,Twinkling Titanite,
-Ruin Armor+5,209,189,224,213,49,55,33,49,18,29,66,86,0,105,10.5,A,,Twinkling Titanite,
-Rusted Mastodon Armor,156,146,167,156,21,22,14,21,28,26,30,0,0,40,15.9,A,14 STR,Titanite,
-Rusted Mastodon Armor+10,312,291,334,312,41,45,27,41,28,52,60,0,0,40,15.9,A,14 STR,Titanite,
-Saint's Dress,67,72,64,64,49,49,61,49,0,30,26,57,53,55,2.6,B,16 FTH,Twinkling Titanite,
-Saint's Dress+5,101,108,96,96,74,74,91,74,0,45,39,86,79,55,2.6,B,16 FTH,Twinkling Titanite,
-Sanctum Knight Armor,236,220,254,238,30,30,27,31,9,30,44,0,0,90,14.4,A,,Twinkling Titanite,
-Sanctum Knight Armor+5,295,275,317,297,45,45,40,46,9,0,0,0,0,90,14.4,A,,Twinkling Titanite,
-Shadow Top,48,55,43,43,26,29,27,35,0,39,30,25,0,60,2.6,B,,Titanite,
-Shadow Top+10,97,109,87,87,52,59,54,70,0,77,60,49,0,60,2.6,B,,Titanite,
-Singer's Dress,30,33,29,29,45,35,41,41,0,31,23,43,43,40,2.6,B,,Twinkling Titanite,
-Singer's Dress+5,45,49,43,43,68,53,62,62,0,47,35,65,65,40,2.6,B,,Twinkling Titanite,
-Smelter Demon Armor,252,255,304,186,35,66,33,35,39,24,54,36,36,160,17.6,A,16 STR,Twinkling Titanite,
-Smelter Demon Armor+5,379,382,456,279,53,100,50,53,39,36,82,54,54,160,17.6,A,16 STR,Twinkling Titanite,
-Steel Armor,160,153,171,160,24,26,19,24,32,22,36,0,0,100,14,A,,Titanite,
-Steel Armor+10,321,306,342,321,49,52,37,49,32,44,72,0,0,100,14,A,,Titanite,
-Syan's Armor,137,123,146,139,26,35,15,26,23,16,45,0,0,85,13.8,A,,Titanite,
-Syan's Armor+10,273,246,291,279,53,70,31,53,23,31,91,0,0,85,13.8,A,,Titanite,
-Targray's Armor,89,83,96,89,22,22,18,25,17,27,30,0,0,75,9.8,A,,Titanite,
-Targray's Armor+10,178,166,193,178,44,44,36,49,17,54,59,0,0,75,9.8,A,,Titanite,
-Tattered Cloth Robe,50,53,48,48,26,36,24,26,0,43,15,0,10,55,2.7,B,,Titanite,
-Tattered Cloth Robe+10,100,105,97,97,53,72,47,53,0,87,30,0,19,55,2.7,B,,Titanite,
-Throne Defender Armor,189,181,195,189,38,42,22,38,25,26,44,0,0,100,13.8,A,,Twinkling Titanite,
-Throne Defender Armor+5,283,272,292,284,57,53,34,57,25,40,66,0,0,100,13.8,A,,Twinkling Titanite,
-Throne Watcher Armor,139,132,150,139,61,39,31,39,16,31,37,0,0,95,11.2,A,,Twinkling Titanite,
-Throne Watcher Armor+5,209,198,225,209,91,59,47,59,16,47,56,0,0,95,11.2,A,,Twinkling Titanite,
-Traveling Merchant Coat,74,79,72,72,21,23,25,21,0,26,29,0,0,60,7.7,B,,Titanite,
-Traveling Merchant Coat+10,148,158,143,143,42,46,49,42,0,52,59,0,0,60,7.7,B,,Titanite,
-Tseldora Robe,22,24,21,21,10,11,13,9,0,10,11,0,0,40,3,B,,Titanite,Aquired Souls +
-Tseldora Robe+10,44,48,42,42,20,21,26,19,0,20,21,0,0,40,3,B,,Titanite,Aquired Souls +
-Varangian Armor,67,71,66,66,22,16,25,22,0,26,23,0,0,55,5.1,B,,Titanite,
-Varangian Armor+10,135,142,132,132,43,31,51,43,0,52,47,0,0,55,5.1,B,,Titanite,
-Velstadt's Armor,229,209,242,238,35,36,21,73,28,26,63,37,48,140,15.2,A,,Twinkling Titanite,
-Velstadt's Armor+5,343,314,363,356,52,54,31,109,28,38,94,55,71,140,15.2,A,,Twinkling Titanite,
-Vengarl's Armor,219,207,234,219,34,42,30,34,34,32,40,0,0,85,15.1,A,,Twinkling Titanite,
-Vengarl's Armor+5,329,311,351,329,52,64,45,52,34,47,59,0,0,85,15.1,A,,Twinkling Titanite,
-Wanderer Coat,58,56,58,59,19,25,28,20,0,22,35,0,0,50,3.5,B,,Titanite,
-Wanderer Coat+10,115,111,117,118,38,50,56,40,0,43,70,0,0,50,3.5,B,,Titanite,
-White Hollow Mage Robe,52,54,51,51,44,32,33,37,0,21,19,30,30,50,2.8,B,,Titanite,INT +1
-White Hollow Mage Robe+10,105,109,102,102,88,63,66,73,0,41,39,60,60,50,2.8,B,,Titanite,INT +1
-White Priest Robe,55,58,54,54,33,33,43,37,0,23,21,21,21,50,3.3,B,,Titanite,
-White Priest Robe+10,111,116,108,108,66,66,86,73,0,45,43,42,42,50,3.3,B,,Titanite,
-Xanthous Overcoat,52,60,52,45,39,10,25,30,0,23,21,0,0,60,3.9,B,,Twinkling Titanite,
-Xanthous Overcoat+5,78,89,78,67,59,15,37,46,0,35,31,0,0,60,3.9,B,,Twinkling Titanite,
+Name,Phys,Str,Sls,Thr,Mag,Fire,Light,Dark,Poise,Poison,Bleed,Petrify,Curse,Dur,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
+Agdayne's Black Robe,93,98,90,90,54,52,48,72,0,55,38,48,65,65,5.8,B,,Twinkling Titanite,,Agdayne's
+Agdayne's Black Robe+5,139,147,135,135,81,79,72,108,0,83,57,72,98,65,5.8,B,,Twinkling Titanite,,Agdayne's
+Alonne Captain Armor,162,153,171,162,34,53,23,34,38,17,38,0,0,90,15.6,A,,Titanite,Fire Defense +,Alonne Captain
+Alonne Captain Armor+10,324,305,343,324,68,106,45,68,38,34,75,0,0,90,15.6,A,,Titanite,Fire Defense +,Alonne Captain
+Alonne Knight Armor,152,146,161,152,27,45,22,27,34,14,32,0,0,80,14.2,A,,Titanite,,Alonne Knight
+Alonne Knight Armor+10,305,291,321,305,55,91,44,55,34,28,64,0,0,80,14.2,A,,Titanite,,Alonne Knight
+Alva Armor,89,85,92,86,25,27,19,26,15,26,35,0,0,80,8.8,A,,Titanite,,Alva
+Alva Armor+10,179,170,185,176,49,54,37,53,15,53,69,0,0,80,8.8,A,,Titanite,,Alva
+Archdrake Robes,89,89,89,89,28,27,47,27,13.5,24,20,0,0,80,9.8,A,,Titanite,,Archdrake
+Archdrake Robes+10,178,178,178,178,57,54,93,53,13.5,48,40,0,0,80,9.8,A,,Titanite,,Archdrake
+Armor of Aurous,122,118,128,123,43,42,30,46,18,34,44,0,0,80,10.1,A,,Twinkling Titanite,,Aurous
+Armor of Aurous (transparent),76,82,72,74,30,25,32,28,0,20,24,0,0,40,3.2,B,,Twinkling Titanite,Raises Equipment Load,Aurous (transparent)
+Armor of Aurous (transparent)+5,115,123,109,111,45,37,48,41,0,31,36,0,0,40,3.2,B,,Twinkling Titanite,Raises Equipment Load,Aurous (transparent)
+Armor of Aurous+5,183,177,192,184,65,63,45,69,18,51,65,0,0,80,10.1,A,,Twinkling Titanite,,Aurous
+Astrologist's Robes,60,63,58,58,44,30,30,37,0,19,19,0,0,50,5.1,B,,Titanite,,Astrologist's
+Astrologist's Robes+10,121,126,117,117,87,60,60,74,0,38,37,0,0,50,5.1,B,,Titanite,,Astrologist's
+Bandit Armor,67,66,69,64,20,21,17,20,5,14,21,0,0,60,6.2,B,,Titanite,,Bandit
+Bandit Armor+10,133,133,137,128,40,41,33,40,5,29,42,0,0,60,6.2,B,,Titanite,,Bandit
+Bell Keeper Bellyband,66,69,64,64,14,13,19,25,0,16,13,0,0,60,6,B,,Titanite,,Bell Keeper
+Bell Keeper Bellyband+10,131,138,128,128,28,26,37,50,0,32,26,0,0,60,6,B,,Titanite,,Bell Keeper
+Benhart's Armor,104,100,108,104,24,23,21,24,18,27,21,0,0,72,10.5,A,,Titanite,,Benhart's
+Benhart's Armor+10,208,200,216,208,48,46,41,48,18,54,42,0,0,72,10.5,A,,Titanite,,Benhart's
+Black Dragon Armor,125,121,127,125,18,39,19,18,12,23,32,26,26,225,14.5,A,"14 STR, 14 DEX",Petrified Dragon,,Black Dragon
+Black Hollow Mage Robe,55,58,54,54,47,33,36,39,0,23,21,22,22,50,3.3,B,,Titanite,INT +1,Black Hollow Mage
+Black Hollow Mage Robe+10,110,117,109,109,94,67,72,79,0,46,42,43,43,50,3.3,B,,Titanite,INT +1,Black Hollow Mage
+Black Leather Armor,65,68,64,64,31,24,23,26,0,38,26,0,0,55,3.9,B,,Titanite,,Black Leather
+Black Leather Armor+10,131,135,128,128,62,47,45,51,0,75,51,0,0,55,3.9,B,,Titanite,,Black Leather
+Black Robes,67,72,64,64,73,49,49,49,0,30,26,39,35,55,2.6,B,16 INT,Twinkling Titanite,,Black
+Black Robes+5,101,108,96,96,110,74,74,74,0,45,39,58,53,55,2.6,B,16 INT,Twinkling Titanite,,Black
+Black Witch Robe,97,105,94,94,90,72,84,87,0,32,39,43,43,55,4.8,B,,Twinkling Titanite,,Black Witch
+Black Witch Robe+5,146,157,141,141,135,108,126,131,0,49,58,65,66,55,4.8,B,,Twinkling Titanite,,Black Witch
+Bone King Armor,71,77,68,68,45,50,41,63,0,36,23,28,45,65,3.5,B,,Twinkling Titanite,,Bone King
+Bone King Armor+5,106,116,102,102,68,75,61,94,0,55,35,42,67,65,3.8,B,,Twinkling Titanite,,Bone King
+Brigand Armor,57,62,56,53,28,22,21,24,0,23,23,0,0,60,3.1,B,,Titanite,,Brigand
+Brigand Armor+10,113,124,111,105,56,45,42,48,0,46,46,0,0,60,3.1,B,,Titanite,,Brigand
+Cale's Leather Armor,39,38,38,40,11,12,9,11,0,17,11,0,0,60,3,B,,Titanite,,Cale's
+Cale's Leather Armor+10,78,77,77,80,22,23,19,22,0,34,21,0,0,60,3,B,,Titanite,,Cale's
+Catarina Armor,149,149,173,149,32,35,21,32,25,25,41,0,0,95,11.7,A,,Twinkling Titanite,,Catarina
+Catarina Armor+5,224,224,260,224,48,53,32,48,25,38,62,0,0,95,11.7,A,,Twinkling Titanite,,Catarina
+Chaos Robe,67,72,64,64,49,73,49,49,0,30,26,39,35,55,2.6,B,"16 INT, 16 FTH",Twinkling Titanite,,Chaos
+Chaos Robe+5,101,108,96,96,74,110,74,74,0,45,39,58,53,55,2.6,B,"16 INT, 16 FTH",Twinkling Titanite,,Chaos
+Creighton's Chainmail,90,88,93,90,27,30,16,27,14.5,21,34,0,0,70,9.7,A,,Titanite,,Creighton's
+Creighton's Chainmail+10,180,176,187,180,54,60,31,54,14.5,42,67,0,0,70,9.7,A,,Titanite,,Creighton's
+Dark Armor,114,114,120,109,30,30,20,64,16,31,35,0,0,90,9.8,A,,Twinkling Titanite,,Dark
+Dark Armor+5,171,171,180,164,45,45,30,95,16,46,53,0,0,90,9.8,A,,Twinkling Titanite,,Dark
+Desert Sorceress Top,45,47,43,43,42,29,35,38,0,16,11,29,14,50,2.7,B,,Titanite,,Desert Sorceress
+Desert Sorceress Top+10,89,93,87,87,83,57,69,75,0,32,21,58,27,50,2.7,B,,Titanite,,Desert Sorceress
+Dingy Robe,54,61,51,51,33,27,31,31,0,20,23,46,46,40,3,B,,Titanite,,Dingy
+Dingy Robe+10,108,122,101,101,65,55,62,62,0,41,46,92,92,40,3,B,,Titanite,,Dingy
+Dragon Acolyte Robe,59,62,57,57,24,24,28,30,0,27,23,0,27,55,3.9,B,,Titanite,,Dragon Acolyte
+Dragon Acolyte Robe+10,118,124,115,115,48,48,56,60,0,55,45,0,54,55,3.9,B,,Titanite,,Dragon Acolyte
+Dragonrider Armor,242,226,252,242,27,25,28,27,40,26,33,0,0,95,16,A,,Twinkling Titanite,,Dragonrider
+Dragonrider Armor+5,362,339,377,362,40,38,41,40,40,39,50,0,0,95,16,A,,Twinkling Titanite,,Dragonrider
+Drakeblood Armor,200,190,214,204,34,42,22,37,22,34,44,0,0,85,12.5,A,,Titanite,,Drakeblood
+Drakeblood Armor+10,249,237,267,255,50,62,33,55,22,50,66,0,0,85,12.5,A,,Titanite,,Drakeblood
+Drakekeeper Armor,177,170,186,177,24,30,24,27,36,27,38,0,36,90,15.7,A,,Titanite,,Drakekeeper
+Drakekeeper Armor+10,353,340,371,353,54,59,49,54,36,54,75,0,72,90,15.7,A,,Titanite,,Drakekeeper
+Drangleic Mail,195,184,211,199,32,32,28,32,28,33,42,0,0,90,14.5,A,,Twinkling Titanite,,Drangleic Mail
+Drangleic Mail+5,293,276,316,298,47,47,42,47,28,49,64,0,0,90,14.5,A,,Twinkling Titanite,,Drangleic Mail
+Elite Knight Armor,104,101,114,104,29,32,21,29,15,24,34,0,0,85,11.7,A,,Titanite,,Elite Knight
+Elite Knight Armor+10,202,202,229,207,59,36,43,58,15,49,69,0,0,85,11.7,A,,Titanite,,Elite Knight
+Executioner Armor,93,85,99,96,21,23,15,50,7.5,17,64,0,45,65,6.7,B,,Twinkling Titanite,,Executioner
+Executioner Armor+5,140,128,148,144,32,34,22,75,7.5,25,95,0,67,65,6.7,B,,Twinkling Titanite,,Executioner
+Falconer Armor,77,78,71,71,22,19,25,22,12,24,19,0,0,75,7.7,B,,Titanite,,Falconer
+Falconer Armor+10,147,156,142,142,44,37,50,44,12,48,39,0,0,75,7.7,B,,Titanite,,Falconer
+Faraam Armor,124,118,133,126,28,30,18,28,24,24,33,0,0,85,12.6,A,,Titanite,,Faraam
+Faraam Armor+10,249,235,265,253,56,61,37,56,24,48,65,0,0,85,12.6,A,,Titanite,,Faraam
+Grave Warden Top,79,86,76,76,35,33,42,45,0,42,34,0,0,60,6,B,,Titanite,,Grave Warden
+Grave Warden Top+10,158,172,152,152,69,66,84,89,0,85,69,0,0,60,6,B,,Titanite,,Grave Warden
+Gyrm Armor,129,129,135,123,19,17,15,19,26,36,28,19,19,70,12.3,A,,Titanite,,Gyrm
+Gyrm Armor+10,258,258,269,246,37,34,30,37,26,73,56,39,39,70,12,A,,Titanite,,Gyrm
+Gyrm Warrior Armor,129,129,135,123,19,17,15,19,26,36,28,19,19,70,12.3,A,,Titanite,,Gyrm Warrior
+Gyrm Warrior Armor+10,258,258,269,246,37,34,30,37,26,73,56,39,36,70,12.3,A,,Titanite,,Gyrm Warrior
+Hard Leather Armor,68,71,66,67,21,14,26,22,0,26,24,0,0,65,7.2,B,,Titanite,,Hard Leather
+Hard Leather Armor+10,135,141,132,133,42,28,53,44,0,52,47,0,0,65,7.2,B,,Titanite,,Hard Leather
+Havel's Armor,291,255,328,291,42,45,38,42,47,17,69,33,33,255,19.5,A,20 STR,Twinkling Titanite,,Havel's
+Havel's Armor+5,437,382,491,437,62,67,58,62,47,25,103,49,49,255,19.5,A,20 STR,Twinkling Titanite,,Havel's
+Heide Knight Chainmail,108,101,115,108,18,24,16,33,20,36,27,0,28,90,10.9,A,,Titanite,,Heide Knight
+Heide Knight Chainmail+10,215,202,230,215,37,47,32,65,20,70,53,0,57,90,10.9,A,,Titanite,,Heide Knight
+Hexer's Robes,67,72,64,64,49,73,49,71,0,30,26,39,35,55,2.6,B,,Twinkling Titanite,,Hexer's
+Hexer's Robes+5,101,108,96,96,74,110,74,106,0,45,39,58,53,22,2.6,B,,Twinkling Titanite,,Hexer's
+Hollow Infantry Armor,46,47,45,45,10,8,12,10,0,10,10,0,0,40,5.9,B,,Titanite,,Hollow Infantry
+Hollow Infantry Armor+10,91,94,90,90,20,10,24,20,0,20,20,0,0,40,5.9,B,,Titanite,,Hollow Infantry
+Hollow Soldier Armor,69,66,73,70,22,23,15,22,7,18,21,0,0,35,8.6,A,,Titanite,,Hollow Soldier
+Hollow Soldier Armor+10,138,132,146,139,44,46,31,44,7,37,42,0,0,35,8.6,A,,Titanite,,Hollow Soldier
+Imperious Armor,160,154,169,160,33,28,23,30,30,27,34,26,26,85,14.7,A,,Titanite,,Imperious
+Imperious Armor+10,321,308,338,321,66,55,46,66,30,54,68,53,53,85,14.7,A,,Titanite,,Imperious
+Imported Tunic,47,53,45,45,14,12,17,14,0,17,19,0,0,35,6.5,B,,Titanite,,Imported
+Imported Tunic+10,95,105,90,90,28,24,33,28,0,34,38,0,0,35,6.5,B,,Titanite,,Imported
+Infantry Armor,57,59,55,55,14,13,18,14,0,15,15,0,0,55,5.9,B,,Titanite,,Infantry
+Infantry Armor+10,113,118,111,111,28,26,36,28,0,29,29,0,0,55,5.9,B,,Titanite,,Infantry
+Insolent Armor,85,81,91,85,22,22,27,20,16,19,26,21,21,75,9.8,A,,Titanite,,Insolent
+Insolent Armor+10,171,162,183,171,44,44,54,40,16,39,51,42,42,75,9.8,A,,Titanite,,Insolent
+Ironclad Armor,171,15,182,171,27,29,19,27,32,15,47,0,0,90,29.8,A,STR 14,Titanite,Nulfies Critical Hits,Ironclad
+Ironclad Armor+10,343,317,365,343,54,59,38,54,32,30,93,0,0,90,29.8,A,STR 14,Titanite,Nulfies Critical Hits,Ironclad
+Jester's Robes,66,70,63,63,37,37,37,37,0,40,30,39,26,45,5.7,B,14 DEX,Titanite,Nulify Critical Hits,Jester's
+Jester's Robes+10,131,139,127,127,74,74,74,74,0,80,60,77,52,45,5.7,B,14 DEX,Titanite,Nulify Critical Hits,Jester's
+King's Armor,143,136,151,143,48,48,38,34,16.5,54,49,53,0,120,12,A,"14 STR, 12 DEX",Twinkling Titanite,,King's
+King's Armor+5,215,204,227,215,72,72,57,51,16.5,81,74,80,0,120,12,A,"14 STR, 12 DEX",Twinkling Titanite,,King's
+Knight Armor,92,89,104,92,27,29,20,27,20,24,34,0,0,80,10.9,A,,Titanite,,Knight
+Knight Armor+10,184,178,209,184,55,59,39,55,20,49,69,0,0,80,10.9,A,,Titanite,,Knight
+Leather Armor,65,69,63,63,24,15,31,26,0,26,22,0,0,60,4.7,B,,Titanite,,Leather
+Leather Armor+10,130,138,126,126,47,30,62,51,0,53,44,0,0,60,4.7,B,,Titanite,,Leather
+Leydia Black Robe,70,77,66,66,48,33,29,63,0,35,33,27,43,50,3.5,B,,Twinkling Titanite,,Leydia Black
+Leydia Black Robe+5,105,116,100,100,72,50,43,95,0,53,50,40,64,50,3.5,B,,Twinkling Titanite,,Leydia Black
+Leydia White Robe,48,53,46,46,32,32,27,41,0,23,21,18,28,50,3.5,B,,Titanite,,Leydia White
+Leydia White Robe+10,96,106,92,92,64,64,54,82,0,46,43,35,55,50,3.5,B,,Titanite,,Leydia White
+Lion Mage Robe,39,41,36,36,37,30,31,32,0,17,17,20,45,40,2.2,B,,Titanite,Casting Speed +,Lion Mage
+Lion Mage Robe+10,79,83,72,72,74,60,62,74,0,34,34,40,90,40,2.2,B,,Titanite,Casting Speed +,Lion Mage
+Lion Warrior Cape,28,29,28,28,12,11,11,22,0,8,8,21,40,55,1.5,B,,Titanite,Reduces Falling Damage,Lion Warrior Cape
+Lion Warrior Cape+10,56,58,55,55,24,23,23,43,0,16,15,43,81,55,1.5,B,,Titanite,Reduces Falling Damage,Lion Warrior Cape
+Llewellyn Armor,120,112,124,121,38,46,29,38,0,39,55,22,22,85,6.8,B,,Twinkling Titanite,,Llewellyn
+Llewellyn Armor+5,180,167,186,182,58,69,44,58,0,59,82,33,33,85,6.8,B,,Twinkling Titanite,,Llewellyn
+Looking Glass Armor,262,232,295,262,36,40,60,36,40,34,64,0,0,150,18.3,A,16 STR,Twinkling Titanite,,Looking Glass
+Looking Glass Armor+5,393,347,443,393,54,60,89,54,40,51,96,0,0,150,18.3,A,16 STR,Twinkling Titanite,,Looking Glass
+Lucatiel's Vest,76,82,74,74,42,37,46,42,0,33,26,14,27,65,6,B,,Titanite,,Lucatiel's Vest
+Lucatiel's Vest+10,153,164,147,147,84,75,91,84,0,65,51,27,54,65,6,B,,Titanite,,Lucatiel's Vest
+Mad Warrior Armor,171,171,180,163,28,27,21,28,25,36,36,33,33,75,12.5,A,,Twinkling Titanite,,Mad Warrior
+Mad Warrior Armor+5,257,257,270,245,42,40,31,42,25,53,53,49,49,75,12.5,A,,Twinkling Titanite,,Mad Warrior
+Manikin Top,46,49,44,44,23,22,28,29,0,27,36,12,0,65,2.3,B,,Titanite,,Manikin
+Manikin Top+10,92,97,88,88,47,44,55,57,0,54,75,24,0,65,2.3,B,,Titanite,,Manikin
+Mastodon Armor,198,184,211,198,26,28,17,26,35,33,37,0,0,90,17.7,A,16 STR,Titanite,,Mastodon
+Mastodon Armor+10,395,369,421,395,51,56,34,51,35,65,74,0,0,90,17.7,A, 16 STR,Titanite,,Mastodon
+Monastery Longshirt,40,42,37,37,35,26,23,26,0,44,28,25,30,55,1.6,B,,Twinkling Titanite,,Monastery Longshirt
+Monastery Longshirt+5,60,63,55,55,53,39,34,38,0,66,42,37,44,55,1.6,B,,Twinkling Titanite,,Monastery Longshirt
+Moon Butterfly Wings,48,52,45,45,25,16,25,21,0,46,20,26,28,35,1.4,B,,Twinkling Titanite,"Jump +, Fall Damage - ",Moon Butterfly Wings
+Moon Butterfly Wings+5,72,79,68,68,37,25,38,32,0,68,29,39,42,35,1.4,B,,Twinkling Titanite,"Jump +, Fall Damage - ",Moon Butterfly Wings
+Nahr Alma Robes,44,47,43,43,25,21,23,44,0,22,22,29,29,50,3.5,B,,Titanite,Aquired Souls +,Nahr Alma
+Nahr Alma Robes+10,89,95,87,87,49,42,46,88,0,44,44,57,57,50,3.5,B,,Titanite,Aquired Souls +,Nahr Alma
+Old Ironclad Armor,150,139,161,150,22,24,17,22,28,12,38,0,0,45,29.8,A,STR 14,Titanite,,Old Ironclad
+Old Ironclad Armor+10,301,279,323,301,43,47,34,43,28,25,75,0,0,45,29.8,A,STR 14,Titanite,,Old Ironclad
+Old Knight Armor,181,170,189,181,20,20,15,20,40,16,34,0,0,20,16.4,A,,Titanite,,Old Knight
+Old Knight Armor+10,363,340,377,363,40,40,30,40,40,32,68,0,0,20,16.4,A,,Titanite,,Old Knight
+Pate's Armor,65,67,63,63,21,14,26,22,0,23,21,0,0,70,5.9,B,,Titanite,,Pate's
+Pate's Armor+10,130,135,127,127,42,28,53,44,0,46,41,0,0,70,5.9,B,,Titanite,,Pate's
+Peasant Attire,25,28,24,24,12,13,16,11,0,18,15,0,0,45,3.8,B,,Titanite,,Peasant Attire
+Peasant Attire+10,50,55,48,48,23,25,31,23,0,36,29,0,0,45,3.8,B,,Titanite,,Peasant Attire
+Penal Straighjacket,75,77,77,70,31,39,28,35,0,12,9,25,32,55,6.2,B,,Twinkling Titanite,,Penal Straighjacket
+Penal Straighjacket+5,113,116,116,105,47,58,42,52,0,18,14,37,48,55,6.2,B,,Twinkling Titanite,,Penal Straighjacket
+Priestess Robe,53,55,52,52,33,33,46,37,0,22,21,26,26,50,2.8,B,,Titanite,,Priestess
+Priestess Robe+10,106,110,104,104,66,65,91,73,0,44,42,52,52,50,2.8,B,,Titanite,,Priestess
+Prisoner's Tatters,11,12,10,10,11,12,16,13,0,13,10,0,0,25,2.2,B,,Titanite,Item Discovery +,Prisoner's Tatters
+Prisoner's Tatters+10,22,25,21,21,23,23,33,26,0,26,19,0,0,25,2.2,B,,Titanite,Item Discovery +,Prisoner's Tatters
+Red Lion Warrior Cape,34,35,33,33,16,15,15,29,0,12,11,24,47,55,1.5,B,,Titanite,Reduces Falling Damage,Red Lion Warrior
+Red Lion Warrior Cape+10,68,71,66,66,32,30,30,53,0,24,23,47,95,55,1.5,B,,Titanite,Reduces Falling Damage,Red Lion Warrior
+Robe of Judgment,77,82,74,74,39,32,27,35,0,21,22,0,43,50,3.9,B,,Twinkling Titanite,,Judgment
+Robe of Judgment+5,115,123,111,111,59,48,41,52,0,31,33,0,64,50,3.9,B,,Twinkling Titanite,,Judgment
+Rogue Armor,56,54,56,56,18,21,20,24,0,21,20,0,0,55,3.5,B,,Titanite,,Rogue
+Rogue Armor+10,111,108,113,113,35,42,40,47,0,42,40,0,0,55,3.5,B,,Titanite,,Rogue
+Royal Soldier Armor,79,74,82,80,24,25,17,24,16,21,23,0,0,70,9.2,A,,Titanite,,Royal Soldier
+Royal Soldier Armor+10,157,149,164,160,49,50,33,49,16,42,47,0,0,70,9.2,A,,Titanite,,Royal Soldier
+Royal Swordsman Armor,101,88,112,105,23,29,16,23,18,13,29,0,0,75,11.2,A,,Titanite,,Royal Swordsman
+Royal Swordsman Armor+10,201,176,223,210,46,59,31,46,18,27,59,0,0,75,11.2,A,,Titanite,,Royal Swordsman
+Ruin Armor,139,126,150,142,33,37,22,33,18,20,44,57,0,105,10.5,A,,Twinkling Titanite,,Ruin
+Ruin Armor+5,209,189,224,213,49,55,33,49,18,29,66,86,0,105,10.5,A,,Twinkling Titanite,,Ruin
+Rusted Mastodon Armor,156,146,167,156,21,22,14,21,28,26,30,0,0,40,15.9,A,14 STR,Titanite,,Rusted Mastodon
+Rusted Mastodon Armor+10,312,291,334,312,41,45,27,41,28,52,60,0,0,40,15.9,A,14 STR,Titanite,,Rusted Mastodon
+Saint's Dress,67,72,64,64,49,49,61,49,0,30,26,57,53,55,2.6,B,16 FTH,Twinkling Titanite,,Saint's
+Saint's Dress+5,101,108,96,96,74,74,91,74,0,45,39,86,79,55,2.6,B,16 FTH,Twinkling Titanite,,Saint's
+Sanctum Knight Armor,236,220,254,238,30,30,27,31,9,30,44,0,0,90,14.4,A,,Twinkling Titanite,,Sanctum Knight
+Sanctum Knight Armor+5,295,275,317,297,45,45,40,46,9,0,0,0,0,90,14.4,A,,Twinkling Titanite,,Sanctum Knight
+Shadow Top,48,55,43,43,26,29,27,35,0,39,30,25,0,60,2.6,B,,Titanite,,Shadow
+Shadow Top+10,97,109,87,87,52,59,54,70,0,77,60,49,0,60,2.6,B,,Titanite,,Shadow
+Singer's Dress,30,33,29,29,45,35,41,41,0,31,23,43,43,40,2.6,B,,Twinkling Titanite,,Singer's
+Singer's Dress+5,45,49,43,43,68,53,62,62,0,47,35,65,65,40,2.6,B,,Twinkling Titanite,,Singer's
+Smelter Demon Armor,252,255,304,186,35,66,33,35,39,24,54,36,36,160,17.6,A,16 STR,Twinkling Titanite,,Smelter Demon
+Smelter Demon Armor+5,379,382,456,279,53,100,50,53,39,36,82,54,54,160,17.6,A,16 STR,Twinkling Titanite,,Smelter Demon
+Steel Armor,160,153,171,160,24,26,19,24,32,22,36,0,0,100,14,A,,Titanite,,Steel
+Steel Armor+10,321,306,342,321,49,52,37,49,32,44,72,0,0,100,14,A,,Titanite,,Steel
+Syan's Armor,137,123,146,139,26,35,15,26,23,16,45,0,0,85,13.8,A,,Titanite,,Syan's
+Syan's Armor+10,273,246,291,279,53,70,31,53,23,31,91,0,0,85,13.8,A,,Titanite,,Syan's
+Targray's Armor,89,83,96,89,22,22,18,25,17,27,30,0,0,75,9.8,A,,Titanite,,Targray's
+Targray's Armor+10,178,166,193,178,44,44,36,49,17,54,59,0,0,75,9.8,A,,Titanite,,Targray's
+Tattered Cloth Robe,50,53,48,48,26,36,24,26,0,43,15,0,10,55,2.7,B,,Titanite,,Tattered Cloth
+Tattered Cloth Robe+10,100,105,97,97,53,72,47,53,0,87,30,0,19,55,2.7,B,,Titanite,,Tattered Cloth
+Throne Defender Armor,189,181,195,189,38,42,22,38,25,26,44,0,0,100,13.8,A,,Twinkling Titanite,,Throne Defender
+Throne Defender Armor+5,283,272,292,284,57,53,34,57,25,40,66,0,0,100,13.8,A,,Twinkling Titanite,,Throne Defender
+Throne Watcher Armor,139,132,150,139,61,39,31,39,16,31,37,0,0,95,11.2,A,,Twinkling Titanite,,Throne Watcher
+Throne Watcher Armor+5,209,198,225,209,91,59,47,59,16,47,56,0,0,95,11.2,A,,Twinkling Titanite,,Throne Watcher
+Traveling Merchant Coat,74,79,72,72,21,23,25,21,0,26,29,0,0,60,7.7,B,,Titanite,,Traveling Merchant
+Traveling Merchant Coat+10,148,158,143,143,42,46,49,42,0,52,59,0,0,60,7.7,B,,Titanite,,Traveling Merchant
+Tseldora Robe,22,24,21,21,10,11,13,9,0,10,11,0,0,40,3,B,,Titanite,Aquired Souls +,Tseldora
+Tseldora Robe+10,44,48,42,42,20,21,26,19,0,20,21,0,0,40,3,B,,Titanite,Aquired Souls +,Tseldora
+Varangian Armor,67,71,66,66,22,16,25,22,0,26,23,0,0,55,5.1,B,,Titanite,,Varangian
+Varangian Armor+10,135,142,132,132,43,31,51,43,0,52,47,0,0,55,5.1,B,,Titanite,,Varangian
+Velstadt's Armor,229,209,242,238,35,36,21,73,28,26,63,37,48,140,15.2,A,,Twinkling Titanite,,Velstadt's
+Velstadt's Armor+5,343,314,363,356,52,54,31,109,28,38,94,55,71,140,15.2,A,,Twinkling Titanite,,Velstadt's
+Vengarl's Armor,219,207,234,219,34,42,30,34,34,32,40,0,0,85,15.1,A,,Twinkling Titanite,,Vengarl's
+Vengarl's Armor+5,329,311,351,329,52,64,45,52,34,47,59,0,0,85,15.1,A,,Twinkling Titanite,,Vengarl's
+Wanderer Coat,58,56,58,59,19,25,28,20,0,22,35,0,0,50,3.5,B,,Titanite,,Wanderer
+Wanderer Coat+10,115,111,117,118,38,50,56,40,0,43,70,0,0,50,3.5,B,,Titanite,,Wanderer
+White Hollow Mage Robe,52,54,51,51,44,32,33,37,0,21,19,30,30,50,2.8,B,,Titanite,INT +1,White Hollow Mage
+White Hollow Mage Robe+10,105,109,102,102,88,63,66,73,0,41,39,60,60,50,2.8,B,,Titanite,INT +1,White Hollow Mage
+White Priest Robe,55,58,54,54,33,33,43,37,0,23,21,21,21,50,3.3,B,,Titanite,,White Priest
+White Priest Robe+10,111,116,108,108,66,66,86,73,0,45,43,42,42,50,3.3,B,,Titanite,,White Priest
+Xanthous Overcoat,52,60,52,45,39,10,25,30,0,23,21,0,0,60,3.9,B,,Twinkling Titanite,,Xanthous
+Xanthous Overcoat+5,78,89,78,67,59,15,37,46,0,35,31,0,0,60,3.9,B,,Twinkling Titanite,,Xanthous
