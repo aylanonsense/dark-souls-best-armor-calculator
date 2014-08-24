@@ -1,8 +1,10 @@
-Name,Phys,Str,Sls,Thr,Mag,Fire,Light,Dark,Poise,Poison,Bleed,Petrify,Curse,Dur,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
+Name,Physical,Strike,Slash,Thrust,Magic,Fire,Lightning,Dark,Poise,Poison,Bleed,Petrify,Curse,Durability,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
 Agdayne's Kilt,46,49,45,45,27,26,24,36,0,28,19,24,33,65,2.9,E,,Twinkling Titanite,,Agdayne's
 Agdayne's Kilt+5,70,74,68,68,41,39,36,54,0,41,28,36,49,65,2.9,E,,Twinkling Titanite,,Agdayne's
 Alonne Knight Leggings,105,100,111,105,19,31,15,19,20,10,22,0,0,80,9.8,C,,Titanite,,Alonne Knight
 Alonne Knight Leggings+10,210,201,222,210,38,62,30,38,20,19,44,0,0,80,9.8,C,,Titanite,,Alonne Knight
+Alonne Captain Leggings,105,100,111,105,19,31,15,19,20,10,22,0,0,80,9.8,C,,Titanite,,Alonne Captain
+Alonne Captain Leggings+10,210,201,222,210,38,62,30,38,20,19,44,0,0,80,9.8,C,,Titanite,,Alonne Captain
 Alva Leggings,53,50,55,52,15,16,11,16,9,16,20,0,0,80,5.2,C,,Titanite,,Alva
 Alva Leggings+10,106,101,109,104,29,32,22,31,9,31,41,0,0,80,5.2,C,,Titanite,,Alva
 Archdrake Boots,43,43,43,43,14,13,22,13,7.5,11,10,0,0,80,4.7,C,,Titanite,,Archdrake
@@ -166,8 +168,8 @@ Throne Defender Leggings,105,101,109,106,21,24,12,21,13,15,24,0,0,100,7.7,C,,Twi
 Throne Defender Leggings+5,158,152,163,159,32,35,19,32,13,22,37,0,0,100,7.7,C,,Twinkling Titanite,,Throne Defender
 Throne Watcher Leggings,82,78,88,82,36,23,19,23,12,18,22,0,0,95,6.6,C,,Twinkling Titanite,,Throne Watcher
 Throne Watcher Leggings+5,123,117,132,123,54,35,28,35,12,28,33,0,0,95,6.6,C,,Twinkling Titanite,,Throne Watcher
-Tights of Judgment,55,59,53,53,28,23,20,25,0,15,16,0,31,50,2.8,E,,Twinkling Titanite,,Tights of Judgment
-Tights of Judgment+5,83,89,80,80,42,34,29,37,0,22,24,0,46,50,2.8,E,,Twinkling Titanite,,Tights of Judgment
+Tights of Judgment,55,59,53,53,28,23,20,25,0,15,16,0,31,50,2.8,E,,Twinkling Titanite,,Judgment
+Tights of Judgment+5,83,89,80,80,42,34,29,37,0,22,24,0,46,50,2.8,E,,Twinkling Titanite,,Judgment
 Traveling Merchant Boots,37,39,35,35,10,11,12,10,0,13,14,0,0,60,3.8,D,,Titanite,,Traveling Merchant
 Traveling Merchant Boots+10,73,78,71,71,21,23,24,21,0,26,28,0,0,60,3.8,D,,Titanite,,Traveling Merchant
 Tseldora Trousers,15,16,14,14,7,7,9,6,0,7,7,0,0,40,2,E,,Titanite,,Tseldora

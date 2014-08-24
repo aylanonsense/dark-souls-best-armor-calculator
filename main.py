@@ -1,13 +1,15 @@
 import csv
 import time
 
-def parse_armor_list(filepath):
+def parse_armor_piece_list(filepath):
 	records = csv_to_dict(filepath)
 	for record in records:
-		for int_attr in [ 'curse', 'phys', 'fire', 'light', 'thr', 'poison', 'sls', 'dark', 'str', 'mag', 'dur', 'petrify', 'bleed' ]:
-			record[int_attr] = int(record[int_attr])
-		for float_attr in [ 'weight', 'poise' ]:
-			record[float_attr] = float(record[float_attr])
+		for i in ['physical', 'strike', 'slash', 'thrust', 'magic', 'fire', 'lightning', 'dark', 'poison', 'bleed', 'petrify', 'curse', 'durability']:
+			record[i] = int(record[i])
+		for i in ['weight', 'poise']:
+			record[i] = float(record[i])
+		if record['set'] == '':
+			record['set'] = None
 	return records
 
 def csv_to_dict(filepath):
@@ -36,7 +38,7 @@ def is_strictly_better(armor_piece_1, armor_piece_2):
 	if armor_piece_1['weight'] > armor_piece_2['weight']:
 		return False
 	#if any attribute of the second is greater than the first, the first can't be strictly better
-	for attr in ['curse', 'phys', 'fire', 'light', 'thr', 'poison', 'sls', 'dark', 'str', 'mag', 'dur', 'petrify', 'bleed', 'poise']:
+	for attr in ['physical', 'strike', 'slash', 'thrust', 'magic', 'fire', 'lightning', 'dark', 'poison', 'bleed', 'petrify', 'curse', 'durability']:
 		if armor_piece_1[attr] < armor_piece_2[attr]:
 			return False
 	#certain things are hard to compare, like effect, so when two weapons have different effects we can't call one strictly better
@@ -45,113 +47,131 @@ def is_strictly_better(armor_piece_1, armor_piece_2):
 	#otherwise, yes, the first piece is strictly better than the second
 	return True
 
+def create_linear_scoring_function(weights):
+	def score_armor_set(armor_pieces):
+		score = 0
+		for attr in weights:
+			total_attr = 0
+			for armor_piece in armor_pieces:
+				total_attr += armor_piece[attr]
+			score += total_attr * weights[attr]
+		return score
+	return score_armor_set
+
+
 #create scoring rubrics
-scoring = [
-	{
-		'name': 'best-overall',
-		'weights': { 'str': 1, 'sls': 1, 'thr': 1, 'mag': 1, 'fire': 1, 'light': 1, 'dark': 1, 'poise': 35 }
-	}
+rubrics = [
+	{'name': "Best Overall", 'scoring_func': create_linear_scoring_function({'poise': 12.0, 'physical': 1.5, 'strike': 1, 'slash': 1, 'thrust': 1, 'magic': 1, 'fire': 1, 'lightning': 1, 'dark': 1, 'poison': 0.3, 'bleed': 0.1, 'petrify': 0.05, 'curse': 0.05})},
+	{'name': "Poise", 'scoring_func': create_linear_scoring_function({'poise': 1.0})},
+	{'name': "Total Defense", 'scoring_func': create_linear_scoring_function({'physical': 1.0,'strike': 1.0,'slash': 1.0,'thrust': 1.0,'magic': 1.0,'fire': 1.0,'lightning': 1.0,'dark': 1.0})},
+	{'name': "Total Defense and Resistances", 'scoring_func': create_linear_scoring_function({'physical': 1.0, 'strike': 1.0, 'slash': 1.0, 'thrust': 1.0, 'magic': 1.0, 'fire': 1.0, 'lightning': 1.0, 'dark': 1.0, 'poison': 1.0, 'bleed': 1.0, 'petrify': 1.0, 'curse': 1.0})},
+	{'name': "Physical Defense", 'scoring_func': create_linear_scoring_function({'physical': 1.0, 'strike': 1.0, 'slash': 1.0, 'thrust': 1.0})},
+	{'name': "Magic Defense", 'scoring_func': create_linear_scoring_function({'magic': 1.0})},
+	{'name': "Fire Defense", 'scoring_func': create_linear_scoring_function({'fire': 1.0})},
+	{'name': "Lightning Defense", 'scoring_func': create_linear_scoring_function({'lightning': 1.0})},
+	{'name': "Dark Defense", 'scoring_func': create_linear_scoring_function({'dark': 1.0})}
 ]
+top_armor_sets = {}
+for rubric in rubrics:
+	top_armor_sets[rubric['name']] = {}
 
-#load armor data
-#scaling, poise, curse, phys, name, weight, fire, light, thr, poison, sls, dark, effect, str, mag, reinforcement, dur, petrify, bleed, prerequisite
+#load armor lists
 armor_lists = [
-	parse_armor_list('head-armor.csv'),
-	parse_armor_list('chest-armor.csv'),
-	parse_armor_list('arm-armor.csv'),
-	parse_armor_list('leg-armor.csv')
+	parse_armor_piece_list('head-armor.csv'),
+	parse_armor_piece_list('chest-armor.csv'),
+	parse_armor_piece_list('arm-armor.csv'),
+	parse_armor_piece_list('leg-armor.csv')
 ]
+print("Loaded %s armor pieces" % "/".join([str(len(x)) for x in armor_lists]))
 
-print "Num armor pieces: " + "/".join([str(len(x)) for x in armor_lists])
-
+#remove unupgraded armor
 for l in range(0, len(armor_lists)):
-	armor_piece_list = armor_lists[l]
-	for i in range(0, len(armor_piece_list)):
-		for j in range(i + 1, len(armor_piece_list)):
-			if armor_piece_list[i] is not None and armor_piece_list[j] is not None:
-				if is_strictly_better(armor_piece_list[i], armor_piece_list[j]):
-					armor_piece_list[j] = None
-				elif is_strictly_better(armor_piece_list[j], armor_piece_list[i]):
-					armor_piece_list[i] = None
-	armor_lists[l] = [x for x in armor_piece_list if x is not None]
+	armor_lists[l] = [x for x in armor_lists[l] if '+' in x['name']]
+print("Looking at %s upgraded armor pieces" % "/".join([str(len(x)) for x in armor_lists]))
 
-print "Num armor pieces after removing \"strictly-betters\": " + "/".join([str(len(x)) for x in armor_lists])
+#debug -- limit the list to make it run a bunch faster
+# for l in range(0, len(armor_lists)):
+# 	armor_lists[l] = armor_lists[l][:12]
+# print("Culled list down to %s armor pieces (debug mode)" % "/".join([str(len(x)) for x in armor_lists]))
 
-for l in range(0, len(armor_lists)):
-	armor_piece_list = armor_lists[l]
-	for i in range(0, len(armor_piece_list)):
-		if 'FTH' in armor_piece_list[i]['prerequisite'] or 'INT' in armor_piece_list[i]['prerequisite'] or 'Black Witch' in armor_piece_list[i]['name']:
-			armor_piece_list[i] = None
-	armor_lists[l] = [x for x in armor_piece_list if x is not None]
+#find full armor sets
+preconstructed_armor_sets = {}
+for armor_piece_list in armor_lists:
+	for armor_piece in armor_piece_list:
+		if armor_piece['set'] is not None:
+			if armor_piece['set'] not in preconstructed_armor_sets:
+				preconstructed_armor_sets[armor_piece['set']] = []
+			preconstructed_armor_sets[armor_piece['set']].append(armor_piece)
+print("Found %i armor sets (%i of which have four pieces)" % (len(preconstructed_armor_sets), len([x for x in preconstructed_armor_sets if len(preconstructed_armor_sets[x]) == 4])))
 
-print "Num armor pieces after removing INT/FTH gear: " + "/".join([str(len(x)) for x in armor_lists])
-
-#generate list of all possible armor sets
+#crunch numbers and determine ranges
 num_possible_armor_sets = product([len(x) for x in armor_lists])
-milestones = [int(float(x) / 50 * num_possible_armor_sets) for x in range(1, 50)]
+min_armor_set_weight = sum(min([y['weight'] for y in x]) for x in armor_lists)
+max_armor_set_weight = sum(max([y['weight'] for y in x]) for x in armor_lists)
+print("Evaluating %i possible mix-and-matched armor sets between %g and %g lbs" % (num_possible_armor_sets, min_armor_set_weight, max_armor_set_weight))
 
-for rubric in scoring:
-	max_weight = 0
-	print "Grading based on " + rubric['name']
-
-	print "  Scoring each individual piece of armor..."
-	start_time = time.time()
+#evaluate every possible mix-and-matched armor set
+start_time = time.time()
+time_of_last_print = start_time
+k = 0
+for i in range(0, num_possible_armor_sets):
+	j = 1
+	armor_pieces = []
 	for armor_piece_list in armor_lists:
-		for armor_piece in armor_piece_list:
-			armor_piece['score'] = 0
-			for attr in rubric['weights']:
-				armor_piece['score'] += rubric['weights'][attr] * armor_piece[attr]
-	end_time = time.time()
-	print "  ... done scoring! (took %g seconds)" % (end_time - start_time)
+		if len(armor_piece_list) > 0:
+			armor_pieces.append(armor_piece_list[(i / j) % len(armor_piece_list)])
+			j *= len(armor_piece_list)
+	weight = sum(x['weight'] for x in armor_pieces)
+	weight_key = str(int(10 * weight))
+	for rubric in rubrics:
+		score = rubric['scoring_func'](armor_pieces)
+		if weight_key not in top_armor_sets[rubric['name']] or top_armor_sets[rubric['name']][weight_key]['score'] < score:
+			top_armor_sets[rubric['name']][weight_key] = {'pieces': armor_pieces, 'score': score}
+	if i % 10000 == 0:
+		now = time.time()
+		if now - time_of_last_print >= 10:
+			print "%i armor sets evaluated (%f%%)" % (i - k, (100.0 * i) / num_possible_armor_sets)
+			k = i
+			time_of_last_print = now
+end_time = time.time()
+print("Done evaluating! (took %g seconds)" % (end_time - start_time))
 
-	print "  Picking top armor sets for each weight range..."
-	start_time = time.time()
-	top_armor_sets_by_weight = {}
-	for i in range(0, num_possible_armor_sets):
-		if i in milestones:
-			print str(100 * (i + 1) / num_possible_armor_sets) + " percent done"
-		#generate a hypothetical armor set
-		j = 1
-		armor_pieces = []
-		for armor_piece_list in armor_lists:
-			if len(armor_piece_list) > 0:
-				armor_pieces.append(armor_piece_list[(i / j) % len(armor_piece_list)])
-				j *= len(armor_piece_list)
-		armor_set = {
-			'pieces': armor_pieces,
-			'weight': sum([x['weight'] for x in armor_pieces])
-		}
-		#now do stuff with each armor set
-		max_weight = max(max_weight, armor_set['weight'])
-		armor_set['score'] = sum([x['score'] for x in armor_set['pieces']])
-		armor_set_key = str(armor_set['weight'])
-		if armor_set_key in top_armor_sets_by_weight:
-			competing_armor_set = top_armor_sets_by_weight[armor_set_key]
-			if competing_armor_set['score'] < armor_set['score']:
-				top_armor_sets_by_weight[armor_set_key] = armor_set
-		else:
-			top_armor_sets_by_weight[armor_set_key] = armor_set
-	end_time = time.time()
-	print "  ... done picking top armor sets! (took %g seconds)" % (end_time - start_time)
-
-	print "  Printing results..."
-	start_time = time.time()
-	prev_top_armor_set = None
+#print the best of each category
+for rubric in rubrics:
+	print("\nResults for %s:" % rubric['name'])
+	print("  Weight   Score   Pieces")
+	prev_armor_set = None
 	start_of_range = None
-	for i in range(0, int(10 * max_weight)):
-		weight = float(i) / 10
-		weight_key = str(weight)
-		if weight_key in top_armor_sets_by_weight:
-			armor_set = top_armor_sets_by_weight[weight_key]
-			if prev_top_armor_set is None:
-				prev_top_armor_set = armor_set
+	for i in range(int(10 * min_armor_set_weight), int(10 * max_armor_set_weight)):
+		weight = i / 10.0
+		weight_key = str(i)
+		if weight_key in top_armor_sets[rubric['name']]:
+			if prev_armor_set is None or prev_armor_set['score'] < top_armor_sets[rubric['name']][weight_key]['score']:
+				if prev_armor_set is not None:
+					print(" %s-%s %s %s" % (str(start_of_range).rjust(4), str(weight - 0.1).ljust(4), str(prev_armor_set['score']).ljust(7), " ".join([x['name'].ljust(30) for x in prev_armor_set['pieces']])))
+				prev_armor_set = top_armor_sets[rubric['name']][weight_key]
 				start_of_range = weight
-			elif prev_top_armor_set['score'] < armor_set['score']:
-				print str(start_of_range).rjust(5) + " to " + str(weight - 0.1).ljust(5) + (" (" + str(prev_top_armor_set['score']) + ")").ljust(12) + " ".join([x['name'].ljust(35) for x in prev_top_armor_set['pieces']])
-				start_of_range = weight
-				prev_top_armor_set = armor_set
-	if prev_top_armor_set:
-		print str(start_of_range).rjust(5) + "+        " + (" (" + str(prev_top_armor_set['score']) + ")").ljust(12) + " ".join([x['name'].ljust(35) for x in prev_top_armor_set['pieces']])
-	end_time = time.time()
-	print "  ... done printing results! (took %g seconds)" % (end_time - start_time)
-
+	if prev_armor_set is not None:
+		print(" %s+     %s %s" % (str(start_of_range).rjust(4), str(prev_armor_set['score']).ljust(7), " ".join([x['name'].ljust(30) for x in prev_armor_set['pieces']])))
+	print("\n Comparison to armor sets:")
+	print("    Weight Score   Set                  Extra Weight  Foregone Score")
+	for armor_set_name in preconstructed_armor_sets:
+		armor_set = preconstructed_armor_sets[armor_set_name]
+		if len(armor_set) == 4:
+			better_armor_set = None
+			lighter_armor_set = None
+			weight = sum([x['weight'] for x in armor_set])
+			score = rubric['scoring_func'](armor_set)
+			other_weight = weight
+			while other_weight >= min_armor_set_weight:
+				other_weight_key = str(int(10 * other_weight))
+				if other_weight_key in top_armor_sets[rubric['name']]:
+					other_armor_set = top_armor_sets[rubric['name']][other_weight_key]
+					if other_armor_set['score'] >= score:
+						if better_armor_set is None or other_armor_set['score'] >= better_armor_set['score']:
+							better_armor_set = other_armor_set
+						lighter_armor_set = other_armor_set
+				other_weight -= 0.1
+			extra_weight = weight - sum([x['weight'] for x in lighter_armor_set['pieces']]) if lighter_armor_set is not None else 0.0
+			foregone_score = better_armor_set['score'] - score if better_armor_set is not None else 0.0
+			print("    %s   %s %s %s %i" % (str(weight).ljust(4), str(score).ljust(7), armor_set[0]['set'].ljust(20), str(extra_weight).ljust(13),	foregone_score))

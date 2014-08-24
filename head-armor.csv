@@ -1,4 +1,4 @@
-Name,Phys,Str,Sls,Thr,Mag,Fire,Light,Dark,Poise,Poison,Bleed,Petrify,Curse,Dur,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
+Name,Physical,Strike,Slash,Thrust,Magic,Fire,Lightning,Dark,Poise,Poison,Bleed,Petrify,Curse,Durability,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
 Alonne Captain Helm,53,50,56,53,11,17,7,11,12,6,12,0,0,90,5.1,C,,Titanite,Fire Def +,Alonne Captain
 Alonne Captain Helm+10,106,100,112,106,22,34,15,22,12,11,25,0,0,90,5.1,C,,Titanite,Fire Def +,Alonne Captain
 Alonne Knight Helm,49,47,52,49,9,15,7,9,9,5,10,0,0,80,4.6,C,,Titanite,,Alonne Knight
@@ -44,8 +44,8 @@ Dingy Hood,14,16,13,13,9,7,8,8,0,5,6,12,12,40,0.8,E,,Titanite,,Dingy
 Dingy Hood+10,28,32,27,27,17,15,16,16,0,11,12,25,25,40,0.8,E,,Titanite,,Dingy
 Dragon Acolyte Mask,23,24,22,22,9,9,11,11,0,11,9,0,11,55,1.5,E,,Titanite,,Dragon Acolyte
 Dragon Acolyte Mask+10,45,48,44,44,19,19,22,23,0,21,17,0,21,55,1.5,E,,Titanite,,Dragon Acolyte
-Dragon Sage Hood,25,27,25,25,11,11,12,13,0,12,10,0,21,55,2,E,,Titanite,FTH & INT +1,Dragon Sage
-Dragon Sage Hood+10,50,53,49,49,21,21,24,25,0,23,19,0,42,55,2,E,,Titanite,FTH & INT +1,Dragon Sage
+Dragon Sage Hood,25,27,25,25,11,11,12,13,0,12,10,0,21,55,2,E,,Titanite,FTH & INT +1,
+Dragon Sage Hood+10,50,53,49,49,21,21,24,25,0,23,19,0,42,55,2,E,,Titanite,FTH & INT +1,
 Dragonrider Helm,113,106,118,113,13,12,13,13,14,12,16,0,0,95,7.5,C,,Twinkling Titanite,,Dragonrider
 Dragonrider Helm+5,170,159,177,170,19,18,19,19,14,18,23,0,0,95,7.5,C,,Twinkling Titanite,,Dragonrider
 Drakeblood Helm,76,74,83,79,10,16,8,14,7,14,18,0,0,85,4.7,C,,Titanite,,Drakeblood
@@ -54,8 +54,8 @@ Drakekeeper Helm,67,65,71,67,10,11,9,10,12,10,14,0,14,90,6,C,,Titanite,,Drakekee
 Drakekeeper Helm+10,135,130,142,135,21,23,19,21,12,21,29,0,28,90,6,C,,Titanite,,Drakekeeper
 Drangleic Helm,79,75,86,81,13,13,11,13,10,13,17,0,0,90,5.9,C,,Twinkling Titanite,,Drangleic
 Drangleic Helm+5,119,112,129,121,19,19,17,19,10,20,26,0,0,90,5.9,C,,Twinkling Titanite,,Drangleic
-Durgo's Hat,22,21,23,21,12,10,9,10,0,9,8,0,0,48,2.6,E,16 DEX,Twinkling Titanite,Bow Range +,Durgo's
-Durgo's Hat+5,33,32,35,31,18,15,13,15,0,14,12,0,0,48,2.6,E,16 DEX,Twinkling Titanite,Bow Range +,Durgo's
+Durgo's Hat,22,21,23,21,12,10,9,10,0,9,8,0,0,48,2.6,E,16 DEX,Twinkling Titanite,Bow Range +,
+Durgo's Hat+5,33,32,35,31,18,15,13,15,0,14,12,0,0,48,2.6,E,16 DEX,Twinkling Titanite,Bow Range +,
 Elite Knight Helm,40,39,44,40,11,12,8,11,8,9,13,0,0,85,4.5,C,,Titanite,,Elite Knight
 Elite Knight Helm+10,80,78,88,80,23,24,16,23,8,19,27,0,0,85,4.5,C,,Titanite,,Elite Knight
 Executioner Helm,61,56,65,63,14,15,10,33,5,11,42,0,29,65,4.4,D,,Twinkling Titanite,,Executioner
@@ -88,8 +88,8 @@ Hollow Infantry Helm,31,32,30,30,7,6,8,7,0,7,7,0,0,40,4,D,,Titanite,,Hollow Infa
 Hollow Infantry Helm+10,62,64,61,61,13,11,17,13,0,13,13,0,0,40,4,D,,Titanite,,Hollow Infantry
 Hollow Soldier Helm,34,33,36,35,11,12,8,11,4,9,11,0,0,35,4.3,C,,Titanite,,Hollow Soldier
 Hollow Soldier Helm+10,69,66,73,70,22,23,15,22,4,18,21,0,0,35,4.3,C,,Titanite,,Hollow Soldier
-Hunter's Hat,17,18,16,16,6,4,6,7,0,7,6,0,0,50,1.2,D,,Titanite,,Hunter's
-Hunter's Hat+10,33,35,32,32,12,8,16,13,0,13,11,0,0,50,1.2,D,,Titanite,,Hunter's
+Hunter's Hat,17,18,16,16,6,4,6,7,0,7,6,0,0,50,1.2,D,,Titanite,,Leather
+Hunter's Hat+10,33,35,32,32,12,8,16,13,0,13,11,0,0,50,1.2,D,,Titanite,,Leather
 Imperious Helm,63,61,67,63,13,11,9,13,10,11,13,10,10,85,5.8,C,,Titanite,,Imperious
 Imperious Helm+10,127,121,133,127,26,22,18,26,10,21,27,21,21,85,5.8,C,,Titanite,,Imperious
 Imported Hood,16,18,15,15,5,4,6,5,0,6,6,0,0,35,2.2,D,,Titanite,,Imported
@@ -142,8 +142,8 @@ Peasant Hat,9,9,8,8,4,4,5,4,0,6,5,0,0,45,1.3,E,,Titanite,,Peasant
 Peasant Hat+10,17,19,16,16,8,9,11,6,0,12,10,0,0,45,1.3,E,,Titanite,,Peasant
 Penal Mask,65,59,73,60,27,33,17,30,5,10,15,21,41,120,5.1,D,,Twinkling Titanite,Raises Equipment Load,Penal
 Penal Mask+5,97,89,109,90,40,50,26,45,5,15,22,32,62,120,5.1,D,,Twinkling Titanite,Raises Equipment Load,Penal
-Priestess Headpiece,23,24,22,22,14,14,20,16,0,9,9,11,11,50,1.2,E,,Titanite,Faith+1,Priestess Headpiece
-Priestess Headpiece+10,46,47,44,44,28,28,39,31,0,19,18,22,22,50,1.2,E,,Titanite,Faith+1,Priestess Headpiece
+Priestess Headpiece,23,24,22,22,14,14,20,16,0,9,9,11,11,50,1.2,E,,Titanite,Faith+1,Priestess
+Priestess Headpiece+10,46,47,44,44,28,28,39,31,0,19,18,22,22,50,1.2,E,,Titanite,Faith+1,Priestess
 Prisoner's Hood,4,4,4,4,4,4,6,5,0,5,4,0,0,25,0.8,E,,Titanite,Item Discovery,Prisoner's
 Prisoner's Hood+10,8,9,8,8,8,8,12,9,0,9,7,0,0,25,0.8,E,,Titanite,Item Discovery,Prisoner's
 Rogue Hood,11,11,11,11,4,4,4,5,0,4,4,0,0,40,0.7,E,,Titanite,,Rogue
@@ -160,15 +160,15 @@ Saint's Hood,23,25,22,22,17,17,21,17,0,10,9,20,18,55,0.9,E,16 FTH,Twinkling Tita
 Saint's Hood+5,35,37,33,33,25,25,32,25,0,16,14,30,27,55,0.9,E,16 FTH,Twinkling Titanite,Spell Increase +,Saint's
 Sanctum Knight Helm,96,88,104,96,12,12,10,12,9,12,18,0,0,90,5.8,C,,Twinkling Titanite,,Sanctum Knight
 Sanctum Knight Helm+5,120,110,130,120,18,17,15,18,9,0,0,0,0,90,5.8,C,,Twinkling Titanite,,Sanctum Knight
-Sanctum Priestess Tiara,29,31,28,28,14,20,12,14,0,12,11,0,7,55,2,C,,Titanite,"Blocks Profound Still, decreased Intellegence",Sanctum Priestess
-Sanctum Priestess Tiara+10,36,38,34,34,21,30,18,21,0,17,16,0,10,55,2,C,,Titanite,"Blocks Profound Still, decreased Intellegence",Sanctum Priestess
+Sanctum Priestess Tiara,29,31,28,28,14,20,12,14,0,12,11,0,7,55,2,C,,Titanite,"Blocks Profound Still, decreased Intellegence",
+Sanctum Priestess Tiara+10,36,38,34,34,21,30,18,21,0,17,16,0,10,55,2,C,,Titanite,"Blocks Profound Still, decreased Intellegence",
 Shadow Mask,34,38,30,30,16,20,19,24,0,27,21,17,0,60,1.8,E,,Titanite,,Shadow
 Shadow Mask+10,67,76,60,60,36,41,37,48,0,54,41,34,0,60,1.8,E,,Titanite,,Shadow
 Smelter Demon Helm,129,116,142,129,18,34,17,18,15,12,28,18,18,160,9,C,,Twinkling Titanite,,Smelter Demon
 Smelter Demon Helm+5,194,175,213,194,27,51,26,27,15,18,42,28,28,160,9,C,,Twinkling Titanite,,Smelter Demon
-Spiked Bandit Helm,44,44,45,42,13,14,11,13,3.5,10,14,0,0,60,4.1,D,,Titanite,,Spiked Bandit
-Spiked Bandit Helm+10,88,88,91,85,26,27,22,26,3.5,19,28,0,0,60,4.1,D,,Titanite,,Spiked Bandit
-Standard Helm+1,40,28,50,39,8,10,3,8,5,10,18,0,0,65,4,D,,Titanite,,Hard Leather
+Spiked Bandit Helm,44,44,45,42,13,14,11,13,3.5,10,14,0,0,60,4.1,D,,Titanite,,Bandit
+Spiked Bandit Helm+10,88,88,91,85,26,27,22,26,3.5,19,28,0,0,60,4.1,D,,Titanite,,Bandit
+Standard Helm,40,28,50,39,8,10,3,8,5,10,18,0,0,65,4,D,,Titanite,,Hard Leather
 Standard Helm+10,80,56,106,78,15,20,6,15,5,19,36,0,0,65,4,D,,Titanite,,Hard Leather
 Steel Helm,62,59,66,62,9,10,7,9,12,8,14,0,0,100,5.4,C,,Titanite,,Steel
 Steel Helm+10,124,118,132,124,19,20,14,19,12,17,28,0,0,100,5.4,C,,Titanite,,Steel
@@ -196,11 +196,11 @@ Vengarl's Helm,99,93,105,99,15,19,14,15,12,14,18,0,0,85,6.8,C,,Twinkling Titanit
 Vengarl's Helm+5,148,140,158,148,23,29,20,23,12,21,27,0,0,85,6.8,C,,Twinkling Titanite,,Vengarl's
 Wanderer Hood,23,22,23,24,8,10,11,8,0,9,14,0,0,50,1.4,E,,Titanite,,Wanderer
 Wanderer Hood+10,46,44,47,47,15,20,22,16,0,17,28,0,0,50,1.4,E,,Titanite,,Wanderer
-Warlock Mask,26,30,24,24,36,17,24,36,4,19,19,24,60,50,4.8,E,14 INT,Titanite,Souls Aquired & INT+1,Warlock
-Warlock Mask+10,52,59,48,48,72,33,48,72,4,38,38,47,120,50,4.8,E,14 INT,Titanite,Souls Aquired & INT+1,Warlock
+Warlock Mask,26,30,24,24,36,17,24,36,4,19,19,24,60,50,4.8,E,14 INT,Titanite,Souls Aquired & INT+1,
+Warlock Mask+10,52,59,48,48,72,33,48,72,4,38,38,47,120,50,4.8,E,14 INT,Titanite,Souls Aquired & INT+1,
 White Hollow Mage Hood,34,35,33,33,26,20,21,23,0,13,13,19,19,50,1.8,E,,Titanite, INT+1 (Set),White Hollow Mage
 White Hollow Mage Hood+10,67,70,66,66,56,41,43,47,0,27,25,38,38,50,1.8,E,,Titanite, INT+1 (Set),White Hollow Mage
-White Priest Headset,23,25,23,23,14,14,18,16,0,10,9,9,9,50,1.4,E,,Titanite,Faith+1,White Priest Headset
-White Priest Headset+10,47,49,46,46,28,28,37,31,0,10,9,9,9,50,1.4,E,,Titanite,Faith+1,White Priest Headset
+White Priest Headset,23,25,23,23,14,14,18,16,0,10,9,9,9,50,1.4,E,,Titanite,Faith+1,White Priest
+White Priest Headset+10,47,49,46,46,28,28,37,31,0,10,9,9,9,50,1.4,E,,Titanite,Faith+1,White Priest
 Xanthous Crown,67,116,67,44,16,5,11,15,0,7,7,0,83,60,5,E,,Twinkling Titanite,,Xanthous
 Xanthous Crown+5,100,174,100,66,24,7,16,22,0,11,10,0,125,60,5,E,,Twinkling Titanite,,Xanthous

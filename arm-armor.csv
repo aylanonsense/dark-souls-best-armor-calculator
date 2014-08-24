@@ -1,6 +1,8 @@
-Name,Phys,Str,Sls,Thr,Mag,Fire,Light,Dark,Poise,Poison,Bleed,Petrify,Curse,Dur,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
+Name,Physical,Strike,Slash,Thrust,Magic,Fire,Lightning,Dark,Poise,Poison,Bleed,Petrify,Curse,Durability,Weight,Scaling,Prerequisite,Reinforcement,Effect,Set
 Agdayne's Cuffs,46,49,45,45,27,26,24,26,0,28,19,24,33,65,2.9,E,,Twinkling Titanite,,Agdayne's
 Agdayne's Cuffs+5,70,74,68,68,41,39,36,54,0,41,28,36,49,65,2.9,E,,Twinkling Titanite,,Agdayne's
+Alonne Captain Gauntlets,72,69,76,72,13,21,10,13,12,7,15,0,0,80,6.7,C,,Titanite,,Alonne Captain
+Alonne Captain Gauntlets+10,144,137,151,144,26,43,21,26,12,13,30,0,0,80,6.7,C,,Titanite,,Alonne Captain
 Alonne Knight Gauntlets,72,69,76,72,13,21,10,13,12,7,15,0,0,80,6.7,C,,Titanite,,Alonne Knight
 Alonne Knight Gauntlets+10,144,137,151,144,26,43,21,26,12,13,30,0,0,80,6.7,C,,Titanite,,Alonne Knight
 Alva Gauntlets,29,28,30,29,8,9,6,9,4,9,11,0,0,80,2.9,C,,Titanite,,Alva
@@ -50,8 +52,8 @@ Drangleic Gauntlets,83,79,90,85,14,14,12,14,10,14,18,0,0,90,6.2,C,,Twinkling Tit
 Drangleic Gauntlets+5,125,118,135,127,20,20,18,20,10,21,27,0,0,90,6.2,C,,Twinkling Titanite,,Drangleic
 Elite Knight Gloves,33,32,36,33,9,10,7,9,4,8,11,0,0,85,3.7,C,,Titanite,,Elite Knight
 Elite Knight Gloves+10,66,64,72,66,19,20,14,19,4,15,22,0,0,85,3.7,C,,Titanite,,Elite Knight
-Engraved Gauntlets,29,29,29,29,15,15,15,15,0,15,15,44,44,55,5.5,C,"12 STR, 12 DEX",Twinkling Titanite,Critical Hit Chance,Engraved
-Engraved Gauntlets+5,44,44,44,44,22,22,22,22,0,22,22,66,66,55,5.5,C,"12 STR, 12 DEX",Twinkling Titanite,Critical Hit Chance,Engraved
+Engraved Gauntlets,29,29,29,29,15,15,15,15,0,15,15,44,44,55,5.5,C,"12 STR, 12 DEX",Twinkling Titanite,Critical Hit Chance,
+Engraved Gauntlets+5,44,44,44,44,22,22,22,22,0,22,22,66,66,55,5.5,C,"12 STR, 12 DEX",Twinkling Titanite,Critical Hit Chance,
 Executioner Gauntlets,38,34,40,39,9,9,6,20,4,7,26,0,18,65,2.7,D,,Twinkling Titanite,,Executioner
 Executioner Gauntlets+5,56,52,60,58,13,14,9,30,4,10,38,0,27,65,2.7,D,,Twinkling Titanite,,Executioner
 Falconer Gloves,31,32,30,30,9,8,10,9,4,10,8,0,0,75,3.2,D,,Titanite,,Falconer
@@ -98,8 +100,8 @@ Knight Gauntlets,29,29,34,29,9,9,6,9,6,8,11,0,0,80,3.5,C,,Titanite,,Knight
 Knight Gauntlets+10,59,57,67,59,18,19,13,18,6,16,22,0,0,80,3.5,C,,Titanite,,Knight
 Leather Gloves,39,41,37,37,14,9,19,15,0,16,13,0,0,60,2.8,D,,Titanite,,Leather
 Leather Gloves+10,77,82,75,75,28,18,37,30,0,31,26,0,0,60,2.8,D,,Titanite,,Leather
-Leydia Gauntlets,17,18,16,16,11,11,9,14,0,8,7,6,9,50,1.2,E,,Titanite,,Leydia
-Leydia Gauntlets+10,33,36,32,32,22,22,19,28,0,16,15,12,19,50,1.2,E,,Titanite,,Leydia
+Leydia Gauntlets,17,18,16,16,11,11,9,14,0,8,7,6,9,50,1.2,E,,Titanite,,Leydia White
+Leydia Gauntlets+10,33,36,32,32,22,22,19,28,0,16,15,12,19,50,1.2,E,,Titanite,,Leydia White
 Lion Mage Cuffs,25,26,23,23,24,19,20,24,0,11,11,13,29,40,1.4,E,,Titanite,Casting Speed +,Lion Mage
 Lion Mage Cuffs+10,50,53,46,46,47,38,39,47,0,22,22,25,57,40,1.4,E,,Titanite,Casting Speed +,Lion Mage
 Lion Warrior Cuffs,24,25,24,24,10,10,10,19,0,7,7,19,35,40,1.3,E,,Titanite,Reduces Falling Damage,Lion Warrior
@@ -150,8 +152,8 @@ Saint's Long Gloves,26,28,25,25,19,19,23,19,0,12,10,22,20,55,1,E,16 FTH,Twinklin
 Saint's Long Gloves+5,39,42,37,37,28,28,35,28,0,17,15,33,30,55,1,E,16 FTH,Twinkling Titanite,,Saint's
 Sanctum Knight Gauntlets,102,93,109,100,13,12,11,12,9,11,19,0,0,90,6,C,,Twinkling Titanite,,Sanctum Knight
 Sanctum Knight Gauntlets+5,127,116,136,129,19,18,16,17,9,0,0,0,0,90,6,C,,Twinkling Titanite,,Sanctum Knight
-Sanctum Solider Gauntlets,46,44,52,50,12,12,10,12,5,14,15,0,0,80,3.5,C,,Titanite,Poison Damage +,Sanctum Solider
-Sanctum Solider Gauntlets+10,57,55,65,53,12,18,15,17,5,20,22,0,0,80,3.5,C,,Titanite,Poison Damage +,Sanctum Solider
+Sanctum Solider Gauntlets,46,44,52,50,12,12,10,12,5,14,15,0,0,80,3.5,C,,Titanite,Poison Damage +,
+Sanctum Solider Gauntlets+10,57,55,65,53,12,18,15,17,5,20,22,0,0,80,3.5,C,,Titanite,Poison Damage +,
 Shadow Gauntlets,30,34,27,27,16,18,17,21,0,24,18,15,0,60,1.6,E,16 DEX,Titanite,Bleeding Effect,Shadow
 Shadow Gauntlets+10,60,67,53,53,32,36,33,43,0,48,37,30,0,60,1.6,E,16 DEX,Titanite,Bleeding Effect,Shadow
 Smelter Demon Gauntlets,149,135,164,149,21,39,20,21,23,14,32,21,21,160,10.4,C,16 STR,Twinkling Titanite,,Smelter Demon
