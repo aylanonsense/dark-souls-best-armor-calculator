@@ -1,0 +1,1705 @@
+Loaded 205/197/187/187 armor pieces
+Looking at 102/98/93/93 upgraded armor pieces
+Found 96 armor sets (87 of which have four pieces)
+Evaluating 86455404 possible mix-and-matched armor sets between 3.7 and 61.8 lbs
+Done evaluating! (took 3705.48 seconds)
+
+Results for Best Overall:
+  Weight   Score   Pieces
+  3.7-3.7  1011.15 Lion Warrior Helm+10           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  1025.7  Monastery Headcloth+5          Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.9-3.9  1325.8  Lion Warrior Helm+10           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.0-4.0  1340.35 Monastery Headcloth+5          Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.1-4.1  1372.8  Lion Warrior Helm+10           Moon Butterfly Wings+5         Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  4.2-4.2  1443.9  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.3-4.3  1457.3  Hexer's Hood+5                 Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.4-4.4  1490.9  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  4.5-4.5  1504.3  Hexer's Hood+5                 Moon Butterfly Wings+5         Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  4.6-4.6  1508.4  Priestess Headpiece+10         Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.7-4.7  1561.45 Lion Warrior Helm+10           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  4.8-4.8  1586.0  Hexer's Hood+5                 Moon Butterfly Wings+5         Lion Mage Cuffs+10             Moon Butterfly Skirt+5        
+  4.9-4.9  1608.45 Lion Warrior Helm+10           Moon Butterfly Wings+5         Hexer's Gloves+5               Hexer's Boots+5               
+  5.0-5.0  1679.55 Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  5.1-5.1  1692.95 Hexer's Hood+5                 Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  5.2-5.2  1726.55 Moon Butterfly Hat+5           Moon Butterfly Wings+5         Hexer's Gloves+5               Hexer's Boots+5               
+  5.3-5.3  1744.05 Priestess Headpiece+10         Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  5.4-5.4  1800.0  Moon Butterfly Hat+5           Hexer's Robes+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.5-5.5  1813.4  Hexer's Hood+5                 Hexer's Robes+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.6-5.6  1847.0  Moon Butterfly Hat+5           Hexer's Robes+5                Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  5.7-5.7  1860.4  Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  5.8-5.8  1864.5  Priestess Headpiece+10         Hexer's Robes+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.9-5.9  1917.55 Lion Warrior Helm+10           Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.0-6.0  1932.1  Monastery Headcloth+5          Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.1-6.1  1964.55 Lion Warrior Helm+10           Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.2-6.2  2035.65 Moon Butterfly Hat+5           Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.3-6.3  2049.05 Hexer's Hood+5                 Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.4-6.4  2082.65 Moon Butterfly Hat+5           Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.5-6.5  2096.05 Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.6-6.6  2100.15 Priestess Headpiece+10         Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.7-6.7  2106.9  Hexer's Hood+5                 Hexer's Robes+5                Manikin Gloves+10              Hexer's Boots+5               
+  6.8-6.8  2164.35 Moon Butterfly Hat+5           Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  6.9-6.9  2177.75 Hexer's Hood+5                 Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  7.0-7.0  2187.05 Moon Butterfly Hat+5           Hexer's Robes+5                Shadow Gauntlets+10            Hexer's Boots+5               
+  7.1-7.1  2200.45 Hexer's Hood+5                 Hexer's Robes+5                Shadow Gauntlets+10            Hexer's Boots+5               
+  7.2-7.3  2264.35 White Hollow Mage Hood+10      Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  7.4-7.5  2311.35 White Hollow Mage Hood+10      Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  7.6-7.7  2322.2  White Hollow Mage Hood+10      Hexer's Robes+5                Manikin Gloves+10              Hexer's Boots+5               
+  7.8-7.8  2393.05 White Hollow Mage Hood+10      Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  7.9-7.9  2394.1  White Hollow Mage Hood+10      Hexer's Robes+5                Desert Sorceress Gloves+10     Hexer's Boots+5               
+  8.0-8.4  2415.75 White Hollow Mage Hood+10      Hexer's Robes+5                Shadow Gauntlets+10            Hexer's Boots+5               
+  8.5-8.5  2422.65 White Hollow Mage Hood+10      Hexer's Robes+5                Wanderer Manchettes+10         Hexer's Boots+5               
+  8.6-8.6  2429.25 Moon Butterfly Hat+5           Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  8.7-8.7  2442.65 Hexer's Hood+5                 Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  8.8-8.8  2446.75 Priestess Headpiece+10         Black Witch Robe+5             Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  8.9-8.9  2453.5  Hexer's Hood+5                 Black Witch Robe+5             Manikin Gloves+10              Hexer's Boots+5               
+  9.0-9.0  2510.95 Moon Butterfly Hat+5           Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+  9.1-9.1  2524.35 Hexer's Hood+5                 Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+  9.2-9.2  2533.65 Moon Butterfly Hat+5           Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+  9.3-9.5  2610.95 White Hollow Mage Hood+10      Black Witch Robe+5             Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  9.6-9.7  2657.95 White Hollow Mage Hood+10      Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  9.8-9.9  2668.8  White Hollow Mage Hood+10      Black Witch Robe+5             Manikin Gloves+10              Hexer's Boots+5               
+ 10.0-10.0 2739.65 White Hollow Mage Hood+10      Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 10.1-10.1 2740.7  White Hollow Mage Hood+10      Black Witch Robe+5             Desert Sorceress Gloves+10     Hexer's Boots+5               
+ 10.2-10.6 2762.35 White Hollow Mage Hood+10      Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 10.7-11.2 2769.25 White Hollow Mage Hood+10      Black Witch Robe+5             Wanderer Manchettes+10         Hexer's Boots+5               
+ 11.3-11.4 2808.15 White Hollow Mage Hood+10      Black Witch Robe+5             Leather Gloves+10              Hexer's Boots+5               
+ 11.5-12.4 2840.1  White Hollow Mage Hood+10      Black Witch Robe+5             Agdayne's Cuffs+5              Hexer's Boots+5               
+ 12.5-12.5 2844.3  Varangian Helm+10              Black Witch Robe+5             Manikin Gloves+10              Hexer's Boots+5               
+ 12.6-12.6 2849.5  Moon Butterfly Hat+5           Black Witch Robe+5             Velstadt's Gauntlets+5         Hexer's Boots+5               
+ 12.7-12.8 2915.15 Varangian Helm+10              Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 12.9-13.1 2937.85 Varangian Helm+10              Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 13.2-13.2 2947.75 White Hollow Mage Hood+10      Black Witch Robe+5             Drakeblood Gauntlets+10        Hexer's Boots+5               
+ 13.3-13.3 2975.05 White Hollow Mage Hood+10      Black Witch Robe+5             Faraam Gauntlets+10            Hexer's Boots+5               
+ 13.4-13.5 2978.25 Alonne Captain Helm+10         Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 13.6-14.1 3078.2  White Hollow Mage Hood+10      Black Witch Robe+5             Velstadt's Gauntlets+5         Hexer's Boots+5               
+ 14.2-14.2 3083.85 Drakekeeper Helm+10            Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 14.3-14.3 3084.9  Drakekeeper Helm+10            Black Witch Robe+5             Desert Sorceress Gloves+10     Hexer's Boots+5               
+ 14.4-14.5 3106.55 Drakekeeper Helm+10            Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 14.6-14.6 3154.85 White Hollow Mage Hood+10      Black Witch Robe+5             Imperious Gloves+10            Hexer's Boots+5               
+ 14.7-15.0 3163.25 White Hollow Mage Hood+10      Hexer's Robes+5                Steel Gauntlets+10             Hexer's Boots+5               
+ 15.1-15.1 3171.95 Havel's Helm+5                 Black Witch Robe+5             Moon Butterfly Cuffs+5         Hexer's Boots+5               
+ 15.2-15.2 3213.45 Looking Glass Mask+5           Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 15.3-15.6 3250.65 White Hollow Mage Hood+10      Black Witch Robe+5             Alonne Captain Gauntlets+10    Hexer's Boots+5               
+ 15.7-15.7 3300.65 Havel's Helm+5                 Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 15.8-15.8 3301.7  Havel's Helm+5                 Black Witch Robe+5             Desert Sorceress Gloves+10     Hexer's Boots+5               
+ 15.9-16.2 3323.35 Havel's Helm+5                 Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 16.3-16.3 3345.65 Priestess Headpiece+10         Black Witch Robe+5             Steel Gauntlets+10             Hexer's Boots+5               
+ 16.4-16.4 3350.75 Gyrm Helm+10                   Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 16.5-16.5 3351.8  Gyrm Helm+10                   Black Witch Robe+5             Desert Sorceress Gloves+10     Hexer's Boots+5               
+ 16.6-16.6 3373.45 Gyrm Helm+10                   Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 16.7-16.7 3422.45 White Hollow Mage Hood+10      Black Witch Robe+5             Old Knight Gauntlets+10        Hexer's Boots+5               
+ 16.8-16.8 3444.85 White Hollow Mage Hood+10      Hexer's Robes+5                Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 16.9-17.3 3509.85 White Hollow Mage Hood+10      Black Witch Robe+5             Steel Gauntlets+10             Hexer's Boots+5               
+ 17.4-17.8 3542.05 White Hollow Mage Hood+10      Black Witch Robe+5             Mastodon Gauntlets+10          Hexer's Boots+5               
+ 17.9-18.8 3646.65 White Hollow Mage Hood+10      Hexer's Robes+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 18.9-18.9 3684.05 White Hollow Mage Hood+10      Black Witch Robe+5             Looking Glass Gauntlets+5      Priestess Skirt+10            
+ 19.0-19.4 3791.45 White Hollow Mage Hood+10      Black Witch Robe+5             Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 19.5-19.6 3829.05 Priestess Headpiece+10         Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 19.7-19.9 3829.65 White Priest Headset+10        Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 20.0-20.0 3885.85 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Priestess Skirt+10            
+ 20.1-21.8 3993.25 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 21.9-22.0 4013.95 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Grave Warden Bottoms+10       
+ 22.1-22.5 4046.45 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Lucatiel's Trousers+10        
+ 22.6-22.6 4071.45 Steel Helm+10                  Black Witch Robe+5             Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 22.7-22.8 4083.95 Executioner Helm+5             Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 22.9-23.3 4168.75 Varangian Helm+10              Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 23.4-23.6 4209.15 Alonne Captain Helm+10         Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 23.7-24.0 4273.25 Steel Helm+10                  Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 24.1-24.2 4283.95 Imperious Helm+10              Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 24.3-24.6 4337.45 Drakekeeper Helm+10            Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 24.7-24.7 4355.8  White Hollow Mage Hood+10      Havel's Armor+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+ 24.8-24.8 4356.85 White Hollow Mage Hood+10      Havel's Armor+5                Desert Sorceress Gloves+10     Hexer's Boots+5               
+ 24.9-24.9 4378.5  White Hollow Mage Hood+10      Havel's Armor+5                Shadow Gauntlets+10            Hexer's Boots+5               
+ 25.0-25.0 4382.95 Gyrm Warrior Helm+10           Hexer's Robes+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 25.1-25.2 4405.35 Vengarl's Helm+5               Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 25.3-25.7 4467.05 Looking Glass Mask+5           Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 25.8-26.4 4554.25 Havel's Helm+5                 Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 26.5-27.0 4604.35 Gyrm Helm+10                   Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 27.1-27.1 4622.15 Gyrm Warrior Helm+10           Black Witch Robe+5             Havel's Gauntlets+5            Priestess Skirt+10            
+ 27.2-28.4 4729.55 Gyrm Warrior Helm+10           Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 28.5-28.8 4802.15 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Looking Glass Leggings+5      
+ 28.9-29.4 4852.45 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Mastodon Leggings+10          
+ 29.5-29.5 4857.3  Bone Crown+5                   Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 29.6-30.8 5000.95 White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 30.9-30.9 5026.9  White Hollow Mage Hood+10      Alonne Captain Armor+10        Havel's Gauntlets+5            Hexer's Boots+5               
+ 31.0-31.2 5077.0  White Hollow Mage Hood+10      Drakekeeper Armor+10           Havel's Gauntlets+5            Hexer's Boots+5               
+ 31.3-31.5 5084.9  White Hollow Mage Hood+10      Dragonrider Armor+5            Havel's Gauntlets+5            Hexer's Boots+5               
+ 31.6-32.0 5126.0  White Hollow Mage Hood+10      Havel's Armor+5                Steel Gauntlets+10             Hexer's Boots+5               
+ 32.1-32.3 5158.2  White Hollow Mage Hood+10      Havel's Armor+5                Mastodon Gauntlets+10          Hexer's Boots+5               
+ 32.4-32.6 5176.45 Varangian Helm+10              Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 32.7-32.7 5178.9  Moon Butterfly Hat+5           Havel's Armor+5                Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 32.8-32.8 5192.3  Hexer's Hood+5                 Havel's Armor+5                Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 32.9-33.0 5242.1  White Hollow Mage Hood+10      Smelter Demon Armor+5          Havel's Gauntlets+5            Hexer's Boots+5               
+ 33.1-33.1 5243.4  Priestess Headpiece+10         Havel's Armor+5                Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 33.2-33.5 5280.95 Steel Helm+10                  Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 33.6-33.6 5342.6  White Hollow Mage Hood+10      Looking Glass Armor+5          Havel's Gauntlets+5            Hexer's Boots+5               
+ 33.7-34.1 5407.6  White Hollow Mage Hood+10      Havel's Armor+5                Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 34.2-34.3 5445.2  Priestess Headpiece+10         Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 34.4-34.5 5445.8  White Priest Headset+10        Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 34.6-34.7 5502.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Priestess Skirt+10            
+ 34.8-35.9 5609.4  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 36.0-36.4 5612.05 Gyrm Helm+10                   Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 36.5-36.6 5630.1  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Grave Warden Bottoms+10       
+ 36.7-37.5 5737.25 Gyrm Warrior Helm+10           Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 37.6-38.0 5784.9  Varangian Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 38.1-38.3 5825.3  Alonne Captain Helm+10         Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 38.4-38.7 5889.4  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 38.8-38.9 5900.1  Imperious Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 39.0-39.3 5953.6  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 39.4-39.5 5968.6  Havel's Helm+5                 Havel's Armor+5                Looking Glass Gauntlets+5      Hexer's Boots+5               
+ 39.6-39.7 5994.0  Mastodon Helm+10               Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 39.8-39.9 6021.5  Vengarl's Helm+5               Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 40.0-40.4 6083.2  Looking Glass Mask+5           Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 40.5-41.1 6170.4  Havel's Helm+5                 Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 41.2-41.7 6220.5  Gyrm Helm+10                   Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 41.8-41.8 6238.3  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Priestess Skirt+10            
+ 41.9-43.0 6345.7  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 43.1-43.4 6418.3  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Looking Glass Leggings+5      
+ 43.5-44.1 6468.6  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 44.2-44.2 6473.45 Bone Crown+5                   Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 44.3-46.1 6617.1  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.2-46.4 6645.7  Havel's Helm+5                 Drakekeeper Armor+10           Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.5-46.5 6653.6  Havel's Helm+5                 Dragonrider Armor+5            Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.6-46.7 6660.7  Spiked Bandit Helm+10          Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.8-46.8 6698.3  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Looking Glass Leggings+5      
+ 46.9-47.0 6707.8  Executioner Helm+5             Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.1-47.5 6792.6  Varangian Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.6-47.8 6833.0  Alonne Captain Helm+10         Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.9-48.2 6897.1  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.3-48.4 6907.8  Imperious Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.5-48.8 6961.3  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.9-49.0 6979.3  Havel's Helm+5                 Havel's Armor+5                Havel's Gauntlets+5            Looking Glass Leggings+5      
+ 49.1-49.2 7001.7  Mastodon Helm+10               Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 49.3-49.4 7029.6  Havel's Helm+5                 Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 49.5-49.9 7090.9  Looking Glass Mask+5           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 50.0-50.6 7178.1  Havel's Helm+5                 Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 50.7-51.3 7228.2  Gyrm Helm+10                   Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 51.4+     7353.4  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   1936.95 Xanthous             9.1           1276
+    7.2    1883.85 Desert Sorceress     1.3           380
+    14.1   1200.9  Imported             10.2          1877
+    18.8   2216.9  Hard Leather         11.6          1429
+    10.3   2180.6  Bone King            3.3           581
+    9.1    1914.0  Black Leather        3.2           610
+    17.3   2187.8  Bell Keeper          10.2          1322
+    38.5   5421.2  Drakekeeper          4.3           468
+    37.2   5219.5  Alonne Captain       4.3           473
+    29.4   4014.7  Gyrm                 7.3           837
+    9.4    1853.85 Dragon Acolyte       3.7           757
+    15.9   2147.5  Bandit               9.1           1175
+    46.1   6423.5  Looking Glass        2.5           193
+    14.0   2450.45 Lucatiel's           5.1           627
+    29.5   3793.2  Benhart's            10.0          1064
+    21.9   2745.9  Creighton's          11.7          1268
+    16.5   2250.25 Executioner          9.3           1101
+    32.1   4131.0  Throne Defender      9.2           1027
+    35.1   4806.3  Vengarl's            6.2           803
+    6.5    1973.8  Saint's              0.3           122
+    30.0   3899.5  Catarina             9.9           1101
+    8.2    2010.7  White Priest         2.0           405
+    34.2   4335.8  Drangleic            9.9           1071
+    6.5    2014.05 Chaos                0.3           82
+    8.4    818.3   Tseldora             4.7           1597
+    28.7   3697.35 Heide Knight         9.7           1104
+    7.1    1425.45 Monastery            2.9           774
+    23.1   2709.8  Royal Soldier        13.1          1458
+    7.6    1661.1  Aurous (transparent) 2.6           661
+    32.3   4156.8  Mad Warrior          9.4           1001
+    6.9    1917.55 Manikin              0.9           260
+    13.7   2216.1  Jester's             6.5           862
+    39.8   5377.8  Old Knight           6.1           643
+    17.9   1851.4  Hollow Soldier       12.2          1795
+    20.6   2775.0  Alva                 9.2           1218
+    30.4   4139.75 Gyrm Warrior         7.5           861
+    26.8   3134.5  Elite Knight         12.2          1469
+    17.2   1870.0  Infantry             11.3          1639
+    17.7   2017.2  Traveling Merchant   11.5          1524
+    22.9   2954.8  Aurous               9.6           1213
+    6.5    2096.05 Hexer's              0.0           0
+    37.1   5083.5  Dragonrider          5.8           609
+    9.1    1877.3  Wanderer             3.2           647
+    4.2    1443.9  Moon Butterfly       0.0           0
+    6.5    2014.05 Black                0.3           82
+    27.5   3502.3  Throne Watcher       10.6          1183
+    7.0    1822.0  Tattered Cloth       1.4           365
+    54.9   5380.7  Ironclad             21.2          1972
+    30.0   3891.2  Faraam               9.9           1109
+    50.0   7178.1  Havel's              0.0           0
+    8.5    1654.9  Rogue                3.5           767
+    11.0   2066.9  Judgment             4.6           702
+    36.0   5174.0  Steel                3.6           438
+    34.9   4963.35 Velstadt's           5.3           646
+    47.4   6528.9  Smelter Demon        3.1           263
+    43.9   6017.2  Mastodon             4.1           451
+    11.5   1942.6  Leather              5.4           897
+    34.0   4724.8  Imperious            6.8           669
+    27.1   3285.3  King's               11.4          1336
+    7.5    1884.8  Dingy                1.6           426
+    9.5    854.8   Peasant              5.8           1756
+    20.9   2562.95 Penal                11.5          1430
+    29.6   3784.0  Drakeblood           10.6          1216
+    26.2   3088.6  Insolent             11.8          1465
+    32.3   4052.2  Syan's               9.7           1105
+    33.6   3989.6  Sanctum Knight       13.5          1353
+    4.5    1238.1  Lion Warrior         0.6           266
+    26.9   3513.65 Ruin                 9.5           1090
+    16.4   2147.9  Pate's               9.6           1202
+    39.5   4851.8  Rusted Mastodon      10.6          1116
+    28.1   3317.7  Royal Swordsman      12.2          1411
+    5.0    485.1   Prisoner's           1.3           1194
+    23.1   2947.5  Archdrake            9.9           1221
+    25.2   3066.5  Dark                 11.6          1338
+    21.2   2709.8  Falconer             11.2          1283
+    13.9   1994.4  Varangian            7.7           1083
+    7.6    2028.75 Shadow               1.4           293
+    7.9    1833.6  Brigand              2.3           560
+    25.0   3022.7  Knight               11.4          1360
+    6.8    1928.0  Priestess            0.8           236
+    22.9   2809.6  Targray's            11.4          1359
+    54.9   4729.3  Old Ironclad         27.7          2624
+    35.3   4960.6  Alonne Knight        5.7           648
+    9.7    2242.55 Black Witch          2.5           415
+    13.2   2167.5  Astrologist's        6.3           780
+    17.2   1449.8  Hollow Infantry      12.9          2060
+    12.5   2195.9  Grave Warden         5.4           648
+
+Results for Poise:
+  Weight   Score   Pieces
+  3.7-5.3  0.0     Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  5.4-6.0  4.0     Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Executioner Leggings+5        
+  6.1-6.4  7.0     Black Witch Domino Mask+10     Moon Butterfly Wings+5         Targray's Manifers+10          Prisoner's Waistcloth+10      
+  6.5-6.9  8.0     Black Witch Domino Mask+10     Moon Butterfly Wings+5         Gyrm Gloves+10                 Prisoner's Waistcloth+10      
+  7.0-7.5  10.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Throne Watcher Gauntlets+5     Prisoner's Waistcloth+10      
+  7.6-7.8  11.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Faraam Gauntlets+10            Prisoner's Waistcloth+10      
+  7.9-8.2  12.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Velstadt's Gauntlets+5         Prisoner's Waistcloth+10      
+  8.3-9.1  14.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Monastery Long Gloves+5        Gyrm Boots+10                 
+  9.2-10.6 19.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+ 10.7-10.8 21.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Targray's Manifers+10          Gyrm Boots+10                 
+ 10.9-11.5 23.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Executioner Leggings+5        
+ 11.6-11.6 25.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Archdrake Gloves+10            Prisoner's Waistcloth+10      
+ 11.7-11.9 26.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Targray's Manifers+10          Prisoner's Waistcloth+10      
+ 12.0-12.4 27.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Gyrm Gloves+10                 Prisoner's Waistcloth+10      
+ 12.5-13.0 29.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Throne Watcher Gauntlets+5     Prisoner's Waistcloth+10      
+ 13.1-13.3 30.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Faraam Gauntlets+10            Prisoner's Waistcloth+10      
+ 13.4-13.7 31.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Velstadt's Gauntlets+5         Prisoner's Waistcloth+10      
+ 13.8-14.7 33.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Gyrm Boots+10                 
+ 14.8-15.0 34.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Faraam Gauntlets+10            Executioner Leggings+5        
+ 15.1-15.6 35.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Velstadt's Gauntlets+5         Executioner Leggings+5        
+ 15.7-16.1 37.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Executioner Gauntlets+5        Gyrm Boots+10                 
+ 16.2-16.5 40.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Targray's Manifers+10          Gyrm Boots+10                 
+ 16.6-17.0 41.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Gyrm Gloves+10                 Gyrm Boots+10                 
+ 17.1-17.6 43.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Throne Watcher Gauntlets+5     Gyrm Boots+10                 
+ 17.7-17.9 44.0    Rusted Mastodon Helm+10        Lion Warrior Cape+10           Faraam Gauntlets+10            Gyrm Boots+10                 
+ 18.0-19.6 45.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Velstadt's Gauntlets+5         Gyrm Boots+10                 
+ 19.7-20.9 47.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Havel's Leggings+5            
+ 21.0-21.0 49.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Archdrake Gloves+10            Looking Glass Leggings+5      
+ 21.1-21.3 50.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Targray's Manifers+10          Looking Glass Leggings+5      
+ 21.4-21.8 51.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Gyrm Gloves+10                 Looking Glass Leggings+5      
+ 21.9-22.1 53.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Throne Watcher Gauntlets+5     Looking Glass Leggings+5      
+ 22.2-22.4 54.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Targray's Manifers+10          Havel's Leggings+5            
+ 22.5-22.9 55.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Gyrm Gloves+10                 Havel's Leggings+5            
+ 23.0-23.5 57.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Throne Watcher Gauntlets+5     Havel's Leggings+5            
+ 23.6-23.7 58.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Faraam Gauntlets+10            Havel's Leggings+5            
+ 23.8-24.4 59.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+ 24.5-25.1 61.0    Rusted Mastodon Helm+10        Moon Butterfly Wings+5         Havel's Gauntlets+5            Gyrm Boots+10                 
+ 25.2-25.8 63.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Throne Watcher Gauntlets+5     Prisoner's Waistcloth+10      
+ 25.9-26.1 64.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Faraam Gauntlets+10            Prisoner's Waistcloth+10      
+ 26.2-26.2 65.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Archdrake Gloves+10            Prisoner's Waistcloth+10      
+ 26.3-26.5 66.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Targray's Manifers+10          Prisoner's Waistcloth+10      
+ 26.6-27.0 67.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Monastery Long Gloves+5        Gyrm Boots+10                 
+ 27.1-27.6 69.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Throne Watcher Gauntlets+5     Prisoner's Waistcloth+10      
+ 27.7-27.9 70.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Faraam Gauntlets+10            Prisoner's Waistcloth+10      
+ 28.0-28.3 71.0    Rusted Mastodon Helm+10        Alonne Captain Armor+10        Moon Butterfly Cuffs+5         Gyrm Boots+10                 
+ 28.4-29.0 73.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Moon Butterfly Cuffs+5         Gyrm Boots+10                 
+ 29.1-29.3 74.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Targray's Manifers+10          Gyrm Boots+10                 
+ 29.4-29.8 75.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Gyrm Gloves+10                 Gyrm Boots+10                 
+ 29.9-30.4 77.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Throne Watcher Gauntlets+5     Gyrm Boots+10                 
+ 30.5-30.7 78.0    Rusted Mastodon Helm+10        Alonne Knight Armor+10         Faraam Gauntlets+10            Gyrm Boots+10                 
+ 30.8-30.8 79.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Archdrake Gloves+10            Gyrm Boots+10                 
+ 30.9-31.1 80.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Targray's Manifers+10          Gyrm Boots+10                 
+ 31.2-31.6 81.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Gyrm Gloves+10                 Gyrm Boots+10                 
+ 31.7-32.2 83.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Throne Watcher Gauntlets+5     Gyrm Boots+10                 
+ 32.3-32.5 84.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Faraam Gauntlets+10            Gyrm Boots+10                 
+ 32.6-34.2 85.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Velstadt's Gauntlets+5         Gyrm Boots+10                 
+ 34.3-34.6 87.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Moon Butterfly Cuffs+5         Havel's Leggings+5            
+ 34.7-35.1 88.0    Rusted Mastodon Helm+10        Havel's Armor+5                Gyrm Gloves+10                 Gyrm Boots+10                 
+ 35.2-35.7 90.0    Rusted Mastodon Helm+10        Havel's Armor+5                Throne Watcher Gauntlets+5     Gyrm Boots+10                 
+ 35.8-36.0 91.0    Rusted Mastodon Helm+10        Havel's Armor+5                Faraam Gauntlets+10            Gyrm Boots+10                 
+ 36.1-36.4 92.0    Rusted Mastodon Helm+10        Havel's Armor+5                Velstadt's Gauntlets+5         Gyrm Boots+10                 
+ 36.5-36.7 93.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Throne Watcher Gauntlets+5     Looking Glass Leggings+5      
+ 36.8-37.0 94.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Targray's Manifers+10          Havel's Leggings+5            
+ 37.1-37.5 95.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Gyrm Gloves+10                 Havel's Leggings+5            
+ 37.6-38.1 97.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Throne Watcher Gauntlets+5     Havel's Leggings+5            
+ 38.2-38.4 98.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Faraam Gauntlets+10            Havel's Leggings+5            
+ 38.5-39.0 99.0    Rusted Mastodon Helm+10        Dragonrider Armor+5            Velstadt's Gauntlets+5         Havel's Leggings+5            
+ 39.1-40.5 101.0   Rusted Mastodon Helm+10        Dragonrider Armor+5            Havel's Gauntlets+5            Gyrm Boots+10                 
+ 40.6-41.0 102.0   Rusted Mastodon Helm+10        Havel's Armor+5                Gyrm Gloves+10                 Havel's Leggings+5            
+ 41.1-41.6 104.0   Rusted Mastodon Helm+10        Havel's Armor+5                Throne Watcher Gauntlets+5     Havel's Leggings+5            
+ 41.7-41.9 105.0   Rusted Mastodon Helm+10        Havel's Armor+5                Faraam Gauntlets+10            Havel's Leggings+5            
+ 42.0-42.5 106.0   Rusted Mastodon Helm+10        Havel's Armor+5                Velstadt's Gauntlets+5         Havel's Leggings+5            
+ 42.6-43.1 108.0   Rusted Mastodon Helm+10        Havel's Armor+5                Havel's Gauntlets+5            Gyrm Boots+10                 
+ 43.2-43.8 109.0   Rusted Mastodon Helm+10        Alonne Knight Armor+10         Havel's Gauntlets+5            Havel's Leggings+5            
+ 43.9-44.5 111.0   Rusted Mastodon Helm+10        Dragonrider Armor+5            Looking Glass Gauntlets+5      Havel's Leggings+5            
+ 44.6-44.9 113.0   Rusted Mastodon Helm+10        Alonne Captain Armor+10        Havel's Gauntlets+5            Havel's Leggings+5            
+ 45.0-47.3 115.0   Rusted Mastodon Helm+10        Dragonrider Armor+5            Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.4-48.4 118.0   Rusted Mastodon Helm+10        Havel's Armor+5                Looking Glass Gauntlets+5      Havel's Leggings+5            
+ 48.5-51.3 122.0   Rusted Mastodon Helm+10        Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 51.4+     123.0   Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   0.0     Xanthous             11.5          35
+    7.2    0.0     Desert Sorceress     3.5           10
+    14.1   0.0     Imported             10.4          33
+    18.8   5.0     Hard Leather         12.6          40
+    10.3   0.0     Bone King            6.6           19
+    9.1    0.0     Black Leather        5.4           14
+    17.3   5.0     Bell Keeper          11.1          38
+    38.5   76.0    Drakekeeper          8.6           23
+    37.2   82.0    Alonne Captain       5.5           13
+    29.4   67.0    Gyrm                 2.7           8
+    9.4    0.0     Dragon Acolyte       5.7           19
+    15.9   15.5    Bandit               6.7           21
+    46.1   104.0   Looking Glass        5.0           11
+    14.0   0.0     Lucatiel's           10.3          33
+    29.5   49.0    Benhart's            8.5           26
+    21.9   34.5    Creighton's          6.8           18
+    16.5   20.5    Executioner          5.7           19
+    32.1   54.0    Throne Defender      9.9           29
+    35.1   68.0    Vengarl's            8.0           20
+    6.5    0.0     Saint's              2.8           8
+    30.0   60.0    Catarina             5.5           17
+    8.2    0.0     White Priest         4.5           12
+    34.2   60.0    Drangleic            9.7           25
+    6.5    0.0     Chaos                2.8           8
+    8.4    0.0     Tseldora             4.7           14
+    28.7   49.0    Heide Knight         7.7           24
+    7.1    0.0     Monastery            3.4           10
+    23.1   36.0    Royal Soldier        7.4           21
+    7.6    0.0     Aurous (transparent) 3.9           11
+    32.3   58.0    Mad Warrior          8.7           26
+    6.9    0.0     Manikin              3.2           8
+    13.7   0.0     Jester's             10.0          31
+    39.8   86.0    Old Knight           5.5           15
+    17.9   15.0    Hollow Soldier       8.7           29
+    20.6   34.0    Alva                 5.8           13
+    30.4   68.0    Gyrm Warrior         3.3           9
+    26.8   36.0    Elite Knight         11.1          31
+    17.2   0.0     Infantry             13.5          43
+    17.7   0.0     Traveling Merchant   14.0          44
+    22.9   40.0    Aurous               6.6           15
+    6.5    0.0     Hexer's              2.8           8
+    37.1   76.0    Dragonrider          7.2           19
+    9.1    0.0     Wanderer             5.4           14
+    4.2    0.0     Moon Butterfly       0.5           0
+    6.5    0.0     Black                2.8           8
+    27.5   42.0    Throne Watcher       10.4          27
+    7.0    0.0     Tattered Cloth       3.3           10
+    54.9   82.0    Ironclad             23.2          41
+    30.0   55.0    Faraam               7.5           22
+    50.0   120.0   Havel's              1.5           2
+    8.5    0.0     Rogue                4.8           14
+    11.0   0.0     Judgment             7.3           23
+    36.0   76.0    Steel                6.1           15
+    34.9   65.0    Velstadt's           8.7           22
+    47.4   100.0   Smelter Demon        8.3           18
+    43.9   89.0    Mastodon             8.7           20
+    11.5   0.0     Leather              7.8           23
+    34.0   64.0    Imperious            8.1           21
+    27.1   37.5    King's               10.8          31
+    7.5    0.0     Dingy                3.8           10
+    9.5    0.0     Peasant              5.8           19
+    20.9   5.0     Penal                14.7          42
+    29.6   47.0    Drakeblood           9.9           28
+    26.2   40.0    Insolent             9.9           25
+    32.3   54.5    Syan's               9.8           29
+    33.6   37.0    Sanctum Knight       17.9          48
+    4.5    0.0     Lion Warrior         0.8           0
+    26.9   48.0    Ruin                 5.9           19
+    16.4   5.0     Pate's               10.2          35
+    39.5   77.0    Rusted Mastodon      9.6           24
+    28.1   45.0    Royal Swordsman      10.1          26
+    5.0    0.0     Prisoner's           1.3           0
+    23.1   34.5    Archdrake            8.0           22
+    25.2   40.0    Dark                 8.9           23
+    21.2   30.0    Falconer             8.1           20
+    13.9   5.0     Varangian            7.7           28
+    7.6    0.0     Shadow               3.9           11
+    7.9    0.0     Brigand              4.2           12
+    25.0   46.0    Knight               5.3           15
+    6.8    0.0     Priestess            3.1           8
+    22.9   39.5    Targray's            6.6           15
+    54.9   75.0    Old Ironclad         25.5          48
+    35.3   75.0    Alonne Knight        5.9           14
+    9.7    0.0     Black Witch          6.0           19
+    13.2   0.0     Astrologist's        9.5           30
+    17.2   0.0     Hollow Infantry      13.5          43
+    12.5   0.0     Grave Warden         8.8           29
+
+Results for Total Defense:
+  Weight   Score   Pieces
+  3.7-3.7  888.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  895.0   Monastery Headcloth+5          Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.9-3.9  1158.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.0-4.0  1167.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Lion Mage Skirt+10            
+  4.1-4.1  1213.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  4.2-4.2  1254.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.3-4.3  1287.0  Hexer's Hood+5                 Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Lion Mage Skirt+10            
+  4.4-4.4  1309.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  4.5-4.5  1333.0  Hexer's Hood+5                 Moon Butterfly Wings+5         Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  4.6-4.6  1342.0  Hexer's Hood+5                 Moon Butterfly Wings+5         Hexer's Gloves+5               Lion Mage Skirt+10            
+  4.7-4.7  1391.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  4.8-4.8  1405.0  Hexer's Hood+5                 Moon Butterfly Wings+5         Lion Mage Cuffs+10             Moon Butterfly Skirt+5        
+  4.9-4.9  1446.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Hexer's Gloves+5               Hexer's Boots+5               
+  5.0-5.0  1487.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  5.1-5.1  1511.0  Hexer's Hood+5                 Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  5.2-5.2  1542.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Hexer's Gloves+5               Hexer's Boots+5               
+  5.3-5.3  1568.0  Black Witch Domino Mask+10     Hexer's Robes+5                Hexer's Gloves+5               Lion Mage Skirt+10            
+  5.4-5.4  1600.0  Moon Butterfly Hat+5           Hexer's Robes+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.5-5.5  1624.0  Hexer's Hood+5                 Hexer's Robes+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.6-5.6  1655.0  Moon Butterfly Hat+5           Hexer's Robes+5                Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  5.7-5.7  1679.0  Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Moon Butterfly Skirt+5        
+  5.8-5.8  1688.0  Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Lion Mage Skirt+10            
+  5.9-5.9  1737.0  Black Witch Domino Mask+10     Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.0-6.0  1744.0  Monastery Headcloth+5          Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.1-6.1  1792.0  Black Witch Domino Mask+10     Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.2-6.2  1833.0  Moon Butterfly Hat+5           Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.3-6.3  1857.0  Hexer's Hood+5                 Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  6.4-6.4  1888.0  Moon Butterfly Hat+5           Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.5-6.6  1912.0  Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.7-6.7  1915.0  Hexer's Hood+5                 Hexer's Robes+5                Manikin Gloves+10              Hexer's Boots+5               
+  6.8-6.8  1960.0  Moon Butterfly Hat+5           Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  6.9-7.0  1984.0  Hexer's Hood+5                 Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  7.1-7.1  1995.0  Hexer's Hood+5                 Hexer's Robes+5                Shadow Gauntlets+10            Hexer's Boots+5               
+  7.2-7.3  2050.0  White Hollow Mage Hood+10      Hexer's Robes+5                Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  7.4-7.5  2105.0  White Hollow Mage Hood+10      Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  7.6-7.7  2108.0  White Hollow Mage Hood+10      Hexer's Robes+5                Manikin Gloves+10              Hexer's Boots+5               
+  7.8-7.9  2177.0  White Hollow Mage Hood+10      Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  8.0-8.0  2188.0  White Hollow Mage Hood+10      Hexer's Robes+5                Shadow Gauntlets+10            Hexer's Boots+5               
+  8.1-8.4  2196.0  White Hollow Mage Hood+10      Hexer's Robes+5                Black Witch Gloves+5           Hexer's Boots+5               
+  8.5-8.5  2198.0  White Hollow Mage Hood+10      Hexer's Robes+5                Wanderer Manchettes+10         Hexer's Boots+5               
+  8.6-8.6  2208.0  Moon Butterfly Hat+5           Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  8.7-8.8  2232.0  Hexer's Hood+5                 Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  8.9-8.9  2235.0  Hexer's Hood+5                 Black Witch Robe+5             Manikin Gloves+10              Hexer's Boots+5               
+  9.0-9.0  2280.0  Moon Butterfly Hat+5           Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+  9.1-9.2  2304.0  Hexer's Hood+5                 Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+  9.3-9.5  2370.0  White Hollow Mage Hood+10      Black Witch Robe+5             Moon Butterfly Cuffs+5         Hexer's Boots+5               
+  9.6-9.7  2425.0  White Hollow Mage Hood+10      Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  9.8-9.9  2428.0  White Hollow Mage Hood+10      Black Witch Robe+5             Manikin Gloves+10              Hexer's Boots+5               
+ 10.0-10.1 2497.0  White Hollow Mage Hood+10      Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 10.2-10.6 2516.0  White Hollow Mage Hood+10      Black Witch Robe+5             Black Witch Gloves+5           Hexer's Boots+5               
+ 10.7-11.2 2518.0  White Hollow Mage Hood+10      Black Witch Robe+5             Wanderer Manchettes+10         Hexer's Boots+5               
+ 11.3-11.4 2553.0  White Hollow Mage Hood+10      Black Witch Robe+5             Leather Gloves+10              Hexer's Boots+5               
+ 11.5-12.6 2581.0  White Hollow Mage Hood+10      Black Witch Robe+5             Agdayne's Cuffs+5              Hexer's Boots+5               
+ 12.7-12.8 2593.0  Varangian Helm+10              Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 12.9-12.9 2604.0  Varangian Helm+10              Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 13.0-13.3 2612.0  Varangian Helm+10              Black Witch Robe+5             Black Witch Gloves+5           Hexer's Boots+5               
+ 13.4-13.4 2614.0  Varangian Helm+10              Black Witch Robe+5             Wanderer Manchettes+10         Hexer's Boots+5               
+ 13.5-13.5 2621.0  White Hollow Mage Hood+10      Black Witch Robe+5             Agdayne's Cuffs+5              Lucatiel's Trousers+10        
+ 13.6-13.8 2664.0  White Hollow Mage Hood+10      Black Witch Robe+5             Velstadt's Gauntlets+5         Hexer's Boots+5               
+ 13.9-14.2 2669.0  White Hollow Mage Hood+10      Black Witch Robe+5             Vengarl's Gloves+5             Hexer's Boots+5               
+ 14.3-14.3 2677.0  Varangian Helm+10              Black Witch Robe+5             Agdayne's Cuffs+5              Hexer's Boots+5               
+ 14.4-14.4 2678.0  Drakekeeper Helm+10            Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 14.5-14.5 2686.0  Drakekeeper Helm+10            Black Witch Robe+5             Black Witch Gloves+5           Hexer's Boots+5               
+ 14.6-15.2 2753.0  White Hollow Mage Hood+10      Black Witch Robe+5             Imperious Gloves+10            Hexer's Boots+5               
+ 15.3-15.6 2823.0  White Hollow Mage Hood+10      Black Witch Robe+5             Alonne Captain Gauntlets+10    Hexer's Boots+5               
+ 15.7-15.8 2842.0  Velstadt's Helm+5              Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 15.9-15.9 2853.0  Velstadt's Helm+5              Black Witch Robe+5             Shadow Gauntlets+10            Hexer's Boots+5               
+ 16.0-16.3 2861.0  Velstadt's Helm+5              Black Witch Robe+5             Black Witch Gloves+5           Hexer's Boots+5               
+ 16.4-16.6 2863.0  Velstadt's Helm+5              Black Witch Robe+5             Wanderer Manchettes+10         Hexer's Boots+5               
+ 16.7-16.8 2927.0  White Hollow Mage Hood+10      Black Witch Robe+5             Old Knight Gauntlets+10        Hexer's Boots+5               
+ 16.9-17.3 3006.0  White Hollow Mage Hood+10      Black Witch Robe+5             Steel Gauntlets+10             Hexer's Boots+5               
+ 17.4-17.9 3010.0  White Hollow Mage Hood+10      Black Witch Robe+5             Mastodon Gauntlets+10          Hexer's Boots+5               
+ 18.0-18.3 3011.0  White Hollow Mage Hood+10      Black Witch Robe+5             Ironclad Gauntlets+10          Hexer's Boots+5               
+ 18.4-18.5 3029.0  Priestess Headpiece+10         Black Witch Robe+5             Smelter Demon Gauntlets+5      Hexer's Boots+5               
+ 18.6-18.8 3034.0  White Priest Headset+10        Black Witch Robe+5             Smelter Demon Gauntlets+5      Hexer's Boots+5               
+ 18.9-18.9 3076.0  White Hollow Mage Hood+10      Black Witch Robe+5             Smelter Demon Gauntlets+5      Priestess Skirt+10            
+ 19.0-19.9 3178.0  White Hollow Mage Hood+10      Black Witch Robe+5             Smelter Demon Gauntlets+5      Hexer's Boots+5               
+ 20.0-20.0 3208.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Priestess Skirt+10            
+ 20.1-21.8 3310.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 21.9-22.0 3317.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Grave Warden Bottoms+10       
+ 22.1-22.5 3350.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Lucatiel's Trousers+10        
+ 22.6-22.8 3351.0  Velstadt's Helm+5              Black Witch Robe+5             Steel Gauntlets+10             Hexer's Boots+5               
+ 22.9-23.6 3406.0  Varangian Helm+10              Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 23.7-23.9 3424.0  Steel Helm+10                  Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 24.0-24.0 3442.0  Gyrm Warrior Helm+10           Black Witch Robe+5             Steel Gauntlets+10             Hexer's Boots+5               
+ 24.1-24.2 3457.0  Smelter Demon Helm+5           Black Witch Robe+5             Steel Gauntlets+10             Hexer's Boots+5               
+ 24.3-24.6 3480.0  Drakekeeper Helm+10            Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 24.7-25.0 3523.0  Velstadt's Helm+5              Black Witch Robe+5             Smelter Demon Gauntlets+5      Hexer's Boots+5               
+ 25.1-25.2 3543.0  Vengarl's Helm+5               Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 25.3-25.7 3555.0  Looking Glass Mask+5           Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 25.8-27.1 3655.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 27.2-27.2 3746.0  Gyrm Warrior Helm+10           Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 27.3-28.4 3761.0  Smelter Demon Helm+5           Black Witch Robe+5             Havel's Gauntlets+5            Hexer's Boots+5               
+ 28.5-28.8 3767.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Smelter Demon Leggings+5      
+ 28.9-29.5 3801.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Mastodon Leggings+10          
+ 29.6-31.5 3897.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 31.6-32.0 3917.0  White Hollow Mage Hood+10      Havel's Armor+5                Steel Gauntlets+10             Hexer's Boots+5               
+ 32.1-32.3 3940.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Steel Leggings+10             
+ 32.4-32.9 3993.0  Varangian Helm+10              Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 33.0-33.1 3997.0  White Hollow Mage Hood+10      Mastodon Armor+10              Havel's Gauntlets+5            Hexer's Boots+5               
+ 33.2-33.4 4011.0  Steel Helm+10                  Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 33.5-33.5 4031.0  Gyrm Warrior Helm+10           Black Witch Robe+5             Havel's Gauntlets+5            Steel Leggings+10             
+ 33.6-33.6 4076.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Alonne Knight Leggings+10     
+ 33.7-34.1 4089.0  White Hollow Mage Hood+10      Havel's Armor+5                Smelter Demon Gauntlets+5      Hexer's Boots+5               
+ 34.2-34.5 4112.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Smelter Demon Leggings+5      
+ 34.6-34.7 4146.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Mastodon Leggings+10          
+ 34.8-35.2 4221.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 35.3-36.0 4242.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 36.1-36.6 4252.0  Smelter Demon Helm+5           Black Witch Robe+5             Havel's Gauntlets+5            Mastodon Leggings+10          
+ 36.7-36.7 4333.0  Gyrm Warrior Helm+10           Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 36.8-38.6 4348.0  Smelter Demon Helm+5           Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 38.7-38.7 4353.0  Gyrm Warrior Helm+10           Havel's Armor+5                Steel Gauntlets+10             Hexer's Boots+5               
+ 38.8-38.9 4368.0  Smelter Demon Helm+5           Havel's Armor+5                Steel Gauntlets+10             Hexer's Boots+5               
+ 39.0-39.2 4391.0  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 39.3-39.3 4403.0  Velstadt's Helm+5              Looking Glass Armor+5          Havel's Gauntlets+5            Hexer's Boots+5               
+ 39.4-39.7 4434.0  Velstadt's Helm+5              Havel's Armor+5                Smelter Demon Gauntlets+5      Hexer's Boots+5               
+ 39.8-39.9 4454.0  Vengarl's Helm+5               Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 40.0-40.4 4466.0  Looking Glass Mask+5           Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 40.5-41.8 4566.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 41.9-41.9 4657.0  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 42.0-43.0 4672.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Hexer's Boots+5               
+ 43.1-43.4 4678.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Smelter Demon Leggings+5      
+ 43.5-44.2 4712.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 44.3-46.7 4808.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.8-47.0 4851.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Steel Leggings+10             
+ 47.1-47.8 4904.0  Varangian Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.9-48.1 4922.0  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.2-48.2 4942.0  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Steel Leggings+10             
+ 48.3-48.7 4987.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Alonne Knight Leggings+10     
+ 48.8-48.8 4990.0  Velstadt's Helm+5              Looking Glass Armor+5          Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.9-49.2 5023.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Smelter Demon Leggings+5      
+ 49.3-49.6 5057.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 49.7-49.7 5078.0  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Alonne Knight Leggings+10     
+ 49.8-49.9 5093.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Alonne Knight Leggings+10     
+ 50.0-50.7 5153.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 50.8-51.3 5163.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 51.4-51.4 5244.0  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 51.5+     5259.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   1739.0  Xanthous             9.2           1014
+    7.2    1717.0  Desert Sorceress     1.3           333
+    14.1   1068.0  Imported             10.2          1601
+    18.8   1918.0  Hard Leather         12.0          1114
+    10.3   1966.0  Bone King            3.4           550
+    9.1    1697.0  Black Leather        3.2           607
+    17.3   1906.0  Bell Keeper          10.8          1100
+    38.5   4009.0  Drakekeeper          5.3           339
+    37.2   3803.0  Alonne Captain       7.6           545
+    29.4   2824.0  Gyrm                 13.7          977
+    9.4    1651.0  Dragon Acolyte       3.8           719
+    15.9   1758.0  Bandit               9.8           1095
+    46.1   4618.0  Looking Glass        4.2           190
+    14.0   2205.0  Lucatiel's           5.4           464
+    29.5   2855.0  Benhart's            13.5          946
+    21.9   2085.0  Creighton's          14.5          1232
+    16.5   1782.0  Executioner          10.4          1081
+    32.1   3111.0  Throne Defender      13.1          829
+    35.1   3561.0  Vengarl's            9.3           660
+    6.5    1783.0  Saint's              0.4           129
+    30.0   2847.0  Catarina             14.1          1050
+    8.2    1823.0  White Priest         2.0           373
+    34.2   3221.0  Drangleic            14.1          868
+    6.5    1830.0  Chaos                0.3           82
+    8.4    734.0   Tseldora             4.7           1462
+    28.7   2749.0  Heide Knight         14.1          1018
+    7.1    1244.0  Monastery            2.9           751
+    23.1   2037.0  Royal Soldier        15.9          1369
+    7.6    1494.0  Aurous (transparent) 2.5           614
+    32.3   3060.0  Mad Warrior          13.4          880
+    6.9    1706.0  Manikin              1.0           278
+    13.7   1971.0  Jester's             6.8           693
+    39.8   3865.0  Old Knight           10.2          589
+    17.9   1496.0  Hollow Soldier       12.8          1514
+    20.6   2105.0  Alva                 13.2          1205
+    30.4   2936.0  Gyrm Warrior         13.5          961
+    26.8   2418.0  Elite Knight         17.2          1237
+    17.2   1671.0  Infantry             11.5          1335
+    17.7   1795.0  Traveling Merchant   11.5          1215
+    22.9   2218.0  Aurous               14.2          1188
+    6.5    1912.0  Hexer's              0.0           0
+    37.1   3713.0  Dragonrider          9.9           635
+    9.1    1676.0  Wanderer             3.4           628
+    4.2    1254.0  Moon Butterfly       0.0           0
+    6.5    1830.0  Black                0.3           82
+    27.5   2694.0  Throne Watcher       12.9          1067
+    7.0    1615.0  Tattered Cloth       1.5           369
+    54.9   3923.0  Ironclad             22.8          1336
+    30.0   2885.0  Faraam               13.2          1012
+    50.0   5120.0  Havel's              0.0           33
+    8.5    1480.0  Rogue                3.5           718
+    11.0   1860.0  Judgment             4.6           658
+    36.0   3797.0  Steel                7.1           445
+    34.9   3727.0  Velstadt's           7.7           494
+    47.4   4753.0  Smelter Demon        3.1           151
+    43.9   4393.0  Mastodon             4.6           319
+    11.5   1735.0  Leather              5.6           846
+    34.0   3520.0  Imperious            9.3           556
+    27.1   2512.0  King's               16.8          1143
+    7.5    1685.0  Dingy                1.7           420
+    9.5    758.0   Peasant              5.8           1612
+    20.9   2262.0  Penal                11.9          1048
+    29.6   2871.0  Drakeblood           12.8          1026
+    26.2   2324.0  Insolent             16.8          1331
+    32.3   3035.0  Syan's               13.4          905
+    33.6   3188.0  Sanctum Knight       13.6          888
+    4.5    1101.0  Lion Warrior         0.6           232
+    26.9   2620.0  Ruin                 13.4          1035
+    16.4   1860.0  Pate's               10.0          1003
+    39.5   3486.0  Rusted Mastodon      14.8          948
+    28.1   2490.0  Royal Swordsman      18.1          1271
+    5.0    438.0   Prisoner's           1.3           1049
+    23.1   2281.0  Archdrake            14.0          1125
+    25.2   2318.0  Dark                 15.8          1225
+    21.2   2099.0  Falconer             13.8          1211
+    13.9   1722.0  Varangian            8.0           947
+    7.6    1794.0  Shadow               1.4           314
+    7.9    1643.0  Brigand              2.3           534
+    25.0   2210.0  Knight               16.3          1313
+    6.8    1744.0  Priestess            0.8           216
+    22.9   2076.0  Targray's            15.5          1330
+    54.9   3417.0  Old Ironclad         31.2          1842
+    35.3   3645.0  Alonne Knight        9.5           597
+    9.7    2051.0  Black Witch          2.3           374
+    13.2   1972.0  Astrologist's        6.3           640
+    17.2   1293.0  Hollow Infantry      12.8          1713
+    12.5   1964.0  Grave Warden         5.6           617
+
+Results for Total Defense and Resistances:
+  Weight   Score   Pieces
+  3.7-3.7  1256.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  1268.0  Monastery Headcloth+5          Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.9-3.9  1658.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.0-4.0  1670.0  Monastery Headcloth+5          Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.1-4.1  1686.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Saint's Long Gloves+5          Moon Butterfly Skirt+5        
+  4.2-4.2  1789.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.3-4.3  1797.0  Moon Butterfly Hat+5           Red Lion Warrior Cape+10       Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.4-4.4  1817.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Saint's Long Gloves+5          Moon Butterfly Skirt+5        
+  4.5-4.5  1825.0  Moon Butterfly Hat+5           Red Lion Warrior Cape+10       Saint's Long Gloves+5          Moon Butterfly Skirt+5        
+  4.6-4.6  1836.0  Priestess Headpiece+10         Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.7-4.7  1890.0  Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  4.8-4.9  1948.0  Moon Butterfly Hat+5           Red Lion Warrior Cape+10       Lion Mage Cuffs+10             Moon Butterfly Skirt+5        
+  5.0-5.0  2021.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  5.1-5.1  2029.0  Moon Butterfly Hat+5           Red Lion Warrior Cape+10       Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  5.2-5.2  2049.0  Moon Butterfly Hat+5           Moon Butterfly Wings+5         Saint's Long Gloves+5          Saint's Trousers+5            
+  5.3-5.3  2068.0  Priestess Headpiece+10         Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  5.4-5.5  2155.0  Moon Butterfly Hat+5           Saint's Dress+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.6-5.7  2183.0  Moon Butterfly Hat+5           Saint's Dress+5                Saint's Long Gloves+5          Moon Butterfly Skirt+5        
+  5.8-5.8  2202.0  Priestess Headpiece+10         Saint's Dress+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.9-5.9  2256.0  Black Witch Domino Mask+10     Saint's Dress+5                Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  6.0-6.1  2306.0  Moon Butterfly Hat+5           Saint's Dress+5                Lion Mage Cuffs+10             Moon Butterfly Skirt+5        
+  6.2-6.3  2387.0  Moon Butterfly Hat+5           Saint's Dress+5                Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  6.4-6.5  2415.0  Moon Butterfly Hat+5           Saint's Dress+5                Saint's Long Gloves+5          Saint's Trousers+5            
+  6.6-6.6  2434.0  Priestess Headpiece+10         Saint's Dress+5                Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  6.7-6.7  2455.0  Moon Butterfly Hat+5           Saint's Dress+5                Lion Warrior Cuffs+10          Saint's Trousers+5            
+  6.8-6.9  2538.0  Moon Butterfly Hat+5           Saint's Dress+5                Lion Mage Cuffs+10             Saint's Trousers+5            
+  7.0-7.1  2549.0  White Hollow Mage Hood+10      Saint's Dress+5                Lion Mage Cuffs+10             Moon Butterfly Skirt+5        
+  7.2-7.3  2630.0  White Hollow Mage Hood+10      Saint's Dress+5                Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  7.4-7.5  2658.0  White Hollow Mage Hood+10      Saint's Dress+5                Saint's Long Gloves+5          Saint's Trousers+5            
+  7.6-7.6  2668.0  White Hollow Mage Hood+10      Saint's Dress+5                Dingy Cuffs+10                 Saint's Trousers+5            
+  7.7-7.7  2698.0  White Hollow Mage Hood+10      Saint's Dress+5                Lion Warrior Cuffs+10          Saint's Trousers+5            
+  7.8-8.2  2781.0  White Hollow Mage Hood+10      Saint's Dress+5                Lion Mage Cuffs+10             Saint's Trousers+5            
+  8.3-8.9  2827.0  White Hollow Mage Hood+10      Saint's Dress+5                Lion Mage Cuffs+10             Blood-Stained Skirt+10        
+  9.0-9.1  2898.0  Moon Butterfly Hat+5           Black Witch Robe+5             Lion Mage Cuffs+10             Saint's Trousers+5            
+  9.2-9.2  2909.0  White Hollow Mage Hood+10      Black Witch Robe+5             Lion Mage Cuffs+10             Moon Butterfly Skirt+5        
+  9.3-9.5  2990.0  White Hollow Mage Hood+10      Black Witch Robe+5             Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  9.6-9.7  3018.0  White Hollow Mage Hood+10      Black Witch Robe+5             Saint's Long Gloves+5          Saint's Trousers+5            
+  9.8-9.9  3058.0  White Hollow Mage Hood+10      Black Witch Robe+5             Lion Warrior Cuffs+10          Saint's Trousers+5            
+ 10.0-10.4 3141.0  White Hollow Mage Hood+10      Black Witch Robe+5             Lion Mage Cuffs+10             Saint's Trousers+5            
+ 10.5-11.4 3187.0  White Hollow Mage Hood+10      Black Witch Robe+5             Lion Mage Cuffs+10             Blood-Stained Skirt+10        
+ 11.5-11.9 3253.0  White Hollow Mage Hood+10      Black Witch Robe+5             Agdayne's Cuffs+5              Saint's Trousers+5            
+ 12.0-14.0 3299.0  White Hollow Mage Hood+10      Black Witch Robe+5             Agdayne's Cuffs+5              Blood-Stained Skirt+10        
+ 14.1-14.4 3311.0  White Hollow Mage Hood+10      Black Witch Robe+5             Velstadt's Gauntlets+5         Blood-Stained Skirt+10        
+ 14.5-14.5 3344.0  Warlock Mask+10                Black Witch Robe+5             Agdayne's Cuffs+5              Saint's Trousers+5            
+ 14.6-14.9 3365.0  White Hollow Mage Hood+10      Black Witch Robe+5             Imperious Gloves+10            Saint's Trousers+5            
+ 15.0-15.0 3390.0  Warlock Mask+10                Black Witch Robe+5             Agdayne's Cuffs+5              Blood-Stained Skirt+10        
+ 15.1-15.6 3411.0  White Hollow Mage Hood+10      Black Witch Robe+5             Imperious Gloves+10            Blood-Stained Skirt+10        
+ 15.7-16.1 3485.0  Velstadt's Helm+5              Black Witch Robe+5             Lion Mage Cuffs+10             Saint's Trousers+5            
+ 16.2-16.8 3531.0  Velstadt's Helm+5              Black Witch Robe+5             Lion Mage Cuffs+10             Blood-Stained Skirt+10        
+ 16.9-16.9 3593.0  White Hollow Mage Hood+10      Black Witch Robe+5             Steel Gauntlets+10             Saint's Trousers+5            
+ 17.0-17.3 3632.0  White Hollow Mage Hood+10      Black Witch Robe+5             Drakekeeper Gauntlets+10       Saint's Trousers+5            
+ 17.4-17.4 3639.0  White Hollow Mage Hood+10      Black Witch Robe+5             Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 17.5-18.6 3678.0  White Hollow Mage Hood+10      Black Witch Robe+5             Drakekeeper Gauntlets+10       Blood-Stained Skirt+10        
+ 18.7-18.8 3692.0  Smelter Demon Helm+5           Black Witch Robe+5             Agdayne's Cuffs+5              Saint's Trousers+5            
+ 18.9-18.9 3704.0  White Hollow Mage Hood+10      Black Witch Robe+5             Smelter Demon Gauntlets+5      Priestess Skirt+10            
+ 19.0-19.4 3829.0  White Hollow Mage Hood+10      Black Witch Robe+5             Smelter Demon Gauntlets+5      Saint's Trousers+5            
+ 19.5-20.0 3875.0  White Hollow Mage Hood+10      Black Witch Robe+5             Smelter Demon Gauntlets+5      Blood-Stained Skirt+10        
+ 20.1-20.5 3962.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Saint's Trousers+5            
+ 20.6-23.0 4008.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 23.1-23.3 4053.0  Warlock Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            Saint's Trousers+5            
+ 23.4-23.5 4055.0  Penal Mask+5                   Black Witch Robe+5             Havel's Gauntlets+5            Saint's Trousers+5            
+ 23.6-23.8 4099.0  Warlock Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 23.9-24.5 4101.0  Penal Mask+5                   Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 24.6-24.6 4114.0  Imperious Helm+10              Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 24.7-25.1 4173.0  Velstadt's Helm+5              Black Witch Robe+5             Smelter Demon Gauntlets+5      Saint's Trousers+5            
+ 25.2-25.7 4219.0  Velstadt's Helm+5              Black Witch Robe+5             Smelter Demon Gauntlets+5      Blood-Stained Skirt+10        
+ 25.8-26.2 4306.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Saint's Trousers+5            
+ 26.3-27.2 4352.0  Velstadt's Helm+5              Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 27.3-27.7 4401.0  Smelter Demon Helm+5           Black Witch Robe+5             Havel's Gauntlets+5            Saint's Trousers+5            
+ 27.8-29.5 4447.0  Smelter Demon Helm+5           Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 29.6-30.9 4531.0  White Hollow Mage Hood+10      Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 31.0-32.1 4565.0  White Hollow Mage Hood+10      Velstadt's Armor+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 32.2-32.5 4577.0  White Hollow Mage Hood+10      Havel's Armor+5                Drakekeeper Gauntlets+10       Blood-Stained Skirt+10        
+ 32.6-32.8 4622.0  Warlock Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 32.9-33.3 4624.0  Penal Mask+5                   Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 33.4-33.6 4663.0  White Hollow Mage Hood+10      Smelter Demon Armor+5          Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 33.7-34.1 4728.0  White Hollow Mage Hood+10      Havel's Armor+5                Smelter Demon Gauntlets+5      Saint's Trousers+5            
+ 34.2-34.7 4774.0  White Hollow Mage Hood+10      Havel's Armor+5                Smelter Demon Gauntlets+5      Blood-Stained Skirt+10        
+ 34.8-35.2 4861.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Saint's Trousers+5            
+ 35.3-36.6 4907.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 36.7-36.7 4909.0  Velstadt's Helm+5              Velstadt's Armor+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 36.8-38.1 4970.0  Smelter Demon Helm+5           Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 38.2-39.0 5004.0  Smelter Demon Helm+5           Velstadt's Armor+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 39.1-39.2 5007.0  Velstadt's Helm+5              Smelter Demon Armor+5          Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 39.3-39.3 5013.0  Imperious Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 39.4-39.8 5072.0  Velstadt's Helm+5              Havel's Armor+5                Smelter Demon Gauntlets+5      Saint's Trousers+5            
+ 39.9-40.4 5118.0  Velstadt's Helm+5              Havel's Armor+5                Smelter Demon Gauntlets+5      Blood-Stained Skirt+10        
+ 40.5-40.9 5205.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Saint's Trousers+5            
+ 41.0-41.9 5251.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 42.0-42.4 5300.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Saint's Trousers+5            
+ 42.5-44.2 5346.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 44.3-45.6 5430.0  White Hollow Mage Hood+10      Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 45.7-46.8 5432.0  Velstadt's Helm+5              Velstadt's Armor+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.9-47.0 5446.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Drakekeeper Boots+10          
+ 47.1-47.1 5476.0  Varangian Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.2-48.0 5527.0  Smelter Demon Helm+5           Velstadt's Armor+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.1-48.2 5530.0  Velstadt's Helm+5              Smelter Demon Armor+5          Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.3-48.3 5537.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Alonne Knight Leggings+10     
+ 48.4-48.4 5541.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Drakekeeper Boots+10          
+ 48.5-48.8 5550.0  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.9-49.9 5643.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Smelter Demon Leggings+5      
+ 50.0-51.3 5774.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 51.4-51.4 5801.0  Gyrm Warrior Helm+10           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 51.5+     5869.0  Smelter Demon Helm+5           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   2057.0  Xanthous             9.8           1354
+    7.2    2087.0  Desert Sorceress     1.8           543
+    14.1   1224.0  Imported             10.4          2087
+    18.8   2178.0  Hard Leather         13.2          1514
+    10.3   2504.0  Bone King            3.5           637
+    9.1    1992.0  Black Leather        4.1           906
+    17.3   2072.0  Bell Keeper          11.9          1560
+    38.5   4504.0  Drakekeeper          8.9           494
+    37.2   4054.0  Alonne Captain       13.8          916
+    29.4   3323.0  Gyrm                 14.9          1124
+    9.4    2033.0  Dragon Acolyte       4.2           957
+    15.9   1940.0  Bandit               11.0          1545
+    46.1   4990.0  Looking Glass        7.9           440
+    14.0   2665.0  Lucatiel's           6.4           634
+    29.5   3126.0  Benhart's            19.5          1321
+    21.9   2331.0  Creighton's          15.7          1677
+    16.5   2243.0  Executioner          10.6          1288
+    32.1   3357.0  Throne Defender      17.5          1208
+    35.1   3809.0  Vengarl's            16.1          1052
+    6.5    2406.0  Saint's              0.1           9
+    30.0   3104.0  Catarina             20.0          1427
+    8.2    2215.0  White Priest         2.3           566
+    34.2   3487.0  Drangleic            18.0          1241
+    6.5    2318.0  Chaos                0.3           97
+    8.4    851.0   Tseldora             4.7           1976
+    28.7   3222.0  Heide Knight         17.2          1225
+    7.1    1837.0  Monastery            2.4           712
+    23.1   2260.0  Royal Soldier        17.1          1793
+    7.6    1652.0  Aurous (transparent) 3.7           1016
+    32.3   3608.0  Mad Warrior          15.3          957
+    6.9    2156.0  Manikin              1.3           382
+    13.7   2618.0  Jester's             6.5           681
+    39.8   4111.0  Old Knight           15.2          961
+    17.9   1661.0  Hollow Soldier       13.9          2017
+    20.6   2384.0  Alva                 14.4          1624
+    30.4   3357.0  Gyrm Warrior         15.8          1174
+    26.8   2689.0  Elite Knight         19.1          1663
+    17.2   1841.0  Infantry             12.5          1791
+    17.7   2053.0  Traveling Merchant   12.3          1625
+    22.9   2481.0  Aurous               16.1          1527
+    6.5    2400.0  Hexer's              0.1           15
+    37.1   3918.0  Dragonrider          17.0          1052
+    9.1    1970.0  Wanderer             4.1           928
+    4.2    1789.0  Moon Butterfly       0.0           0
+    6.5    2318.0  Black                0.3           97
+    27.5   2947.0  Throne Watcher       18.1          1454
+    7.0    1967.0  Tattered Cloth       2.0           582
+    54.9   4230.0  Ironclad             29.1          1639
+    30.0   3154.0  Faraam               19.5          1377
+    50.0   5702.0  Havel's              0.0           72
+    8.5    1680.0  Rogue                4.4           1147
+    11.0   2220.0  Judgment             5.1           967
+    36.0   4096.0  Steel                12.4          811
+    34.9   4318.0  Velstadt's           8.6           543
+    47.4   5361.0  Smelter Demon        3.1           160
+    43.9   4738.0  Mastodon             9.7           608
+    11.5   1970.0  Leather              6.5           1283
+    34.0   4048.0  Imperious            10.9          629
+    27.1   3042.0  King's               17.2          1310
+    7.5    2365.0  Dingy                1.3           293
+    9.5    921.0   Peasant              5.8           2069
+    20.9   2724.0  Penal                13.1          1238
+    29.6   3152.0  Drakeblood           19.1          1379
+    26.2   2790.0  Insolent             17.9          1516
+    32.3   3321.0  Syan's               17.8          1244
+    33.6   3242.0  Sanctum Knight       22.1          1421
+    4.5    1642.0  Lion Warrior         0.6           183
+    26.9   3084.0  Ruin                 16.9          1268
+    16.4   2100.0  Pate's               11.0          1431
+    39.5   3764.0  Rusted Mastodon      20.5          1308
+    28.1   2706.0  Royal Swordsman      20.3          1741
+    5.0    541.0   Prisoner's           1.3           1480
+    23.1   2487.0  Archdrake            16.3          1566
+    25.2   2572.0  Dark                 18.0          1647
+    21.2   2338.0  Falconer             15.0          1670
+    13.9   1963.0  Varangian            8.9           1336
+    7.6    2339.0  Shadow               1.4           329
+    7.9    1877.0  Brigand              3.2           904
+    25.0   2481.0  Knight               18.2          1692
+    6.8    2206.0  Priestess            0.9           332
+    22.9   2340.0  Targray's            16.7          1668
+    54.9   3666.0  Old Ironclad         37.4          2203
+    35.3   3873.0  Alonne Knight        15.8          1034
+    9.7    2515.0  Black Witch          2.9           503
+    13.2   2166.0  Astrologist's        7.6           1133
+    17.2   1407.0  Hollow Infantry      13.3          2225
+    12.5   2284.0  Grave Warden         6.5           1015
+
+Results for Physical Defense:
+  Weight   Score   Pieces
+  3.7-3.8  581.0   Lion Warrior Helm+10           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.9-4.1  786.0   Lion Warrior Helm+10           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.2-4.5  859.0   Moon Butterfly Hat+5           Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.6-4.6  886.0   Moon Butterfly Hat+5           Moon Butterfly Wings+5         Manikin Gloves+10              Moon Butterfly Skirt+5        
+  4.7-4.8  890.0   Moon Butterfly Hat+5           Moon Butterfly Wings+5         Lion Warrior Cuffs+10          Moon Butterfly Skirt+5        
+  4.9-4.9  903.0   Moon Butterfly Hat+5           Moon Butterfly Wings+5         Desert Sorceress Gloves+10     Moon Butterfly Skirt+5        
+  5.0-5.0  930.0   Moon Butterfly Hat+5           Moon Butterfly Wings+5         Tattered Cloth Manchettes+10   Moon Butterfly Skirt+5        
+  5.1-5.1  937.0   Moon Butterfly Hat+5           Manikin Top+10                 Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.2-5.5  981.0   Manikin Mask+10                Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.6-5.6  1008.0  Manikin Mask+10                Moon Butterfly Wings+5         Manikin Gloves+10              Moon Butterfly Skirt+5        
+  5.7-5.8  1012.0  Manikin Mask+10                Moon Butterfly Wings+5         Lion Warrior Cuffs+10          Moon Butterfly Skirt+5        
+  5.9-5.9  1025.0  Manikin Mask+10                Moon Butterfly Wings+5         Desert Sorceress Gloves+10     Moon Butterfly Skirt+5        
+  6.0-6.0  1052.0  Manikin Mask+10                Moon Butterfly Wings+5         Tattered Cloth Manchettes+10   Moon Butterfly Skirt+5        
+  6.1-6.1  1059.0  Manikin Mask+10                Manikin Top+10                 Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  6.2-6.3  1081.0  Manikin Mask+10                Moon Butterfly Wings+5         Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  6.4-6.4  1095.0  Manikin Mask+10                Black Robes+5                  Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  6.5-6.5  1096.0  Manikin Mask+10                Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Blood-Stained Skirt+10        
+  6.6-6.7  1118.0  Manikin Mask+10                Priestess Robe+10              Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  6.8-6.8  1126.0  Manikin Mask+10                Dingy Robe+10                  Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  6.9-6.9  1147.0  Manikin Mask+10                Brigand Armor+10               Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  7.0-7.0  1152.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  7.1-7.1  1159.0  Manikin Mask+10                Manikin Top+10                 Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  7.2-7.2  1166.0  Manikin Mask+10                Black Robes+5                  Tattered Cloth Manchettes+10   Moon Butterfly Skirt+5        
+  7.3-7.3  1174.0  Manikin Mask+10                Brigand Armor+10               Manikin Gloves+10              Moon Butterfly Skirt+5        
+  7.4-7.4  1195.0  Manikin Mask+10                Black Robes+5                  Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  7.5-7.5  1196.0  Manikin Mask+10                Moon Butterfly Wings+5         Brigand Gauntlets+10           Blood-Stained Skirt+10        
+  7.6-7.7  1218.0  Manikin Mask+10                Priestess Robe+10              Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  7.8-7.8  1226.0  Manikin Mask+10                Dingy Robe+10                  Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  7.9-7.9  1247.0  Manikin Mask+10                Brigand Armor+10               Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  8.0-8.1  1252.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  8.2-8.2  1265.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Wanderer Manchettes+10         Moon Butterfly Skirt+5        
+  8.3-8.4  1283.0  Manikin Mask+10                Priestess Robe+10              Brigand Gauntlets+10           Black Boots+5                 
+  8.5-8.5  1287.0  Manikin Mask+10                Black Leather Armor+10         Tattered Cloth Manchettes+10   Moon Butterfly Skirt+5        
+  8.6-8.6  1291.0  Manikin Mask+10                Dingy Robe+10                  Brigand Gauntlets+10           Black Boots+5                 
+  8.7-8.7  1316.0  Manikin Mask+10                Black Leather Armor+10         Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+  8.8-9.0  1333.0  Manikin Mask+10                Priestess Robe+10              Brigand Gauntlets+10           Blood-Stained Skirt+10        
+  9.1-9.1  1341.0  Manikin Mask+10                Dingy Robe+10                  Brigand Gauntlets+10           Blood-Stained Skirt+10        
+  9.2-9.2  1362.0  Manikin Mask+10                Brigand Armor+10               Brigand Gauntlets+10           Blood-Stained Skirt+10        
+  9.3-9.4  1367.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Brigand Gauntlets+10           Blood-Stained Skirt+10        
+  9.5-9.7  1381.0  Manikin Mask+10                Black Leather Armor+10         Brigand Gauntlets+10           Black Boots+5                 
+  9.8-9.9  1402.0  Manikin Mask+10                Black Leather Armor+10         Tattered Cloth Manchettes+10   Blood-Stained Skirt+10        
+ 10.0-10.2 1431.0  Manikin Mask+10                Black Leather Armor+10         Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 10.3-10.6 1444.0  Manikin Mask+10                Black Leather Armor+10         Wanderer Manchettes+10         Blood-Stained Skirt+10        
+ 10.7-10.8 1465.0  Manikin Mask+10                Black Witch Robe+5             Tattered Cloth Manchettes+10   Blood-Stained Skirt+10        
+ 10.9-11.1 1494.0  Manikin Mask+10                Black Witch Robe+5             Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 11.2-11.5 1507.0  Manikin Mask+10                Black Witch Robe+5             Wanderer Manchettes+10         Blood-Stained Skirt+10        
+ 11.6-11.7 1509.0  Manikin Mask+10                Llewellyn Armor+5              Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+ 11.8-12.0 1539.0  Manikin Mask+10                Black Witch Robe+5             Leather Gloves+10              Blood-Stained Skirt+10        
+ 12.1-12.1 1543.0  Manikin Mask+10                Grave Warden Top+10            Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 12.2-12.3 1556.0  Manikin Mask+10                Black Witch Robe+5             Llewellyn Gloves+5             Blood-Stained Skirt+10        
+ 12.4-12.6 1574.0  Manikin Mask+10                Llewellyn Armor+5              Brigand Gauntlets+10           Black Boots+5                 
+ 12.7-12.8 1595.0  Manikin Mask+10                Llewellyn Armor+5              Tattered Cloth Manchettes+10   Blood-Stained Skirt+10        
+ 12.9-13.1 1624.0  Manikin Mask+10                Llewellyn Armor+5              Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 13.2-13.4 1637.0  Manikin Mask+10                Llewellyn Armor+5              Wanderer Manchettes+10         Blood-Stained Skirt+10        
+ 13.5-13.5 1646.0  Manikin Mask+10                Moon Butterfly Wings+5         Steel Gauntlets+10             Black Boots+5                 
+ 13.6-13.6 1659.0  Manikin Mask+10                Manikin Top+10                 Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 13.7-13.8 1660.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Dragonrider Gauntlets+5        Blood-Stained Skirt+10        
+ 13.9-13.9 1695.0  Manikin Mask+10                Black Robes+5                  Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 14.0-14.0 1696.0  Manikin Mask+10                Moon Butterfly Wings+5         Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 14.1-14.2 1718.0  Manikin Mask+10                Priestess Robe+10              Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 14.3-14.3 1726.0  Manikin Mask+10                Dingy Robe+10                  Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 14.4-14.4 1747.0  Manikin Mask+10                Brigand Armor+10               Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 14.5-14.6 1752.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 14.7-14.7 1760.0  Manikin Mask+10                Black Robes+5                  Steel Gauntlets+10             Black Boots+5                 
+ 14.8-14.8 1761.0  Manikin Mask+10                Priestess Robe+10              Steel Gauntlets+10             Priestess Skirt+10            
+ 14.9-15.0 1783.0  Manikin Mask+10                Priestess Robe+10              Steel Gauntlets+10             Black Boots+5                 
+ 15.1-15.1 1791.0  Manikin Mask+10                Dingy Robe+10                  Steel Gauntlets+10             Black Boots+5                 
+ 15.2-15.2 1816.0  Manikin Mask+10                Black Leather Armor+10         Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 15.3-15.3 1817.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Steel Gauntlets+10             Black Boots+5                 
+ 15.4-15.5 1833.0  Manikin Mask+10                Priestess Robe+10              Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 15.6-15.6 1841.0  Manikin Mask+10                Dingy Robe+10                  Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 15.7-15.7 1862.0  Manikin Mask+10                Brigand Armor+10               Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 15.8-15.9 1867.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 16.0-16.1 1881.0  Manikin Mask+10                Black Leather Armor+10         Steel Gauntlets+10             Black Boots+5                 
+ 16.2-16.2 1882.0  Manikin Mask+10                Brigand Armor+10               Mastodon Gauntlets+10          Blood-Stained Skirt+10        
+ 16.3-16.3 1887.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Mastodon Gauntlets+10          Blood-Stained Skirt+10        
+ 16.4-16.4 1892.0  Manikin Mask+10                Black Leather Armor+10         Steel Gauntlets+10             White Priest Skirt+10         
+ 16.5-16.8 1931.0  Manikin Mask+10                Black Leather Armor+10         Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 16.9-16.9 1944.0  Manikin Mask+10                Black Witch Robe+5             Steel Gauntlets+10             Black Boots+5                 
+ 17.0-17.0 1951.0  Manikin Mask+10                Black Leather Armor+10         Mastodon Gauntlets+10          Blood-Stained Skirt+10        
+ 17.1-17.1 1962.0  Manikin Mask+10                Black Robes+5                  Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 17.2-17.2 1963.0  Manikin Mask+10                Moon Butterfly Wings+5         Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 17.3-17.3 1985.0  Manikin Mask+10                Priestess Robe+10              Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 17.4-17.4 1994.0  Manikin Mask+10                Black Witch Robe+5             Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 17.5-17.6 2014.0  Manikin Mask+10                Brigand Armor+10               Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 17.7-17.8 2019.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 17.9-17.9 2027.0  Manikin Mask+10                Black Robes+5                  Havel's Gauntlets+5            Black Boots+5                 
+ 18.0-18.0 2028.0  Manikin Mask+10                Priestess Robe+10              Havel's Gauntlets+5            Priestess Skirt+10            
+ 18.1-18.1 2050.0  Manikin Mask+10                Priestess Robe+10              Havel's Gauntlets+5            Black Boots+5                 
+ 18.2-18.2 2057.0  Manikin Mask+10                Brigand Armor+10               Havel's Gauntlets+5            Priestess Skirt+10            
+ 18.3-18.3 2058.0  Manikin Mask+10                Dingy Robe+10                  Havel's Gauntlets+5            Black Boots+5                 
+ 18.4-18.4 2083.0  Manikin Mask+10                Black Leather Armor+10         Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 18.5-18.5 2084.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Havel's Gauntlets+5            Black Boots+5                 
+ 18.6-18.7 2100.0  Manikin Mask+10                Priestess Robe+10              Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 18.8-18.8 2108.0  Manikin Mask+10                Dingy Robe+10                  Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 18.9-18.9 2129.0  Manikin Mask+10                Brigand Armor+10               Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 19.0-19.1 2134.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 19.2-19.4 2148.0  Manikin Mask+10                Black Leather Armor+10         Havel's Gauntlets+5            Black Boots+5                 
+ 19.5-19.6 2159.0  Manikin Mask+10                Black Leather Armor+10         Havel's Gauntlets+5            White Priest Skirt+10         
+ 19.7-20.0 2198.0  Manikin Mask+10                Black Leather Armor+10         Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 20.1-20.3 2211.0  Manikin Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            Black Boots+5                 
+ 20.4-20.4 2212.0  Manikin Mask+10                Steel Armor+10                 Wanderer Manchettes+10         Blood-Stained Skirt+10        
+ 20.5-20.5 2222.0  Manikin Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            White Priest Skirt+10         
+ 20.6-21.2 2261.0  Manikin Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 21.3-21.5 2285.0  Manikin Mask+10                Velstadt's Armor+5             Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 21.6-21.7 2299.0  Manikin Mask+10                Dragonrider Armor+5            Brigand Gauntlets+10           Black Boots+5                 
+ 21.8-22.0 2326.0  Manikin Mask+10                Drakekeeper Armor+10           Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 22.1-22.3 2349.0  Manikin Mask+10                Dragonrider Armor+5            Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 22.4-22.4 2362.0  Manikin Mask+10                Dragonrider Armor+5            Wanderer Manchettes+10         Blood-Stained Skirt+10        
+ 22.5-22.5 2374.0  Manikin Mask+10                Mastodon Armor+10              Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+ 22.6-23.0 2391.0  Manikin Mask+10                Llewellyn Armor+5              Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 23.1-23.1 2410.0  Manikin Mask+10                Mastodon Armor+10              Tattered Cloth Manchettes+10   Black Boots+5                 
+ 23.2-23.2 2417.0  Manikin Mask+10                Mastodon Armor+10              Brigand Gauntlets+10           Priestess Skirt+10            
+ 23.3-23.5 2441.0  Manikin Mask+10                Havel's Armor+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+ 23.6-23.6 2460.0  Manikin Mask+10                Mastodon Armor+10              Tattered Cloth Manchettes+10   Blood-Stained Skirt+10        
+ 23.7-23.7 2468.0  Manikin Mask+10                Havel's Armor+5                Manikin Gloves+10              Moon Butterfly Skirt+5        
+ 23.8-24.0 2489.0  Manikin Mask+10                Mastodon Armor+10              Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 24.1-24.2 2512.0  Manikin Mask+10                Havel's Armor+5                Tattered Cloth Manchettes+10   Moon Butterfly Skirt+5        
+ 24.3-24.5 2541.0  Manikin Mask+10                Havel's Armor+5                Brigand Gauntlets+10           Moon Butterfly Skirt+5        
+ 24.6-24.8 2556.0  Manikin Mask+10                Havel's Armor+5                Moon Butterfly Cuffs+5         Blood-Stained Skirt+10        
+ 24.9-24.9 2577.0  Manikin Mask+10                Havel's Armor+5                Tattered Cloth Manchettes+10   Black Boots+5                 
+ 25.0-25.0 2584.0  Manikin Mask+10                Havel's Armor+5                Brigand Gauntlets+10           Priestess Skirt+10            
+ 25.1-25.3 2606.0  Manikin Mask+10                Havel's Armor+5                Brigand Gauntlets+10           Black Boots+5                 
+ 25.4-25.5 2627.0  Manikin Mask+10                Havel's Armor+5                Tattered Cloth Manchettes+10   Blood-Stained Skirt+10        
+ 25.6-25.8 2656.0  Manikin Mask+10                Havel's Armor+5                Brigand Gauntlets+10           Blood-Stained Skirt+10        
+ 25.9-26.4 2669.0  Manikin Mask+10                Havel's Armor+5                Wanderer Manchettes+10         Blood-Stained Skirt+10        
+ 26.5-26.5 2670.0  Manikin Mask+10                Velstadt's Armor+5             Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 26.6-26.8 2701.0  Manikin Mask+10                Havel's Armor+5                Leather Gloves+10              Blood-Stained Skirt+10        
+ 26.9-27.0 2718.0  Manikin Mask+10                Havel's Armor+5                Llewellyn Gloves+5             Blood-Stained Skirt+10        
+ 27.1-27.1 2719.0  Manikin Mask+10                Steel Armor+10                 Mastodon Gauntlets+10          Blood-Stained Skirt+10        
+ 27.2-27.2 2734.0  Manikin Mask+10                Brigand Armor+10               Havel's Gauntlets+5            Mastodon Leggings+10          
+ 27.3-27.3 2739.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Havel's Gauntlets+5            Mastodon Leggings+10          
+ 27.4-27.5 2747.0  Manikin Mask+10                Black Robes+5                  Havel's Gauntlets+5            Havel's Leggings+5            
+ 27.6-27.7 2770.0  Manikin Mask+10                Priestess Robe+10              Havel's Gauntlets+5            Havel's Leggings+5            
+ 27.8-27.8 2785.0  Manikin Mask+10                Velstadt's Armor+5             Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 27.9-27.9 2799.0  Manikin Mask+10                Brigand Armor+10               Havel's Gauntlets+5            Havel's Leggings+5            
+ 28.0-28.2 2804.0  Manikin Mask+10                Armor of Aurous (transparent)+5 Havel's Gauntlets+5            Havel's Leggings+5            
+ 28.3-28.4 2826.0  Manikin Mask+10                Drakekeeper Armor+10           Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 28.5-28.6 2851.0  Manikin Mask+10                Steel Armor+10                 Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 28.7-28.9 2868.0  Manikin Mask+10                Black Leather Armor+10         Havel's Gauntlets+5            Havel's Leggings+5            
+ 29.0-29.1 2874.0  Manikin Mask+10                Mastodon Armor+10              Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 29.2-29.2 2894.0  Manikin Mask+10                Steel Armor+10                 Havel's Gauntlets+5            Priestess Skirt+10            
+ 29.3-29.5 2916.0  Manikin Mask+10                Steel Armor+10                 Havel's Gauntlets+5            Black Boots+5                 
+ 29.6-29.6 2931.0  Manikin Mask+10                Black Witch Robe+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 29.7-29.7 2937.0  Manikin Mask+10                Velstadt's Armor+5             Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 29.8-30.1 2966.0  Manikin Mask+10                Steel Armor+10                 Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 30.2-30.2 2978.0  Manikin Mask+10                Drakekeeper Armor+10           Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 30.3-30.4 2989.0  Manikin Mask+10                Mastodon Armor+10              Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 30.5-30.7 3002.0  Manikin Mask+10                Velstadt's Armor+5             Havel's Gauntlets+5            Black Boots+5                 
+ 30.8-30.9 3041.0  Manikin Mask+10                Havel's Armor+5                Steel Gauntlets+10             Moon Butterfly Skirt+5        
+ 31.0-31.2 3052.0  Manikin Mask+10                Velstadt's Armor+5             Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 31.3-31.4 3066.0  Manikin Mask+10                Dragonrider Armor+5            Havel's Gauntlets+5            Black Boots+5                 
+ 31.5-31.5 3093.0  Manikin Mask+10                Drakekeeper Armor+10           Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 31.6-31.7 3106.0  Manikin Mask+10                Havel's Armor+5                Steel Gauntlets+10             Black Boots+5                 
+ 31.8-31.9 3116.0  Manikin Mask+10                Dragonrider Armor+5            Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 32.0-32.0 3117.0  Manikin Mask+10                Havel's Armor+5                Steel Gauntlets+10             White Priest Skirt+10         
+ 32.1-32.5 3156.0  Manikin Mask+10                Havel's Armor+5                Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 32.6-32.8 3176.0  Manikin Mask+10                Havel's Armor+5                Mastodon Gauntlets+10          Blood-Stained Skirt+10        
+ 32.9-32.9 3184.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            Priestess Skirt+10            
+ 33.0-33.3 3206.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            Black Boots+5                 
+ 33.4-33.4 3217.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            White Priest Skirt+10         
+ 33.5-33.8 3256.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 33.9-33.9 3261.0  Manikin Mask+10                Havel's Armor+5                Brigand Gauntlets+10           Mastodon Leggings+10          
+ 34.0-34.3 3308.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 34.4-34.4 3318.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Manikin Boots+10              
+ 34.5-34.5 3327.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Brigand Trousers+10           
+ 34.6-34.7 3351.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Priestess Skirt+10            
+ 34.8-35.0 3373.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Black Boots+5                 
+ 35.1-35.2 3384.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            White Priest Skirt+10         
+ 35.3-35.9 3423.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 36.0-36.4 3432.0  Mask of Judgment+5             Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 36.5-36.7 3465.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Grave Warden Bottoms+10       
+ 36.8-37.0 3471.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Lucatiel's Trousers+10        
+ 37.1-37.1 3477.0  Velstadt's Helm+5              Havel's Armor+5                Steel Gauntlets+10             Priestess Skirt+10            
+ 37.2-37.2 3486.0  Velstadt's Helm+5              Drakekeeper Armor+10           Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 37.3-37.4 3499.0  Velstadt's Helm+5              Havel's Armor+5                Steel Gauntlets+10             Black Boots+5                 
+ 37.5-37.5 3509.0  Velstadt's Helm+5              Dragonrider Armor+5            Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 37.6-37.7 3521.0  Manikin Mask+10                Dragonrider Armor+5            Havel's Gauntlets+5            Steel Leggings+10             
+ 37.8-37.8 3549.0  Velstadt's Helm+5              Havel's Armor+5                Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 37.9-38.0 3561.0  Manikin Mask+10                Havel's Armor+5                Steel Gauntlets+10             Steel Leggings+10             
+ 38.1-38.3 3571.0  Manikin Mask+10                Steel Armor+10                 Havel's Gauntlets+5            Mastodon Leggings+10          
+ 38.4-38.5 3585.0  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Black Boots+5                 
+ 38.6-38.6 3595.0  Gyrm Warrior Greathelm+10      Drakekeeper Armor+10           Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 38.7-38.7 3608.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Steel Gauntlets+10             Black Boots+5                 
+ 38.8-39.1 3636.0  Manikin Mask+10                Steel Armor+10                 Havel's Gauntlets+5            Havel's Leggings+5            
+ 39.2-39.2 3658.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Steel Gauntlets+10             Blood-Stained Skirt+10        
+ 39.3-39.4 3661.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            Steel Leggings+10             
+ 39.5-39.6 3679.0  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 39.7-39.9 3701.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Moon Butterfly Skirt+5        
+ 40.0-40.0 3722.0  Manikin Mask+10                Velstadt's Armor+5             Havel's Gauntlets+5            Havel's Leggings+5            
+ 40.1-40.3 3732.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Dragonrider Leggings+5        
+ 40.4-40.4 3761.0  Manikin Mask+10                Havel's Armor+5                Steel Gauntlets+10             Mastodon Leggings+10          
+ 40.5-40.7 3766.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Black Boots+5                 
+ 40.8-40.9 3786.0  Manikin Mask+10                Dragonrider Armor+5            Havel's Gauntlets+5            Havel's Leggings+5            
+ 41.0-41.5 3828.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Steel Leggings+10             
+ 41.6-41.7 3846.0  Manikin Mask+10                Havel's Armor+5                Mastodon Gauntlets+10          Havel's Leggings+5            
+ 41.8-41.8 3861.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            Mastodon Leggings+10          
+ 41.9-42.2 3875.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            Black Boots+5                 
+ 42.3-42.3 3886.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            White Priest Skirt+10         
+ 42.4-42.4 3925.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            Blood-Stained Skirt+10        
+ 42.5-43.0 3926.0  Manikin Mask+10                Mastodon Armor+10              Havel's Gauntlets+5            Havel's Leggings+5            
+ 43.1-43.2 3960.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Smelter Demon Leggings+5      
+ 43.3-43.4 3971.0  Moon Butterfly Hat+5           Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 43.5-44.2 4028.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 44.3-44.9 4093.0  Manikin Mask+10                Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 45.0-45.4 4102.0  Mask of Judgment+5             Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 45.5-45.8 4119.0  Cale's Helm+10                 Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 45.9-45.9 4138.0  Gyrm Warrior Greathelm+10      Steel Armor+10                 Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.0-46.1 4154.0  Velstadt's Helm+5              Havel's Armor+5                Steel Gauntlets+10             Mastodon Leggings+10          
+ 46.2-46.2 4156.0  Velstadt's Helm+5              Drakekeeper Armor+10           Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.3-46.3 4158.0  Old Knight Helm+10             Havel's Armor+5                Havel's Gauntlets+5            Steel Leggings+10             
+ 46.4-46.4 4168.0  Varangian Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 46.5-46.6 4179.0  Velstadt's Helm+5              Dragonrider Armor+5            Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.7-46.7 4182.0  Drakekeeper Helm+10            Mastodon Armor+10              Havel's Gauntlets+5            Havel's Leggings+5            
+ 46.8-47.0 4221.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Steel Leggings+10             
+ 47.1-47.1 4233.0  Varangian Helm+10              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.2-47.4 4240.0  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 47.5-47.5 4263.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Steel Gauntlets+10             Mastodon Leggings+10          
+ 47.6-47.7 4265.0  Gyrm Warrior Greathelm+10      Drakekeeper Armor+10           Havel's Gauntlets+5            Havel's Leggings+5            
+ 47.8-47.8 4284.0  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 47.9-48.1 4305.0  Steel Helm+10                  Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.2-48.3 4330.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            Steel Leggings+10             
+ 48.4-48.4 4331.0  Mastodon Helm+10               Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 48.5-48.7 4349.0  Drakekeeper Helm+10            Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 48.8-48.8 4358.0  Old Knight Helm+10             Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 48.9-49.0 4363.0  Gyrm Warrior Greathelm+10      Mastodon Armor+10              Havel's Gauntlets+5            Mastodon Leggings+10          
+ 49.1-49.2 4396.0  Mastodon Helm+10               Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 49.3-49.4 4421.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 49.5-49.5 4423.0  Old Knight Helm+10             Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 49.6-49.9 4428.0  Gyrm Warrior Greathelm+10      Mastodon Armor+10              Havel's Gauntlets+5            Havel's Leggings+5            
+ 50.0-50.6 4486.0  Velstadt's Helm+5              Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+ 50.7-51.3 4530.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            Mastodon Leggings+10          
+ 51.4+     4595.0  Gyrm Warrior Greathelm+10      Havel's Armor+5                Havel's Gauntlets+5            Havel's Leggings+5            
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   1258.0  Xanthous             6.9           558
+    7.2    959.0   Desert Sorceress     2.0           207
+    14.1   825.0   Imported             9.9           893
+    18.8   1499.0  Hard Leather         7.6           609
+    10.3   1160.0  Bone King            3.1           284
+    9.1    1216.0  Black Leather        1.5           125
+    17.3   1502.0  Bell Keeper          6.1           483
+    38.5   3477.0  Drakekeeper          1.3           108
+    37.2   3139.0  Alonne Captain       5.1           347
+    29.4   2488.0  Gyrm                 5.6           428
+    9.4    1137.0  Dragon Acolyte       2.5           230
+    15.9   1363.0  Bandit               6.6           504
+    46.1   3968.0  Looking Glass        2.8           186
+    14.0   1426.0  Lucatiel's           4.0           270
+    29.5   2340.0  Benhart's            7.4           576
+    21.9   1635.0  Creighton's          8.7           685
+    16.5   1380.0  Executioner          7.0           551
+    32.1   2632.0  Throne Defender      6.5           524
+    35.1   3068.0  Vengarl's            3.6           316
+    6.5    1003.0  Saint's              0.9           93
+    30.0   2388.0  Catarina             7.4           578
+    8.2    1099.0  White Priest         1.6           166
+    34.2   2789.0  Drangleic            6.3           519
+    6.5    1003.0  Chaos                0.9           93
+    8.4    493.0   Tseldora             4.7           790
+    28.7   2273.0  Heide Knight         7.4           578
+    7.1    731.0   Monastery            3.2           428
+    23.1   1584.0  Royal Soldier        10.4          826
+    7.6    1088.0  Aurous (transparent) 1.2           130
+    32.3   2659.0  Mad Warrior          6.4           497
+    6.9    1096.0  Manikin              0.4           51
+    13.7   1259.0  Jester's             5.4           401
+    39.8   3501.0  Old Knight           2.3           197
+    17.9   1155.0  Hollow Soldier       10.8          872
+    20.6   1653.0  Alva                 7.0           608
+    30.4   2589.0  Gyrm Warrior         5.3           400
+    26.8   1932.0  Elite Knight         9.9           769
+    17.2   1322.0  Infantry             8.3           641
+    17.7   1378.0  Traveling Merchant   8.2           641
+    22.9   1669.0  Aurous               9.0           722
+    6.5    1003.0  Hexer's              0.9           93
+    37.1   3341.0  Dragonrider          2.4           136
+    9.1    1199.0  Wanderer             1.5           142
+    4.2    859.0   Moon Butterfly       0.0           0
+    6.5    1003.0  Black                0.9           93
+    27.5   2062.0  Throne Watcher       9.1           685
+    7.0    1031.0  Tattered Cloth       1.0           121
+    54.9   3412.0  Ironclad             19.6          1183
+    30.0   2386.0  Faraam               7.4           580
+    50.0   4479.0  Havel's              0.0           7
+    8.5    1081.0  Rogue                2.3           206
+    11.0   1299.0  Judgment             2.3           195
+    36.0   3316.0  Steel                1.6           116
+    34.9   3160.0  Velstadt's           2.3           213
+    47.4   4064.0  Smelter Demon        3.1           175
+    43.9   3917.0  Mastodon             1.5           111
+    11.5   1270.0  Leather              3.1           237
+    34.0   2980.0  Imperious            3.7           328
+    27.1   1944.0  King's               10.2          775
+    7.5    1077.0  Dingy                1.3           119
+    9.5    503.0   Peasant              5.8           878
+    20.9   1572.0  Penal                8.5           663
+    29.6   2410.0  Drakeblood           6.5           521
+    26.2   1837.0  Insolent             10.6          832
+    32.3   2549.0  Syan's               7.7           607
+    33.6   2787.0  Sanctum Knight       5.7           469
+    4.5    737.0   Lion Warrior         0.6           122
+    26.9   2142.0  Ruin                 7.7           576
+    16.4   1440.0  Pate's               6.1           452
+    39.5   3105.0  Rusted Mastodon      7.9           574
+    28.1   2034.0  Royal Swordsman      10.0          770
+    5.0    200.0   Prisoner's           1.3           730
+    23.1   1676.0  Archdrake            9.2           734
+    25.2   1764.0  Dark                 10.3          842
+    21.2   1617.0  Falconer             8.3           644
+    13.9   1319.0  Varangian            5.0           376
+    7.6    1109.0  Shadow               1.0           109
+    7.9    1156.0  Brigand              0.8           91
+    25.0   1732.0  Knight               10.6          852
+    6.8    1027.0  Priestess            0.8           99
+    22.9   1671.0  Targray's            9.0           718
+    54.9   3001.0  Old Ironclad         24.4          1594
+    35.3   3037.0  Alonne Knight        4.5           386
+    9.7    1120.0  Black Witch          2.9           261
+    13.2   1243.0  Astrologist's        5.3           394
+    17.2   1065.0  Hollow Infantry      11.0          898
+    12.5   1321.0  Grave Warden         3.6           253
+
+Results for Magic Defense:
+  Weight   Score   Pieces
+  3.7-3.7  92.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  101.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Monastery Long Gloves+5        Prisoner's Waistcloth+10      
+  3.9-3.9  114.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.0-4.0  129.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Lion Mage Skirt+10            
+  4.1-4.1  138.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Monastery Long Gloves+5        Lion Mage Skirt+10            
+  4.2-4.2  150.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Black Gloves+5                 Lion Mage Skirt+10            
+  4.3-4.3  154.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Monastery Long Gloves+5        Lion Mage Skirt+10            
+  4.4-4.6  166.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Black Gloves+5                 Lion Mage Skirt+10            
+  4.7-4.7  168.0   Black Hood+5                   Monastery Longshirt+5          Monastery Long Gloves+5        Lion Mage Skirt+10            
+  4.8-4.8  180.0   Black Hood+5                   Monastery Longshirt+5          Black Gloves+5                 Lion Mage Skirt+10            
+  4.9-4.9  188.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Black Gloves+5                 Black Boots+5                 
+  5.0-5.0  192.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Monastery Long Gloves+5        Black Boots+5                 
+  5.1-5.2  204.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Black Gloves+5                 Black Boots+5                 
+  5.3-5.6  223.0   Black Witch Domino Mask+10     Black Robes+5                  Black Gloves+5                 Lion Mage Skirt+10            
+  5.7-5.7  225.0   Black Witch Domino Mask+10     Lion Mage Robe+10              Black Gloves+5                 Black Boots+5                 
+  5.8-5.8  237.0   Black Hood+5                   Black Robes+5                  Black Gloves+5                 Lion Mage Skirt+10            
+  5.9-5.9  240.0   Black Witch Domino Mask+10     Black Robes+5                  Moon Butterfly Cuffs+5         Black Boots+5                 
+  6.0-6.0  249.0   Black Witch Domino Mask+10     Black Robes+5                  Monastery Long Gloves+5        Black Boots+5                 
+  6.1-6.3  261.0   Black Witch Domino Mask+10     Black Robes+5                  Black Gloves+5                 Black Boots+5                 
+  6.4-6.4  263.0   Black Hood+5                   Black Robes+5                  Monastery Long Gloves+5        Black Boots+5                 
+  6.5-6.8  275.0   Black Hood+5                   Black Robes+5                  Black Gloves+5                 Black Boots+5                 
+  6.9-7.1  280.0   Black Hood+5                   Black Robes+5                  Lion Mage Cuffs+10             Black Boots+5                 
+  7.2-7.3  281.0   Black Hood+5                   Black Robes+5                  Black Witch Gloves+5           Black Boots+5                 
+  7.4-7.7  293.0   White Hollow Mage Hood+10      Black Robes+5                  Black Gloves+5                 Black Boots+5                 
+  7.8-8.0  298.0   White Hollow Mage Hood+10      Black Robes+5                  Lion Mage Cuffs+10             Black Boots+5                 
+  8.1-8.6  299.0   White Hollow Mage Hood+10      Black Robes+5                  Black Witch Gloves+5           Black Boots+5                 
+  8.7-9.0  300.0   Black Hood+5                   Black Witch Robe+5             Black Gloves+5                 Black Boots+5                 
+  9.1-9.3  305.0   Black Hood+5                   Black Witch Robe+5             Lion Mage Cuffs+10             Black Boots+5                 
+  9.4-9.5  306.0   Black Hood+5                   Black Witch Robe+5             Black Witch Gloves+5           Black Boots+5                 
+  9.6-9.9  318.0   White Hollow Mage Hood+10      Black Witch Robe+5             Black Gloves+5                 Black Boots+5                 
+ 10.0-10.1 323.0   White Hollow Mage Hood+10      Black Witch Robe+5             Lion Mage Cuffs+10             Black Boots+5                 
+ 10.2-12.5 324.0   White Hollow Mage Hood+10      Black Witch Robe+5             Black Witch Gloves+5           Black Boots+5                 
+ 12.6-12.9 334.0   Warlock Mask+10                Black Witch Robe+5             Black Gloves+5                 Black Boots+5                 
+ 13.0-13.2 339.0   Warlock Mask+10                Black Witch Robe+5             Lion Mage Cuffs+10             Black Boots+5                 
+ 13.3+     340.0   Warlock Mask+10                Black Witch Robe+5             Black Witch Gloves+5           Black Boots+5                 
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   179.0   Xanthous             10.4          161
+    7.2    221.0   Desert Sorceress     1.8           60
+    14.1   60.0    Imported             10.4          280
+    18.8   107.0   Hard Leather         14.9          233
+    10.3   184.0   Bone King            5.4           140
+    9.1    145.0   Black Leather        4.9           160
+    17.3   81.0    Bell Keeper          13.6          259
+    38.5   133.0   Drakekeeper          34.4          207
+    37.2   154.0   Alonne Captain       32.9          186
+    29.4   90.0    Gyrm                 25.7          250
+    9.4    117.0   Dragon Acolyte       5.4           189
+    15.9   102.0   Bandit               12.0          238
+    46.1   137.0   Looking Glass        42.0          203
+    14.0   196.0   Lucatiel's           8.9           144
+    29.5   135.0   Benhart's            25.4          205
+    21.9   122.0   Creighton's          17.9          218
+    16.5   79.0    Executioner          12.8          261
+    32.1   132.0   Throne Defender      28.0          208
+    35.1   120.0   Vengarl's            31.1          220
+    6.5    184.0   Saint's              1.6           91
+    30.0   122.0   Catarina             26.0          218
+    8.2    164.0   White Priest         3.8           135
+    34.2   111.0   Drangleic            30.3          229
+    6.5    184.0   Chaos                1.6           91
+    8.4    55.0    Tseldora             4.7           244
+    28.7   97.0    Heide Knight         24.9          243
+    7.1    166.0   Monastery            2.7           114
+    23.1   122.0   Royal Soldier        19.1          218
+    7.6    107.0   Aurous (transparent) 3.7           186
+    32.3   109.0   Mad Warrior          28.4          231
+    6.9    140.0   Manikin              2.7           140
+    13.7   178.0   Jester's             8.9           162
+    39.8   97.0    Old Knight           36.0          243
+    17.9   91.0    Hollow Soldier       14.2          249
+    20.6   115.0   Alva                 16.6          225
+    30.4   89.0    Gyrm Warrior         26.7          251
+    26.8   136.0   Elite Knight         22.7          204
+    17.2   83.0    Infantry             13.5          257
+    17.7   98.0    Traveling Merchant   13.9          242
+    22.9   147.0   Aurous               18.7          193
+    6.5    184.0   Hexer's              1.6           91
+    37.1   94.0    Dragonrider          33.3          246
+    9.1    99.0    Wanderer             5.3           206
+    4.2    111.0   Moon Butterfly       0.3           39
+    6.5    275.0   Black                0.0           0
+    27.5   224.0   Throne Watcher       21.8          116
+    7.0    137.0   Tattered Cloth       2.9           143
+    54.9   134.0   Ironclad             50.8          206
+    30.0   133.0   Faraam               25.9          207
+    50.0   160.0   Havel's              45.6          180
+    8.5    85.0    Rogue                4.8           214
+    11.0   166.0   Judgment             6.6           158
+    36.0   126.0   Steel                32.0          214
+    34.9   120.0   Velstadt's           30.9          220
+    47.4   142.0   Smelter Demon        43.2          198
+    43.9   126.0   Mastodon             39.9          214
+    11.5   115.0   Leather              7.5           209
+    34.0   153.0   Imperious            29.7          187
+    27.1   162.0   King's               22.7          178
+    7.5    162.0   Dingy                3.1           131
+    9.5    58.0    Peasant              5.8           248
+    20.9   161.0   Penal                16.5          179
+    29.6   109.0   Drakeblood           25.7          231
+    26.2   117.0   Insolent             22.2          223
+    32.3   124.0   Syan's               28.3          216
+    33.6   105.0   Sanctum Knight       29.7          235
+    4.5    83.0    Lion Warrior         0.8           83
+    26.9   126.0   Ruin                 22.9          214
+    16.4   107.0   Pate's               12.5          233
+    39.5   101.0   Rusted Mastodon      35.7          239
+    28.1   115.0   Royal Swordsman      24.1          225
+    5.0    51.0    Prisoner's           1.3           141
+    23.1   134.0   Archdrake            19.0          206
+    25.2   116.0   Dark                 21.2          224
+    21.2   121.0   Falconer             17.2          219
+    13.9   105.0   Varangian            10.0          235
+    7.6    152.0   Shadow               3.3           141
+    7.9    142.0   Brigand              3.7           156
+    25.0   126.0   Knight               21.0          214
+    6.8    160.0   Priestess            2.4           115
+    22.9   103.0   Targray's            19.0          237
+    54.9   107.0   Old Ironclad         51.0          233
+    35.3   137.0   Alonne Knight        31.2          203
+    9.7    253.0   Black Witch          3.6           65
+    13.2   226.0   Astrologist's        7.4           113
+    17.2   57.0    Hollow Infantry      13.5          283
+    12.5   144.0   Grave Warden         8.3           180
+
+Results for Fire Defense:
+  Weight   Score   Pieces
+  3.7-3.7  62.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  70.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Monastery Long Gloves+5        Prisoner's Waistcloth+10      
+  3.9-3.9  90.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Chaos Gloves+5                 Prisoner's Waistcloth+10      
+  4.0-4.0  95.0    Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Chaos Gloves+5                 Prisoner's Waistcloth+10      
+  4.1-4.1  104.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Chaos Gloves+5                 Prisoner's Waistcloth+10      
+  4.2-4.2  117.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.3-4.3  122.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.4-4.4  131.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.5-4.5  134.0   Monastery Headcloth+5          Monastery Longshirt+5          Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.6-4.6  143.0   Chaos Hood+5                   Moon Butterfly Wings+5         Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.7-4.7  148.0   Chaos Hood+5                   Red Lion Warrior Cape+10       Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.8-4.8  157.0   Chaos Hood+5                   Monastery Longshirt+5          Chaos Gloves+5                 Lion Mage Skirt+10            
+  4.9-4.9  164.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Chaos Gloves+5                 Chaos Boots+5                 
+  5.0-5.0  169.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Chaos Gloves+5                 Chaos Boots+5                 
+  5.1-5.1  178.0   Black Witch Domino Mask+10     Monastery Longshirt+5          Chaos Gloves+5                 Chaos Boots+5                 
+  5.2-5.2  181.0   Monastery Headcloth+5          Monastery Longshirt+5          Chaos Gloves+5                 Chaos Boots+5                 
+  5.3-5.4  202.0   Black Witch Domino Mask+10     Chaos Robe+5                   Chaos Gloves+5                 Lion Mage Skirt+10            
+  5.5-5.5  205.0   Monastery Headcloth+5          Chaos Robe+5                   Chaos Gloves+5                 Lion Mage Skirt+10            
+  5.6-5.6  207.0   Black Witch Domino Mask+10     Chaos Robe+5                   Chaos Gloves+5                 Heavy Boots+10                
+  5.7-5.7  211.0   Chaos Hood+5                   Chaos Robe+5                   Chaos Gloves+5                 Moon Butterfly Skirt+5        
+  5.8-5.9  228.0   Chaos Hood+5                   Chaos Robe+5                   Chaos Gloves+5                 Lion Mage Skirt+10            
+  6.0-6.0  229.0   Black Witch Domino Mask+10     Chaos Robe+5                   Monastery Long Gloves+5        Chaos Boots+5                 
+  6.1-6.1  249.0   Black Witch Domino Mask+10     Chaos Robe+5                   Chaos Gloves+5                 Chaos Boots+5                 
+  6.2-6.3  252.0   Monastery Headcloth+5          Chaos Robe+5                   Chaos Gloves+5                 Chaos Boots+5                 
+  6.4-6.4  255.0   Chaos Hood+5                   Chaos Robe+5                   Monastery Long Gloves+5        Chaos Boots+5                 
+  6.5-7.0  275.0   Chaos Hood+5                   Chaos Robe+5                   Chaos Gloves+5                 Chaos Boots+5                 
+  7.1-7.3  276.0   Chaos Hood+5                   Chaos Robe+5                   Tattered Cloth Manchettes+10   Chaos Boots+5                 
+  7.4-7.9  278.0   Shadow Mask+10                 Chaos Robe+5                   Chaos Gloves+5                 Chaos Boots+5                 
+  8.0-10.2 279.0   Shadow Mask+10                 Chaos Robe+5                   Tattered Cloth Manchettes+10   Chaos Boots+5                 
+ 10.3-10.6 286.0   Chaos Hood+5                   Chaos Robe+5                   Penal Handcuffs+5              Chaos Boots+5                 
+ 10.7-11.1 287.0   Penal Mask+5                   Chaos Robe+5                   Chaos Gloves+5                 Chaos Boots+5                 
+ 11.2-14.4 289.0   Shadow Mask+10                 Chaos Robe+5                   Penal Handcuffs+5              Chaos Boots+5                 
+ 14.5-18.3 298.0   Penal Mask+5                   Chaos Robe+5                   Penal Handcuffs+5              Chaos Boots+5                 
+ 18.4-20.0 299.0   Smelter Demon Helm+5           Chaos Robe+5                   Penal Handcuffs+5              Chaos Boots+5                 
+ 20.1-23.9 304.0   Penal Mask+5                   Chaos Robe+5                   Smelter Demon Gauntlets+5      Chaos Boots+5                 
+ 24.0+     305.0   Smelter Demon Helm+5           Chaos Robe+5                   Smelter Demon Gauntlets+5      Chaos Boots+5                 
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   47.0    Xanthous             11.5          251
+    7.2    153.0   Desert Sorceress     2.4           123
+    14.1   52.0    Imported             10.4          237
+    18.8   80.0    Hard Leather         14.9          219
+    10.3   203.0   Bone King            4.8           83
+    9.1    111.0   Black Leather        4.9           168
+    17.3   91.0    Bell Keeper          13.3          207
+    38.5   146.0   Drakekeeper          33.8          159
+    37.2   245.0   Alonne Captain       31.1          60
+    29.4   83.0    Gyrm                 25.5          222
+    9.4    117.0   Dragon Acolyte       5.2           162
+    15.9   106.0   Bandit               11.7          192
+    46.1   151.0   Looking Glass        41.3          154
+    14.0   175.0   Lucatiel's           8.9           114
+    29.5   128.0   Benhart's            25.1          177
+    21.9   136.0   Creighton's          17.3          168
+    16.5   84.0    Executioner          12.6          214
+    32.1   136.0   Throne Defender      27.5          169
+    35.1   148.0   Vengarl's            30.4          157
+    6.5    184.0   Saint's              1.1           91
+    30.0   135.0   Catarina             25.4          170
+    8.2    164.0   White Priest         3.3           115
+    34.2   111.0   Drangleic            30.0          194
+    6.5    275.0   Chaos                0.0           0
+    8.4    59.0    Tseldora             4.7           220
+    28.7   124.0   Heide Knight         24.3          181
+    7.1    122.0   Monastery            2.8           154
+    23.1   126.0   Royal Soldier        18.7          178
+    7.6    88.0    Aurous (transparent) 3.7           190
+    32.3   104.0   Mad Warrior          28.2          201
+    6.9    132.0   Manikin              2.4           143
+    13.7   178.0   Jester's             8.6           111
+    39.8   97.0    Old Knight           35.7          208
+    17.9   96.0    Hollow Soldier       13.8          202
+    20.6   127.0   Alva                 16.2          177
+    30.4   88.0    Gyrm Warrior         26.5          217
+    26.8   117.0   Elite Knight         22.6          188
+    17.2   77.0    Infantry             13.3          221
+    17.7   107.0   Traveling Merchant   13.5          191
+    22.9   143.0   Aurous               18.3          161
+    6.5    275.0   Hexer's              0.0           0
+    37.1   89.0    Dragonrider          33.2          216
+    9.1    130.0   Wanderer             4.7           149
+    4.2    74.0    Moon Butterfly       0.3           43
+    6.5    184.0   Black                1.1           91
+    27.5   146.0   Throne Watcher       22.8          159
+    7.0    187.0   Tattered Cloth       1.6           88
+    54.9   147.0   Ironclad             50.2          158
+    30.0   145.0   Faraam               25.3          160
+    50.0   173.0   Havel's              44.9          132
+    8.5    102.0   Rogue                4.4           177
+    11.0   134.0   Judgment             6.5           153
+    36.0   134.0   Steel                31.5          171
+    34.9   125.0   Velstadt's           30.5          180
+    47.4   269.0   Smelter Demon        40.9          36
+    43.9   139.0   Mastodon             39.3          166
+    11.5   74.0    Leather              7.6           215
+    34.0   128.0   Imperious            29.6          177
+    27.1   162.0   King's               22.2          143
+    7.5    138.0   Dingy                2.9           140
+    9.5    63.0    Peasant              5.7           216
+    20.9   214.0   Penal                15.1          90
+    29.6   149.0   Drakeblood           24.8          156
+    26.2   117.0   Insolent             22.0          188
+    32.3   165.0   Syan's               27.3          140
+    33.6   103.0   Sanctum Knight       29.5          202
+    4.5    60.0    Lion Warrior         0.8           74
+    26.9   140.0   Ruin                 22.3          165
+    16.4   80.0    Pate's               12.5          218
+    39.5   112.0   Rusted Mastodon      35.3          193
+    28.1   148.0   Royal Swordsman      23.4          157
+    5.0    53.0    Prisoner's           1.3           116
+    23.1   128.0   Archdrake            18.7          176
+    25.2   116.0   Dark                 21.0          189
+    21.2   117.0   Falconer             17.0          187
+    13.9   89.0    Varangian            10.0          200
+    7.6    172.0   Shadow               2.5           106
+    7.9    114.0   Brigand              3.7           164
+    25.0   136.0   Knight               20.4          169
+    6.8    158.0   Priestess            1.9           117
+    22.9   103.0   Targray's            18.8          201
+    54.9   117.0   Old Ironclad         50.7          188
+    35.3   225.0   Alonne Knight        29.5          80
+    9.7    195.0   Black Witch          4.3           84
+    13.2   155.0   Astrologist's        8.4           134
+    17.2   42.0    Hollow Infantry      13.5          256
+    12.5   138.0   Grave Warden         7.9           151
+
+Results for Lightning Defense:
+  Weight   Score   Pieces
+  3.7-3.7  99.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  106.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Priestess Gloves+10            Prisoner's Waistcloth+10      
+  3.9-3.9  117.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  4.0-4.0  124.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Priestess Gloves+10            Moon Butterfly Skirt+5        
+  4.1-4.1  130.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Priestess Gloves+10            Lion Mage Skirt+10            
+  4.2-4.4  136.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Saint's Long Gloves+5          Lion Mage Skirt+10            
+  4.5-4.5  138.0   Saint's Hood+5                 Moon Butterfly Wings+5         Priestess Gloves+10            Lion Mage Skirt+10            
+  4.6-4.6  153.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Priestess Gloves+10            Priestess Skirt+10            
+  4.7-4.7  154.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  4.8-4.8  161.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Priestess Gloves+10            Saint's Trousers+5            
+  4.9-5.0  167.0   Black Witch Domino Mask+10     Moon Butterfly Wings+5         Saint's Long Gloves+5          Saint's Trousers+5            
+  5.1-5.1  170.0   Black Witch Domino Mask+10     Saint's Dress+5                Moon Butterfly Cuffs+5         Moon Butterfly Skirt+5        
+  5.2-5.2  177.0   Black Witch Domino Mask+10     Saint's Dress+5                Priestess Gloves+10            Moon Butterfly Skirt+5        
+  5.3-5.6  189.0   Black Witch Domino Mask+10     Saint's Dress+5                Saint's Long Gloves+5          Lion Mage Skirt+10            
+  5.7-5.7  191.0   Saint's Hood+5                 Saint's Dress+5                Priestess Gloves+10            Lion Mage Skirt+10            
+  5.8-5.8  199.0   Black Witch Domino Mask+10     Saint's Dress+5                Moon Butterfly Cuffs+5         Priestess Skirt+10            
+  5.9-5.9  207.0   Black Witch Domino Mask+10     Saint's Dress+5                Moon Butterfly Cuffs+5         Saint's Trousers+5            
+  6.0-6.0  214.0   Black Witch Domino Mask+10     Saint's Dress+5                Priestess Gloves+10            Saint's Trousers+5            
+  6.1-6.3  220.0   Black Witch Domino Mask+10     Saint's Dress+5                Saint's Long Gloves+5          Saint's Trousers+5            
+  6.4-6.4  222.0   Saint's Hood+5                 Saint's Dress+5                Priestess Gloves+10            Saint's Trousers+5            
+  6.5-6.6  228.0   Saint's Hood+5                 Saint's Dress+5                Saint's Long Gloves+5          Saint's Trousers+5            
+  6.7-6.7  229.0   Priestess Headpiece+10         Saint's Dress+5                Priestess Gloves+10            Saint's Trousers+5            
+  6.8-7.1  235.0   Priestess Headpiece+10         Saint's Dress+5                Saint's Long Gloves+5          Saint's Trousers+5            
+  7.2-7.4  239.0   Priestess Headpiece+10         Saint's Dress+5                Lion Mage Cuffs+10             Saint's Trousers+5            
+  7.5-8.0  245.0   Priestess Headpiece+10         Saint's Dress+5                Black Witch Gloves+5           Saint's Trousers+5            
+  8.1-8.2  249.0   Manikin Mask+10                Saint's Dress+5                Black Witch Gloves+5           Saint's Trousers+5            
+  8.3-8.5  255.0   Black Witch Domino Mask+10     Black Witch Robe+5             Saint's Long Gloves+5          Saint's Trousers+5            
+  8.6-8.6  257.0   Saint's Hood+5                 Black Witch Robe+5             Priestess Gloves+10            Saint's Trousers+5            
+  8.7-8.8  263.0   Saint's Hood+5                 Black Witch Robe+5             Saint's Long Gloves+5          Saint's Trousers+5            
+  8.9-8.9  264.0   Priestess Headpiece+10         Black Witch Robe+5             Priestess Gloves+10            Saint's Trousers+5            
+  9.0-9.3  270.0   Priestess Headpiece+10         Black Witch Robe+5             Saint's Long Gloves+5          Saint's Trousers+5            
+  9.4-9.6  274.0   Priestess Headpiece+10         Black Witch Robe+5             Lion Mage Cuffs+10             Saint's Trousers+5            
+  9.7-10.1 280.0   Priestess Headpiece+10         Black Witch Robe+5             Black Witch Gloves+5           Saint's Trousers+5            
+ 10.2-13.2 284.0   Manikin Mask+10                Black Witch Robe+5             Black Witch Gloves+5           Saint's Trousers+5            
+ 13.3-13.8 289.0   Warlock Mask+10                Black Witch Robe+5             Black Witch Gloves+5           Saint's Trousers+5            
+ 13.9-21.9 292.0   Archdrake Helm+10              Black Witch Robe+5             Black Witch Gloves+5           Saint's Trousers+5            
+ 22.0-22.5 295.0   Warlock Mask+10                Black Witch Robe+5             Looking Glass Gauntlets+5      Saint's Trousers+5            
+ 22.6+     298.0   Archdrake Helm+10              Black Witch Robe+5             Looking Glass Gauntlets+5      Saint's Trousers+5            
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   113.0   Xanthous             11.3          179
+    7.2    183.0   Desert Sorceress     1.8           56
+    14.1   71.0    Imported             10.4          221
+    18.8   121.0   Hard Leather         14.8          171
+    10.3   164.0   Bone King            5.4           120
+    9.1    105.0   Black Leather        5.3           165
+    17.3   88.0    Bell Keeper          13.6          204
+    38.5   120.0   Drakekeeper          34.5          178
+    37.2   111.0   Alonne Captain       33.3          187
+    29.4   73.0    Gyrm                 25.7          225
+    9.4    135.0   Dragon Acolyte       5.2           139
+    15.9   85.0    Bandit               12.2          207
+    46.1   225.0   Looking Glass        39.6          73
+    14.0   212.0   Lucatiel's           8.0           80
+    29.5   117.0   Benhart's            25.6          181
+    21.9   70.0    Creighton's          18.2          222
+    16.5   55.0    Executioner          12.8          237
+    32.1   79.0    Throne Defender      28.4          219
+    35.1   105.0   Vengarl's            31.3          193
+    6.5    228.0   Saint's              0.0           0
+    30.0   82.0    Catarina             26.3          216
+    8.2    215.0   White Priest         2.1           34
+    34.2   99.0    Drangleic            30.5          199
+    6.5    184.0   Chaos                1.1           44
+    8.4    74.0    Tseldora             4.7           181
+    28.7   84.0    Heide Knight         25.0          214
+    7.1    106.0   Monastery            3.3           129
+    23.1   83.0    Royal Soldier        19.4          215
+    7.6    114.0   Aurous (transparent) 3.7           131
+    32.3   79.0    Mad Warrior          28.6          219
+    6.9    166.0   Manikin              2.0           69
+    13.7   178.0   Jester's             8.3           111
+    39.8   73.0    Old Knight           36.1          225
+    17.9   63.0    Hollow Soldier       14.2          229
+    20.6   87.0    Alva                 16.9          205
+    30.4   81.0    Gyrm Warrior         26.7          217
+    26.8   98.0    Elite Knight         23.1          200
+    17.2   106.0   Infantry             13.4          186
+    17.7   114.0   Traveling Merchant   13.8          178
+    22.9   102.0   Aurous               19.1          196
+    6.5    184.0   Hexer's              1.1           44
+    37.1   95.0    Dragonrider          33.4          203
+    9.1    144.0   Wanderer             4.4           126
+    4.2    115.0   Moon Butterfly       0.3           21
+    6.5    184.0   Black                1.1           44
+    27.5   116.0   Throne Watcher       23.6          182
+    7.0    122.0   Tattered Cloth       3.0           113
+    54.9   96.0    Ironclad             51.2          202
+    30.0   88.0    Faraam               26.3          210
+    50.0   148.0   Havel's              45.3          150
+    8.5    98.0    Rogue                4.8           157
+    11.0   115.0   Judgment             7.1           169
+    36.0   95.0    Steel                32.3          203
+    34.9   71.0    Velstadt's           31.2          227
+    47.4   136.0   Smelter Demon        43.2          162
+    43.9   85.0    Mastodon             40.2          213
+    11.5   152.0   Leather              6.8           132
+    34.0   106.0   Imperious            30.2          192
+    27.1   129.0   King's               23.0          169
+    7.5    154.0   Dingy                2.8           91
+    9.5    78.0    Peasant              5.8           196
+    20.9   134.0   Penal                16.7          158
+    29.6   74.0    Drakeblood           25.9          224
+    26.2   145.0   Insolent             21.5          153
+    32.3   73.0    Syan's               28.6          225
+    33.6   90.0    Sanctum Knight       29.9          208
+    4.5    78.0    Lion Warrior         0.8           60
+    26.9   86.0    Ruin                 23.2          212
+    16.4   121.0   Pate's               12.4          171
+    39.5   67.0    Rusted Mastodon      35.8          231
+    28.1   78.0    Royal Swordsman      24.4          220
+    5.0    75.0    Prisoner's           1.3           92
+    23.1   219.0   Archdrake            17.0          79
+    25.2   78.0    Dark                 21.5          220
+    21.2   123.0   Falconer             17.2          169
+    13.9   104.0   Varangian            10.1          188
+    7.6    157.0   Shadow               2.8           88
+    7.9    108.0   Brigand              4.0           137
+    25.0   90.0    Knight               21.3          208
+    6.8    221.0   Priestess            0.4           14
+    22.9   84.0    Targray's            19.2          211
+    54.9   85.0    Old Ironclad         51.2          213
+    35.3   109.0   Alonne Knight        31.4          189
+    9.7    238.0   Black Witch          2.5           42
+    13.2   155.0   Astrologist's        8.4           129
+    17.2   72.0    Hollow Infantry      13.5          220
+    12.5   175.0   Grave Warden         7.3           109
+
+Results for Dark Defense:
+  Weight   Score   Pieces
+  3.7-3.7  86.0    Black Witch Domino Mask+10     Moon Butterfly Wings+5         Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.8-3.8  107.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Moon Butterfly Cuffs+5         Prisoner's Waistcloth+10      
+  3.9-3.9  113.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Priestess Gloves+10            Prisoner's Waistcloth+10      
+  4.0-4.0  130.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Moon Butterfly Cuffs+5         Lion Warrior Skirt+10         
+  4.1-4.1  142.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Moon Butterfly Cuffs+5         Lion Mage Skirt+10            
+  4.2-4.2  153.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Hexer's Gloves+5               Lion Warrior Skirt+10         
+  4.3-4.5  165.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Hexer's Gloves+5               Lion Mage Skirt+10            
+  4.6-4.6  166.0   Hexer's Hood+5                 Red Lion Warrior Cape+10       Hexer's Gloves+5               Lion Warrior Skirt+10         
+  4.7-4.8  178.0   Hexer's Hood+5                 Red Lion Warrior Cape+10       Hexer's Gloves+5               Lion Mage Skirt+10            
+  4.9-4.9  183.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Priestess Gloves+10            Hexer's Boots+5               
+  5.0-5.2  200.0   Black Witch Domino Mask+10     Red Lion Warrior Cape+10       Hexer's Gloves+5               Hexer's Boots+5               
+  5.3-5.6  218.0   Black Witch Domino Mask+10     Hexer's Robes+5                Hexer's Gloves+5               Lion Mage Skirt+10            
+  5.7-5.7  221.0   Black Witch Domino Mask+10     Lion Mage Robe+10              Hexer's Gloves+5               Hexer's Boots+5               
+  5.8-5.9  231.0   Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Lion Mage Skirt+10            
+  6.0-6.0  236.0   Black Witch Domino Mask+10     Hexer's Robes+5                Priestess Gloves+10            Hexer's Boots+5               
+  6.1-6.4  253.0   Black Witch Domino Mask+10     Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.5-6.8  266.0   Hexer's Hood+5                 Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  6.9-7.3  272.0   Hexer's Hood+5                 Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  7.4-7.7  277.0   Shadow Mask+10                 Hexer's Robes+5                Hexer's Gloves+5               Hexer's Boots+5               
+  7.8-8.6  283.0   Shadow Mask+10                 Hexer's Robes+5                Lion Mage Cuffs+10             Hexer's Boots+5               
+  8.7-9.0  291.0   Hexer's Hood+5                 Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+  9.1-9.5  297.0   Hexer's Hood+5                 Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+  9.6-9.9  302.0   Shadow Mask+10                 Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+ 10.0-11.3 308.0   Shadow Mask+10                 Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 11.4-11.4 309.0   Bone Crown+5                   Black Witch Robe+5             Agdayne's Cuffs+5              Hexer's Boots+5               
+ 11.5-12.5 315.0   Shadow Mask+10                 Black Witch Robe+5             Agdayne's Cuffs+5              Hexer's Boots+5               
+ 12.6-12.9 326.0   Warlock Mask+10                Black Witch Robe+5             Hexer's Gloves+5               Hexer's Boots+5               
+ 13.0-14.4 332.0   Warlock Mask+10                Black Witch Robe+5             Lion Mage Cuffs+10             Hexer's Boots+5               
+ 14.5-17.3 339.0   Warlock Mask+10                Black Witch Robe+5             Agdayne's Cuffs+5              Hexer's Boots+5               
+ 17.4+     341.0   Warlock Mask+10                Black Witch Robe+5             Dark Gauntlets+5               Hexer's Boots+5               
+
+ Comparison to armor sets:
+    Weight Score   Set                  Extra Weight  Foregone Score
+    15.2   142.0   Xanthous             11.1          197
+    7.2    201.0   Desert Sorceress     1.8           71
+    14.1   60.0    Imported             10.4          272
+    18.8   111.0   Hard Leather         14.9          230
+    10.3   255.0   Bone King            3.8           53
+    9.1    120.0   Black Leather        5.1           177
+    17.3   144.0   Bell Keeper          13.1          195
+    38.5   133.0   Drakekeeper          34.4          208
+    37.2   154.0   Alonne Captain       32.9          187
+    29.4   90.0    Gyrm                 25.6          251
+    9.4    145.0   Dragon Acolyte       5.2           152
+    15.9   102.0   Bandit               12.1          237
+    46.1   137.0   Looking Glass        42.0          204
+    14.0   196.0   Lucatiel's           9.0           136
+    29.5   135.0   Benhart's            25.4          206
+    21.9   122.0   Creighton's          17.9          219
+    16.5   184.0   Executioner          11.5          155
+    32.1   132.0   Throne Defender      28.0          209
+    35.1   120.0   Vengarl's            31.1          221
+    6.5    184.0   Saint's              1.5           82
+    30.0   120.0   Catarina             26.0          221
+    8.2    181.0   White Priest         3.3           102
+    34.2   111.0   Drangleic            30.3          230
+    6.5    184.0   Chaos                1.5           82
+    8.4    53.0    Tseldora             4.7           230
+    28.7   171.0   Heide Knight         24.0          170
+    7.1    119.0   Monastery            3.1           153
+    23.1   122.0   Royal Soldier        19.1          219
+    7.6    97.0    Aurous (transparent) 3.8           180
+    32.3   109.0   Mad Warrior          28.4          232
+    6.9    172.0   Manikin              2.2           100
+    13.7   178.0   Jester's             9.0           154
+    39.8   97.0    Old Knight           36.0          244
+    17.9   91.0    Hollow Soldier       14.1          250
+    20.6   123.0   Alva                 16.6          218
+    30.4   89.0    Gyrm Warrior         26.6          252
+    26.8   135.0   Elite Knight         22.7          206
+    17.2   83.0    Infantry             13.5          256
+    17.7   98.0    Traveling Merchant   13.9          243
+    22.9   157.0   Aurous               18.6          184
+    6.5    266.0   Hexer's              0.0           0
+    37.1   94.0    Dragonrider          33.3          247
+    9.1    104.0   Wanderer             5.3           193
+    4.2    95.0    Moon Butterfly       0.4           58
+    6.5    184.0   Black                1.5           82
+    27.5   146.0   Throne Watcher       23.3          195
+    7.0    138.0   Tattered Cloth       2.9           134
+    54.9   134.0   Ironclad             50.8          207
+    30.0   133.0   Faraam               25.9          208
+    50.0   160.0   Havel's              45.7          181
+    8.5    114.0   Rogue                4.5           169
+    11.0   146.0   Judgment             6.8           162
+    36.0   126.0   Steel                32.0          215
+    34.9   251.0   Velstadt's           28.8          90
+    47.4   142.0   Smelter Demon        43.3          199
+    43.9   126.0   Mastodon             39.9          215
+    11.5   124.0   Leather              7.5           191
+    34.0   153.0   Imperious            29.8          188
+    27.1   115.0   King's               23.1          226
+    7.5    154.0   Dingy                3.2           123
+    9.5    56.0    Peasant              5.8           241
+    20.9   181.0   Penal                16.0          160
+    29.6   129.0   Drakeblood           25.6          212
+    26.2   108.0   Insolent             22.3          233
+    32.3   124.0   Syan's               28.3          217
+    33.6   103.0   Sanctum Knight       29.8          238
+    4.5    143.0   Lion Warrior         0.3           22
+    26.9   126.0   Ruin                 22.9          215
+    16.4   112.0   Pate's               12.5          227
+    39.5   101.0   Rusted Mastodon      35.7          240
+    28.1   115.0   Royal Swordsman      24.1          226
+    5.0    59.0    Prisoner's           1.3           141
+    23.1   124.0   Archdrake            19.1          217
+    25.2   244.0   Dark                 19.1          97
+    21.2   121.0   Falconer             17.2          220
+    13.9   105.0   Varangian            10.1          227
+    7.6    204.0   Shadow               2.2           73
+    7.9    123.0   Brigand              3.9           160
+    25.0   126.0   Knight               21.0          215
+    6.8    178.0   Priestess            2.1           88
+    22.9   115.0   Targray's            18.9          226
+    54.9   107.0   Old Ironclad         51.1          234
+    35.3   137.0   Alonne Knight        31.2          204
+    9.7    245.0   Black Witch          3.6           57
+    13.2   193.0   Astrologist's        8.2           139
+    17.2   57.0    Hollow Infantry      13.5          282
+    12.5   186.0   Grave Warden         7.5           129
