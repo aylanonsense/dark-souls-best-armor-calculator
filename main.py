@@ -104,10 +104,14 @@ for armor_piece_list in armor_lists:
 			preconstructed_armor_sets[armor_piece['set']].append(armor_piece)
 print("Found %i armor sets (%i of which have four pieces)" % (len(preconstructed_armor_sets), len([x for x in preconstructed_armor_sets if len(preconstructed_armor_sets[x]) == 4])))
 
+#add None to each list, because you DO have the option of not wearing anything in a slot
+for armor_piece_list in armor_lists:
+	armor_piece_list.append(None)
+
 #crunch numbers and determine ranges
 num_possible_armor_sets = product([len(x) for x in armor_lists])
-min_armor_set_weight = sum(min([y['weight'] for y in x]) for x in armor_lists)
-max_armor_set_weight = sum(max([y['weight'] for y in x]) for x in armor_lists)
+min_armor_set_weight = 0
+max_armor_set_weight = sum(max([y['weight'] for y in x if y is not None]) for x in armor_lists)
 print("Evaluating %i possible mix-and-matched armor sets between %g and %g lbs" % (num_possible_armor_sets, min_armor_set_weight, max_armor_set_weight))
 
 #evaluate every possible mix-and-matched armor set
@@ -119,7 +123,9 @@ for i in range(0, num_possible_armor_sets):
 	armor_pieces = []
 	for armor_piece_list in armor_lists:
 		if len(armor_piece_list) > 0:
-			armor_pieces.append(armor_piece_list[(i / j) % len(armor_piece_list)])
+			armor_piece = armor_piece_list[(i / j) % len(armor_piece_list)]
+			if armor_piece is not None:
+				armor_pieces.append(armor_piece)
 			j *= len(armor_piece_list)
 	weight = sum(x['weight'] for x in armor_pieces)
 	weight_key = str(int(10 * weight))
@@ -154,24 +160,23 @@ for rubric in rubrics:
 	if prev_armor_set is not None:
 		print(" %s+     %s %s" % (str(start_of_range).rjust(4), str(prev_armor_set['score']).ljust(7), " ".join([x['name'].ljust(30) for x in prev_armor_set['pieces']])))
 	print("\n Comparison to armor sets:")
-	print("    Weight Score   Set                  Extra Weight  Foregone Score")
+	print("    Weight Score   Set (# Pieces)                 Extra Weight  Foregone Score")
 	for armor_set_name in preconstructed_armor_sets:
 		armor_set = preconstructed_armor_sets[armor_set_name]
-		if len(armor_set) == 4:
-			better_armor_set = None
-			lighter_armor_set = None
-			weight = sum([x['weight'] for x in armor_set])
-			score = rubric['scoring_func'](armor_set)
-			other_weight = weight
-			while other_weight >= min_armor_set_weight:
-				other_weight_key = str(int(10 * other_weight))
-				if other_weight_key in top_armor_sets[rubric['name']]:
-					other_armor_set = top_armor_sets[rubric['name']][other_weight_key]
-					if other_armor_set['score'] >= score:
-						if better_armor_set is None or other_armor_set['score'] >= better_armor_set['score']:
-							better_armor_set = other_armor_set
-						lighter_armor_set = other_armor_set
-				other_weight -= 0.1
-			extra_weight = weight - sum([x['weight'] for x in lighter_armor_set['pieces']]) if lighter_armor_set is not None else 0.0
-			foregone_score = better_armor_set['score'] - score if better_armor_set is not None else 0.0
-			print("    %s   %s %s %s %i" % (str(weight).ljust(4), str(score).ljust(7), armor_set[0]['set'].ljust(20), str(extra_weight).ljust(13),	foregone_score))
+		better_armor_set = None
+		lighter_armor_set = None
+		weight = sum([x['weight'] for x in armor_set])
+		score = rubric['scoring_func'](armor_set)
+		other_weight = weight
+		while other_weight >= min_armor_set_weight:
+			other_weight_key = str(int(10 * other_weight))
+			if other_weight_key in top_armor_sets[rubric['name']]:
+				other_armor_set = top_armor_sets[rubric['name']][other_weight_key]
+				if other_armor_set['score'] >= score:
+					if better_armor_set is None or other_armor_set['score'] >= better_armor_set['score']:
+						better_armor_set = other_armor_set
+					lighter_armor_set = other_armor_set
+			other_weight -= 0.1
+		extra_weight = weight - sum([x['weight'] for x in lighter_armor_set['pieces']]) if lighter_armor_set is not None else 0.0
+		foregone_score = better_armor_set['score'] - score if better_armor_set is not None else 0.0
+		print("    %s   %s %s %s %i" % (str(weight).ljust(4), str(score).ljust(7), (armor_set[0]['set'] + ' (' + str(len(armor_set)) + ')').ljust(30), str(int(extra_weight)).ljust(13),	foregone_score))
