@@ -179,4 +179,6 @@ for rubric in rubrics:
 			other_weight -= 0.1
 		extra_weight = weight - sum([x['weight'] for x in lighter_armor_set['pieces']]) if lighter_armor_set is not None else 0.0
 		foregone_score = better_armor_set['score'] - score if better_armor_set is not None else 0.0
-		print("    %s   %s %s %s %i" % (str(weight).ljust(4), str(score).ljust(7), (armor_set[0]['set'] + ' (' + str(len(armor_set)) + ')').ljust(30), str(int(extra_weight)).ljust(13),	foregone_score))
+		if extra_weight < 0:
+			extra_weight = 0
+		print("    %s   %s %s %s %i" % (str(weight).ljust(4), str(score).ljust(7), (armor_set[0]['set'] + ' (' + str(len(armor_set)) + ')').ljust(30), ("{0:.1f}".format(extra_weight)).ljust(13),	foregone_score))
